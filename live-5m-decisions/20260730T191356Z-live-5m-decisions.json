@@ -1,0 +1,281 @@
+{
+  "decisions": [
+    {
+      "changed": false,
+      "direction": "long",
+      "evidence_against": [
+        "5-minute close 742.24 is below failure level 743.56.",
+        "5-minute TMS is higher highs / higher lows."
+      ],
+      "evidence_for": [
+        "Price is near 30 SMA."
+      ],
+      "failure_level": 743.5550000000001,
+      "five_min_sma_30": 740.098,
+      "five_min_sma_8": 740.935625,
+      "five_min_tms": "higher highs / higher lows",
+      "missing_confirmation": [],
+      "previous_state": "NEGATED",
+      "price": 742.24,
+      "proposal_path": null,
+      "reason": "Long idea negated: failure level or 5-minute structure broke.",
+      "state": "NEGATED",
+      "symbol": "SPY",
+      "trigger_level": 743.5550000000001
+    },
+    {
+      "changed": false,
+      "direction": "short",
+      "evidence_against": [
+        "Price is above both 5-minute 8 and 30 SMA.",
+        "5-minute TMS is higher highs / higher lows."
+      ],
+      "evidence_for": [
+        "Price is near 20-day low."
+      ],
+      "failure_level": 686.78,
+      "five_min_sma_30": 682.1833333333333,
+      "five_min_sma_8": 682.754375,
+      "five_min_tms": "higher highs / higher lows",
+      "missing_confirmation": [],
+      "previous_state": "NEGATED",
+      "price": 685.02,
+      "proposal_path": null,
+      "reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
+      "state": "NEGATED",
+      "symbol": "QQQ",
+      "trigger_level": 686.78
+    },
+    {
+      "changed": false,
+      "direction": "long",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 20-day low.",
+        "5-minute close 292.29 is above trigger 290.68.",
+        "5-minute TMS is higher highs / higher lows.",
+        "Price is above the 5-minute 8 SMA 291.83."
+      ],
+      "failure_level": 290.68,
+      "five_min_sma_30": 291.43649999999997,
+      "five_min_sma_8": 291.835,
+      "five_min_tms": "higher highs / higher lows",
+      "missing_confirmation": [],
+      "previous_state": "CONFIRMED_LONG",
+      "price": 292.285,
+      "proposal_path": null,
+      "reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
+      "state": "CONFIRMED_LONG",
+      "symbol": "IWM",
+      "trigger_level": 290.68
+    },
+    {
+      "changed": false,
+      "direction": "long",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 30 SMA.",
+        "5-minute close 521.91 is above trigger 519.18.",
+        "5-minute TMS is higher highs / higher lows.",
+        "Price is above the 5-minute 8 SMA 521.33."
+      ],
+      "failure_level": 519.185,
+      "five_min_sma_30": 520.8373333333334,
+      "five_min_sma_8": 521.3325,
+      "five_min_tms": "higher highs / higher lows",
+      "missing_confirmation": [],
+      "previous_state": "CONFIRMED_LONG",
+      "price": 521.91,
+      "proposal_path": null,
+      "reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
+      "state": "CONFIRMED_LONG",
+      "symbol": "DIA",
+      "trigger_level": 519.185
+    },
+    {
+      "changed": false,
+      "direction": "long",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 30 SMA.",
+        "5-minute close 215.13 is above trigger 211.82.",
+        "5-minute TMS is higher highs / higher lows.",
+        "Price is above the 5-minute 8 SMA 214.97."
+      ],
+      "failure_level": 211.82433333333333,
+      "five_min_sma_30": 214.74383333333333,
+      "five_min_sma_8": 214.971875,
+      "five_min_tms": "higher highs / higher lows",
+      "missing_confirmation": [],
+      "previous_state": "CONFIRMED_LONG",
+      "price": 215.13,
+      "proposal_path": null,
+      "reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
+      "state": "CONFIRMED_LONG",
+      "symbol": "RSP",
+      "trigger_level": 211.82433333333333
+    },
+    {
+      "changed": true,
+      "direction": "short",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 83.79,
+      "five_min_sma_30": 82.76816666666667,
+      "five_min_sma_8": 82.7775,
+      "five_min_tms": "higher highs / higher lows",
+      "missing_confirmation": [
+        "Need a 5-minute close below/fail under 83.79 with LH/LL structure."
+      ],
+      "previous_state": "NEGATED",
+      "price": 82.775,
+      "proposal_path": null,
+      "reason": "Short candidate is still waiting for 5-minute confirmation.",
+      "state": "PENDING",
+      "symbol": "TLT",
+      "trigger_level": 83.79
+    },
+    {
+      "changed": true,
+      "direction": "short",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 93.62875,
+      "five_min_sma_30": 93.22716666666666,
+      "five_min_sma_8": 93.22375,
+      "five_min_tms": "higher highs / higher lows",
+      "missing_confirmation": [
+        "Need a 5-minute close below/fail under 93.63 with LH/LL structure."
+      ],
+      "previous_state": "NEGATED",
+      "price": 93.2,
+      "proposal_path": null,
+      "reason": "Short candidate is still waiting for 5-minute confirmation.",
+      "state": "PENDING",
+      "symbol": "IEF",
+      "trigger_level": 93.62875
+    },
+    {
+      "changed": false,
+      "direction": "short",
+      "evidence_against": [
+        "5-minute close 82.01 is above reclaim level 81.93.",
+        "5-minute TMS is range/mixed."
+      ],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 81.93375,
+      "five_min_sma_30": 82.01883333333333,
+      "five_min_sma_8": 82.016875,
+      "five_min_tms": "range/mixed",
+      "missing_confirmation": [],
+      "previous_state": "NEGATED",
+      "price": 82.01,
+      "proposal_path": null,
+      "reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
+      "state": "NEGATED",
+      "symbol": "SHY",
+      "trigger_level": 81.93375
+    },
+    {
+      "changed": false,
+      "direction": "short",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet.",
+        "5-minute close 376.36 is above reclaim level 370.97.",
+        "5-minute TMS is lower highs / lower lows."
+      ],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 370.966875,
+      "five_min_sma_30": 376.4425,
+      "five_min_sma_8": 376.2575,
+      "five_min_tms": "lower highs / lower lows",
+      "missing_confirmation": [],
+      "previous_state": "NEGATED",
+      "price": 376.36,
+      "proposal_path": null,
+      "reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
+      "state": "NEGATED",
+      "symbol": "GLD",
+      "trigger_level": 370.966875
+    },
+    {
+      "changed": false,
+      "direction": "short",
+      "evidence_against": [
+        "5-minute close 53.36 is above reclaim level 52.23.",
+        "5-minute TMS is higher highs / higher lows."
+      ],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 52.225,
+      "five_min_sma_30": 53.13133333333334,
+      "five_min_sma_8": 53.238749999999996,
+      "five_min_tms": "higher highs / higher lows",
+      "missing_confirmation": [],
+      "previous_state": "NEGATED",
+      "price": 53.36,
+      "proposal_path": null,
+      "reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
+      "state": "NEGATED",
+      "symbol": "SLV",
+      "trigger_level": 52.225
+    },
+    {
+      "changed": true,
+      "direction": "long",
+      "evidence_against": [],
+      "evidence_for": [
+        "Recent structure is higher highs / higher lows and price is above the 8 SMA."
+      ],
+      "failure_level": 126.5,
+      "five_min_sma_30": 127.69233333333334,
+      "five_min_sma_8": 127.385,
+      "five_min_tms": "lower highs / lower lows",
+      "missing_confirmation": [
+        "Need a 5-minute close above/hold over 126.50 with HH/HL structure."
+      ],
+      "previous_state": "NEGATED",
+      "price": 127.48,
+      "proposal_path": null,
+      "reason": "Long candidate is still waiting for 5-minute confirmation.",
+      "state": "PENDING",
+      "symbol": "USO",
+      "trigger_level": 126.5
+    },
+    {
+      "changed": false,
+      "direction": "short",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314.",
+        "5-minute close 10.00 is below failure/breakdown level 10.19.",
+        "5-minute TMS is lower highs / lower lows.",
+        "Price is below the 5-minute 8 SMA 10.02."
+      ],
+      "failure_level": 10.19,
+      "five_min_sma_30": 10.045833333333333,
+      "five_min_sma_8": 10.015,
+      "five_min_tms": "lower highs / lower lows",
+      "missing_confirmation": [],
+      "previous_state": "CONFIRMED_SHORT",
+      "price": 10.0,
+      "proposal_path": null,
+      "reason": "Short confirmation: level failed with 5-minute downside structure.",
+      "state": "CONFIRMED_SHORT",
+      "symbol": "UNG",
+      "trigger_level": 10.19
+    }
+  ],
+  "market_is_open": true,
+  "mode": "read-only research; no orders placed",
+  "scan_time": "2026-07-30T19:13:56Z"
+}

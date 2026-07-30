@@ -1,0 +1,3443 @@
+{
+  "account_state": null,
+  "end": "2026-07-21T01:01:35Z",
+  "failed_symbols": [],
+  "feed": "iex",
+  "limited_results": [
+    {
+      "bars_count": 25,
+      "category": "limited_history",
+      "directional_bias": "watch-only",
+      "evidence_against": [
+        "Not enough bars for 30, 200, Pi/314, or mature TMS analysis."
+      ],
+      "evidence_for": [
+        "Symbol has tradable historical bars but limited daily history."
+      ],
+      "failure_level": null,
+      "fetch_error": null,
+      "hemisphere": "unknown",
+      "hourly_context": null,
+      "last_close": 119.83,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 119.695,
+      "major_breakout_level": 225.56,
+      "missing_confirmation": [
+        "Need breakout, breakdown, or clearer range behavior as more bars accumulate."
+      ],
+      "nearest_level_name": "listing range",
+      "nearest_level_value": 119.83,
+      "ratios": {
+        "first_day_high": 176.49,
+        "first_day_low": 150.0
+      },
+      "score": 0.25,
+      "setup_family": "limited-history / new listing watch",
+      "sma": {
+        "8": 135.368125
+      },
+      "symbol": "SPCX",
+      "tms": "limited",
+      "trigger_level": null,
+      "twenty_day_high": 225.56,
+      "twenty_day_low": 119.695,
+      "verdict": "possibly fits but limited history"
+    }
+  ],
+  "mature_results": [
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 30 SMA."
+      ],
+      "failure_level": 743.5550000000001,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 742.15,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 716.58,
+      "major_breakout_level": 755.54,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "30 SMA",
+      "nearest_level_value": 743.5550000000001,
+      "ratios": {
+        "200": 1.0647054796036237,
+        "30": 0.998110428952801,
+        "314": 1.1123617063531035,
+        "8": 0.98975932837998
+      },
+      "score": 6.060685171461284,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 697.047225,
+        "30": 743.5550000000001,
+        "314": 667.1840605095542,
+        "8": 749.82875
+      },
+      "symbol": "SPY",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 743.5550000000001,
+      "twenty_day_high": 755.54,
+      "twenty_day_low": 716.58,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 20-day low."
+      ],
+      "failure_level": 686.78,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 695.97,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 686.78,
+      "major_breakout_level": 745.32,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 686.78,
+      "ratios": {
+        "200": 1.0852660595308128,
+        "30": 0.970317822992551,
+        "314": 1.1480501313298117,
+        "8": 0.9776103875581075
+      },
+      "score": 4.929540784803935,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 641.28975,
+        "30": 717.2598333333334,
+        "314": 606.2191719745223,
+        "8": 711.909375
+      },
+      "symbol": "QQQ",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 686.78,
+      "twenty_day_high": 745.32,
+      "twenty_day_low": 686.78,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 20-day low."
+      ],
+      "failure_level": 290.68,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 292.32,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 290.68,
+      "major_breakout_level": 302.71,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 290.68,
+      "ratios": {
+        "200": 1.108647933644205,
+        "30": 0.99440973364025,
+        "314": 1.1820137513267934,
+        "8": 0.9913815396224496
+      },
+      "score": 5.688970990695133,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 263.672525,
+        "30": 293.9633333333333,
+        "314": 247.30676751592355,
+        "8": 294.86125
+      },
+      "symbol": "IWM",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 290.68,
+      "twenty_day_high": 302.71,
+      "twenty_day_low": 290.68,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 30 SMA."
+      ],
+      "failure_level": 519.185,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 517.88,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 513.005,
+      "major_breakout_level": 532.505,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "30 SMA",
+      "nearest_level_value": 519.185,
+      "ratios": {
+        "200": 1.0611407355112148,
+        "30": 0.9974864451014572,
+        "314": 1.1033318365709133,
+        "8": 0.9891547380723009
+      },
+      "score": 5.998011122267716,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 488.040825,
+        "30": 519.185,
+        "314": 469.37828025477705,
+        "8": 523.558125
+      },
+      "symbol": "DIA",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 519.185,
+      "twenty_day_high": 532.505,
+      "twenty_day_low": 513.005,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 30 SMA."
+      ],
+      "failure_level": 211.82433333333333,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 212.39,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 207.66,
+      "major_breakout_level": 216.345,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "30 SMA",
+      "nearest_level_value": 211.82433333333333,
+      "ratios": {
+        "200": 1.0698109710150183,
+        "30": 1.0026704517737182,
+        "314": 1.1045664788662646,
+        "8": 0.9940850558438594
+      },
+      "score": 5.983666054585123,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 198.53040000000001,
+        "30": 211.82433333333333,
+        "314": 192.28358280254776,
+        "8": 213.65375
+      },
+      "symbol": "RSP",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 211.82433333333333,
+      "twenty_day_high": 216.345,
+      "twenty_day_low": 207.66,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 83.79,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 83.92,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 83.79,
+      "major_breakout_level": 87.79,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 83.79,
+      "ratios": {
+        "200": 0.9586644497360874,
+        "30": 0.9819319987909162,
+        "314": 0.9603284614539398,
+        "8": 0.9961939384946397
+      },
+      "score": 5.995090562440425,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 87.53845,
+        "30": 85.46416666666667,
+        "314": 87.38676751592357,
+        "8": 84.240625
+      },
+      "symbol": "TLT",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 83.79,
+      "twenty_day_high": 87.79,
+      "twenty_day_low": 83.79,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 93.62875,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 93.54,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 93.27,
+      "major_breakout_level": 95.06,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 93.62875,
+      "ratios": {
+        "200": 0.9770813116747324,
+        "30": 0.9946496201212565,
+        "314": 0.9794297334005148,
+        "8": 0.9990521073922274
+      },
+      "score": 6.055120803934156,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 95.7341,
+        "30": 94.04316666666666,
+        "314": 95.5045541401274,
+        "8": 93.62875
+      },
+      "symbol": "IEF",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 93.62875,
+      "twenty_day_high": 95.06,
+      "twenty_day_low": 93.27,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 81.93375,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": "hourly TMS=lower highs / lower lows; close below hourly 8 SMA",
+      "last_close": 81.95,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 81.795,
+      "major_breakout_level": 82.205,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 81.93375,
+      "ratios": {
+        "200": 0.9922574856715961,
+        "30": 0.9996421862420609,
+        "314": 0.9920364672856733,
+        "8": 1.000198330968618
+      },
+      "score": 6.130170835875535,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 82.58945,
+        "30": 81.97933333333334,
+        "314": 82.60785031847135,
+        "8": 81.93375
+      },
+      "symbol": "SHY",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 81.93375,
+      "twenty_day_high": 82.205,
+      "twenty_day_low": 81.795,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 370.966875,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 367.58,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 363.32,
+      "major_breakout_level": 386.36,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 370.966875,
+      "ratios": {
+        "200": 0.8933006582010726,
+        "30": 0.9706769713547568,
+        "314": 0.9781577483242223,
+        "8": 0.9908701417073963
+      },
+      "score": 4.478601936993299,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 411.48519999999996,
+        "30": 378.68416666666667,
+        "314": 375.78805732484074,
+        "8": 370.966875
+      },
+      "symbol": "GLD",
+      "tms": "range/mixed",
+      "trigger_level": 370.966875,
+      "twenty_day_high": 386.36,
+      "twenty_day_low": 363.32,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 52.225,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 50.985,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 49.61,
+      "major_breakout_level": 60.31,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 52.225,
+      "ratios": {
+        "200": 0.806785639263093,
+        "30": 0.9121104872878197,
+        "314": 0.9710056146143734,
+        "8": 0.976256582096697
+      },
+      "score": 3.15,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 63.195225,
+        "30": 55.89783333333333,
+        "314": 52.50742038216561,
+        "8": 52.225
+      },
+      "symbol": "SLV",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 52.225,
+      "twenty_day_high": 60.31,
+      "twenty_day_low": 49.61,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "long-bias",
+      "evidence_against": [],
+      "evidence_for": [
+        "Recent structure is higher highs / higher lows and price is above the 8 SMA."
+      ],
+      "failure_level": 126.5,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 125.51,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 102.485,
+      "major_breakout_level": 126.5,
+      "missing_confirmation": [
+        "Next session must hold the 8 SMA or break higher with structure."
+      ],
+      "nearest_level_name": "20-day high",
+      "nearest_level_value": 126.5,
+      "ratios": {
+        "200": 1.2857457499500597,
+        "30": 1.0784807951192965,
+        "314": 1.4159506398701684,
+        "8": 1.061636629889457
+      },
+      "score": 5.4612182296231415,
+      "setup_family": "trend continuation / 8-train",
+      "sma": {
+        "200": 97.6165,
+        "30": 116.37666666666668,
+        "314": 88.64009554140128,
+        "8": 118.223125
+      },
+      "symbol": "USO",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 126.5,
+      "twenty_day_high": 126.5,
+      "twenty_day_low": 102.485,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 10.19,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 10.29,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 10.19,
+      "major_breakout_level": 12.11,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 10.19,
+      "ratios": {
+        "200": 0.8400205719323738,
+        "30": 0.9107403637651016,
+        "314": 0.7791196906728011,
+        "8": 0.9791257805530775
+      },
+      "score": 5.178182701652093,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 12.2497,
+        "30": 11.298499999999999,
+        "314": 13.207213375796178,
+        "8": 10.509375
+      },
+      "symbol": "UNG",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 10.19,
+      "twenty_day_high": 12.11,
+      "twenty_day_low": 10.19,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 8 SMA."
+      ],
+      "failure_level": 28.369374999999998,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": "hourly TMS=higher highs / higher lows; close above hourly 8 SMA",
+      "last_close": 28.4,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 28.23,
+      "major_breakout_level": 28.55,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 28.369374999999998,
+      "ratios": {
+        "200": 1.025654915875531,
+        "30": 1.0043439052710372,
+        "314": 1.029688885604493,
+        "8": 1.001079509153797
+      },
+      "score": 6.142165492957744,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 27.689625,
+        "30": 28.27716666666667,
+        "314": 27.581146496815286,
+        "8": 28.369374999999998
+      },
+      "symbol": "UUP",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 28.369374999999998,
+      "twenty_day_high": 28.55,
+      "twenty_day_low": 28.23,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 105.448125,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": "hourly TMS=lower highs / lower lows; close below hourly 8 SMA",
+      "last_close": 105.36,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 104.68,
+      "major_breakout_level": 105.94,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 105.448125,
+      "ratios": {
+        "200": 0.9807722650710189,
+        "30": 0.9964266968461304,
+        "314": 0.9832943009094487,
+        "8": 0.999164281014954
+      },
+      "score": 6.066358200455577,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 107.42555,
+        "30": 105.73783333333334,
+        "314": 107.15001592356688,
+        "8": 105.448125
+      },
+      "symbol": "FXE",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 105.448125,
+      "twenty_day_high": 105.94,
+      "twenty_day_low": 104.68,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 56.39,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 56.455,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 56.39,
+      "major_breakout_level": 57.05,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 56.39,
+      "ratios": {
+        "200": 0.9651450239170647,
+        "30": 0.9940077236392661,
+        "314": 0.9386308713176192,
+        "8": 0.9988168297672361
+      },
+      "score": 6.034864051014086,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 58.4938,
+        "30": 56.79533333333333,
+        "314": 60.14611464968153,
+        "8": 56.521875
+      },
+      "symbol": "FXY",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 56.39,
+      "twenty_day_high": 57.05,
+      "twenty_day_low": 56.39,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 637,
+      "category": "mature",
+      "directional_bias": "long-bias",
+      "evidence_against": [],
+      "evidence_for": [
+        "Recent structure is higher highs / higher lows and price is above the 8 SMA."
+      ],
+      "failure_level": 129.25,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": "hourly TMS=higher highs / higher lows; close above hourly 8 SMA",
+      "last_close": 129.25,
+      "last_timestamp": "2026-07-17T04:00:00Z",
+      "major_breakdown_level": 126.49,
+      "major_breakout_level": 129.25,
+      "missing_confirmation": [
+        "Next session must hold the 8 SMA or break higher with structure."
+      ],
+      "nearest_level_name": "20-day high",
+      "nearest_level_value": 129.25,
+      "ratios": {
+        "200": 1.0031012709312503,
+        "30": 1.0083056823973622,
+        "314": 1.0017062660417515,
+        "8": 1.0034450968023678
+      },
+      "score": 6.25,
+      "setup_family": "trend continuation / 8-train",
+      "sma": {
+        "200": 128.8504,
+        "30": 128.18533333333332,
+        "314": 129.02984076433123,
+        "8": 128.80625
+      },
+      "symbol": "FXB",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 129.25,
+      "twenty_day_high": 129.25,
+      "twenty_day_low": 126.49,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 69.40125,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 69.53,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 68.64,
+      "major_breakout_level": 69.77,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 69.40125,
+      "ratios": {
+        "200": 0.9852628595720562,
+        "30": 1.0021716361260318,
+        "314": 0.9833789985600028,
+        "8": 1.0018551539057292
+      },
+      "score": 5.964828131741699,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 70.57,
+        "30": 69.37933333333334,
+        "314": 70.70519108280254,
+        "8": 69.40125
+      },
+      "symbol": "FXC",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 69.40125,
+      "twenty_day_high": 69.77,
+      "twenty_day_low": 68.64,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 637,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is near 30 SMA."
+      ],
+      "failure_level": 69.2475,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 69.37,
+      "last_timestamp": "2026-07-17T04:00:00Z",
+      "major_breakdown_level": 68.24,
+      "major_breakout_level": 69.59,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "30 SMA",
+      "nearest_level_value": 69.2475,
+      "ratios": {
+        "200": 1.0187851827483556,
+        "30": 1.0017690169320193,
+        "314": 1.0391897039870024,
+        "8": 1.00511650230469
+      },
+      "score": 5.323410696266395,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 68.0909,
+        "30": 69.2475,
+        "314": 66.75393312101912,
+        "8": 69.016875
+      },
+      "symbol": "FXA",
+      "tms": "range/mixed",
+      "trigger_level": 69.2475,
+      "twenty_day_high": 69.59,
+      "twenty_day_low": 68.24,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 20.79875,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 21.29,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 20.05,
+      "major_breakout_level": 23.36,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 20.79875,
+      "ratios": {
+        "200": 0.7490847549465454,
+        "30": 0.9650441575317109,
+        "314": 0.6131383781741205,
+        "8": 1.0236192078850892
+      },
+      "score": 3.15,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 28.421350000000004,
+        "30": 22.06116666666667,
+        "314": 34.72299363057325,
+        "8": 20.79875
+      },
+      "symbol": "VIXY",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 20.79875,
+      "twenty_day_high": 23.36,
+      "twenty_day_low": 20.05,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 23.961875,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 24.73,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 22.66,
+      "major_breakout_level": 28.74,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 23.961875,
+      "ratios": {
+        "200": 0.7455110692416392,
+        "30": 0.9399348798317518,
+        "314": 0.8878575626399208,
+        "8": 1.0320561308328335
+      },
+      "score": 3.15,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 33.171875,
+        "30": 26.310333333333332,
+        "314": 27.853566878980892,
+        "8": 23.961875
+      },
+      "symbol": "UVXY",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 23.961875,
+      "twenty_day_high": 28.74,
+      "twenty_day_low": 22.66,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 8 SMA."
+      ],
+      "failure_level": 57.883125,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 57.16,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 54.66,
+      "major_breakout_level": 58.95,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 57.883125,
+      "ratios": {
+        "200": 1.1006383163083557,
+        "30": 1.013861667124879,
+        "314": 1.1659747546584285,
+        "8": 0.9875071534233855
+      },
+      "score": 3.9849107767669643,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 51.9335,
+        "30": 56.3785,
+        "314": 49.023359872611465,
+        "8": 57.883125
+      },
+      "symbol": "SVXY",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 57.883125,
+      "twenty_day_high": 58.95,
+      "twenty_day_low": 54.66,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 171.395,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 175.75,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 171.395,
+      "major_breakout_level": 194.26,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 171.395,
+      "ratios": {
+        "200": 0.9393673768266217,
+        "30": 0.9581868868785188,
+        "314": 0.8389524598673544,
+        "8": 0.972102188267017
+      },
+      "score": 3.15,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 187.09400000000002,
+        "30": 183.41933333333333,
+        "314": 209.48743630573247,
+        "8": 180.79375
+      },
+      "symbol": "XLK",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 171.395,
+      "twenty_day_high": 194.26,
+      "twenty_day_low": 171.395,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 8 SMA."
+      ],
+      "failure_level": 56.1325,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": "hourly TMS=higher highs / higher lows; close below hourly 8 SMA",
+      "last_close": 56.05,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 53.21,
+      "major_breakout_level": 56.935,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 56.1325,
+      "ratios": {
+        "200": 1.0638171676935524,
+        "30": 1.0298986026085866,
+        "314": 1.07078821699163,
+        "8": 0.9985302632164966
+      },
+      "score": 6.102809991079388,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 52.687625,
+        "30": 54.42283333333333,
+        "314": 52.3446178343949,
+        "8": 56.1325
+      },
+      "symbol": "XLF",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 56.1325,
+      "twenty_day_high": 56.935,
+      "twenty_day_low": 53.21,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 58.38,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 57.955,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 52.63,
+      "major_breakout_level": 58.38,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "20-day high",
+      "nearest_level_value": 58.38,
+      "ratios": {
+        "200": 0.9324359980950665,
+        "30": 1.044529086288622,
+        "314": 0.8192251428916135,
+        "8": 1.0241434914183474
+      },
+      "score": 5.416672418255536,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 62.154399999999995,
+        "30": 55.48433333333333,
+        "314": 70.74367834394904,
+        "8": 56.58875
+      },
+      "symbol": "XLE",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 58.38,
+      "twenty_day_high": 58.38,
+      "twenty_day_low": 52.63,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 116.14783333333334,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 114.64,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 113.13,
+      "major_breakout_level": 119.18,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "30 SMA",
+      "nearest_level_value": 116.14783333333334,
+      "ratios": {
+        "200": 0.7937828193172977,
+        "30": 0.9870179813944011,
+        "314": 0.6673322632251166,
+        "8": 0.9857795453324018
+      },
+      "score": 4.084723191439866,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 144.422375,
+        "30": 116.14783333333334,
+        "314": 171.78848726114649,
+        "8": 116.29375
+      },
+      "symbol": "XLY",
+      "tms": "range/mixed",
+      "trigger_level": 116.14783333333334,
+      "twenty_day_high": 119.18,
+      "twenty_day_low": 113.13,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "long-bias",
+      "evidence_against": [],
+      "evidence_for": [
+        "Recent structure is higher highs / higher lows and price is above the 8 SMA."
+      ],
+      "failure_level": 84.3275,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 84.84,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 82.155,
+      "major_breakout_level": 87.43,
+      "missing_confirmation": [
+        "Next session must hold the 8 SMA or break higher with structure."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 84.3275,
+      "ratios": {
+        "200": 1.034231489752313,
+        "30": 1.00683167651003,
+        "314": 1.0387017359030257,
+        "8": 1.0060774954789364
+      },
+      "score": 4.645921735030642,
+      "setup_family": "trend continuation / 8-train",
+      "sma": {
+        "200": 82.03192499999999,
+        "30": 84.26433333333333,
+        "314": 81.67888535031847,
+        "8": 84.3275
+      },
+      "symbol": "XLP",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 84.3275,
+      "twenty_day_high": 87.43,
+      "twenty_day_low": 82.155,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is near 20-day low."
+      ],
+      "failure_level": 177.27,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 178.14,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 177.27,
+      "major_breakout_level": 186.44,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 177.27,
+      "ratios": {
+        "200": 1.0725789566138078,
+        "30": 0.9907252749697362,
+        "314": 1.121559774440726,
+        "8": 0.9885648287845837
+      },
+      "score": 5.011620074099037,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 166.085675,
+        "30": 179.80766666666665,
+        "314": 158.83237261146496,
+        "8": 180.200625
+      },
+      "symbol": "XLI",
+      "tms": "range/mixed",
+      "trigger_level": 177.27,
+      "twenty_day_high": 186.44,
+      "twenty_day_low": 177.27,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 8 SMA."
+      ],
+      "failure_level": 160.40437500000002,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 159.3,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 149.07,
+      "major_breakout_level": 165.595,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 160.40437500000002,
+      "ratios": {
+        "200": 1.051039930775198,
+        "30": 1.013944656316468,
+        "314": 1.0948107338737398,
+        "8": 0.9931150568679937
+      },
+      "score": 4.556732580037663,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 151.564175,
+        "30": 157.10916666666665,
+        "314": 145.50460191082803,
+        "8": 160.40437500000002
+      },
+      "symbol": "XLV",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 160.40437500000002,
+      "twenty_day_high": 165.595,
+      "twenty_day_low": 149.07,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 45.05833333333333,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 44.93,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 44.43,
+      "major_breakout_level": 46.31,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "30 SMA",
+      "nearest_level_value": 45.05833333333333,
+      "ratios": {
+        "200": 0.8146096699770194,
+        "30": 0.997151840207139,
+        "314": 0.6893095847267428,
+        "8": 0.9911074958984186
+      },
+      "score": 5.864370502262786,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 55.155249999999995,
+        "30": 45.05833333333333,
+        "314": 65.18116242038217,
+        "8": 45.333125
+      },
+      "symbol": "XLU",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 45.05833333333333,
+      "twenty_day_high": 46.31,
+      "twenty_day_low": 44.43,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 49.89,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 50.015,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 49.89,
+      "major_breakout_level": 52.18,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 49.89,
+      "ratios": {
+        "200": 0.8515760712487299,
+        "30": 0.9787639309721754,
+        "314": 0.7196650207929979,
+        "8": 0.9896366649353219
+      },
+      "score": 5.9000749775067485,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 58.732275,
+        "30": 51.100166666666674,
+        "314": 69.49761146496816,
+        "8": 50.53875
+      },
+      "symbol": "XLB",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 49.89,
+      "twenty_day_high": 52.18,
+      "twenty_day_low": 49.89,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "long-bias",
+      "evidence_against": [],
+      "evidence_for": [
+        "Recent structure is higher highs / higher lows and price is above the 8 SMA."
+      ],
+      "failure_level": 44.815625,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 45.24,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 43.49,
+      "major_breakout_level": 45.94,
+      "missing_confirmation": [
+        "Next session must hold the 8 SMA or break higher with structure."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 44.815625,
+      "ratios": {
+        "200": 1.0648107013004744,
+        "30": 1.0132403608903555,
+        "314": 1.0724555400871534,
+        "8": 1.009469353601562
+      },
+      "score": 5.3119473916887605,
+      "setup_family": "trend continuation / 8-train",
+      "sma": {
+        "200": 42.486425,
+        "30": 44.64883333333333,
+        "314": 42.18356687898089,
+        "8": 44.815625
+      },
+      "symbol": "XLRE",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 44.815625,
+      "twenty_day_high": 45.94,
+      "twenty_day_low": 43.49,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only",
+      "evidence_against": [
+        "No precise Jenkins/CycleEdge location is close enough yet."
+      ],
+      "evidence_for": [],
+      "failure_level": 536.9,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 558.21,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 536.9,
+      "major_breakout_level": 671.75,
+      "missing_confirmation": [
+        "Need price to move into a clearer location or break structure."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 536.9,
+      "ratios": {
+        "200": 1.2662191728960457,
+        "30": 0.9192523262908536,
+        "314": 1.471426781532991,
+        "8": 0.9545885954186726
+      },
+      "score": 1.25,
+      "setup_family": "range/mixed TMS needing confirmation",
+      "sma": {
+        "200": 440.84785000000005,
+        "30": 607.2435,
+        "314": 379.36648089171973,
+        "8": 584.765
+      },
+      "symbol": "SMH",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 536.9,
+      "twenty_day_high": 671.75,
+      "twenty_day_low": 536.9,
+      "verdict": "does not yet fit"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only",
+      "evidence_against": [
+        "No precise Jenkins/CycleEdge location is close enough yet."
+      ],
+      "evidence_for": [],
+      "failure_level": 498.665,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 524.34,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 498.665,
+      "major_breakout_level": 655.85,
+      "missing_confirmation": [
+        "Need price to move into a clearer location or break structure."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 498.665,
+      "ratios": {
+        "200": 1.3369228362682581,
+        "30": 0.9011464120879263,
+        "314": 1.5715183491545215,
+        "8": 0.9502904866061264
+      },
+      "score": 1.25,
+      "setup_family": "range/mixed TMS needing confirmation",
+      "sma": {
+        "200": 392.19915000000003,
+        "30": 581.8588333333333,
+        "314": 333.65184713375794,
+        "8": 551.768125
+      },
+      "symbol": "SOXX",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 498.665,
+      "twenty_day_high": 655.85,
+      "twenty_day_low": 498.665,
+      "verdict": "does not yet fit"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only",
+      "evidence_against": [
+        "No precise Jenkins/CycleEdge location is close enough yet."
+      ],
+      "evidence_for": [],
+      "failure_level": 148.45183333333335,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 150.905,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 143.42,
+      "major_breakout_level": 165.675,
+      "missing_confirmation": [
+        "Need price to move into a clearer location or break structure."
+      ],
+      "nearest_level_name": "30 SMA",
+      "nearest_level_value": 148.45183333333335,
+      "ratios": {
+        "200": 1.1888370403822903,
+        "30": 1.0165250008139564,
+        "314": 1.3463379803667324,
+        "8": 0.9677080619626861
+      },
+      "score": 1.25,
+      "setup_family": "range/mixed TMS needing confirmation",
+      "sma": {
+        "200": 126.934975,
+        "30": 148.45183333333335,
+        "314": 112.08552547770702,
+        "8": 155.940625
+      },
+      "symbol": "XBI",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 148.45183333333335,
+      "twenty_day_high": 165.675,
+      "twenty_day_low": 143.42,
+      "verdict": "does not yet fit"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "long-bias",
+      "evidence_against": [],
+      "evidence_for": [
+        "Recent structure is higher highs / higher lows and price is above the 8 SMA."
+      ],
+      "failure_level": 75.76,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 75.91,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 71.38,
+      "major_breakout_level": 78.095,
+      "missing_confirmation": [
+        "Next session must hold the 8 SMA or break higher with structure."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 75.76,
+      "ratios": {
+        "200": 1.1275773315513322,
+        "30": 1.0273750124062762,
+        "314": 1.1721113527766154,
+        "8": 1.0019799366420274
+      },
+      "score": 5.052397576076944,
+      "setup_family": "trend continuation / 8-train",
+      "sma": {
+        "200": 67.321325,
+        "30": 73.88733333333333,
+        "314": 64.76347133757962,
+        "8": 75.76
+      },
+      "symbol": "KRE",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 75.76,
+      "twenty_day_high": 78.095,
+      "twenty_day_low": 71.38,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "long-bias",
+      "evidence_against": [],
+      "evidence_for": [
+        "Recent structure is higher highs / higher lows and price is above the 8 SMA."
+      ],
+      "failure_level": 69.408125,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 69.48,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 65.5,
+      "major_breakout_level": 71.42,
+      "missing_confirmation": [
+        "Next session must hold the 8 SMA or break higher with structure."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 69.408125,
+      "ratios": {
+        "200": 1.1173561693402485,
+        "30": 1.028297418896519,
+        "314": 1.15692812206101,
+        "8": 1.0010355415882508
+      },
+      "score": 5.146552964881972,
+      "setup_family": "trend continuation / 8-train",
+      "sma": {
+        "200": 62.1825,
+        "30": 67.568,
+        "314": 60.055589171974525,
+        "8": 69.408125
+      },
+      "symbol": "KBE",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 69.408125,
+      "twenty_day_high": 71.42,
+      "twenty_day_low": 65.5,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only",
+      "evidence_against": [
+        "No precise Jenkins/CycleEdge location is close enough yet."
+      ],
+      "evidence_for": [],
+      "failure_level": 182.95383333333334,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 186.58,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 175.05,
+      "major_breakout_level": 198.93,
+      "missing_confirmation": [
+        "Need price to move into a clearer location or break structure."
+      ],
+      "nearest_level_name": "30 SMA",
+      "nearest_level_value": 182.95383333333334,
+      "ratios": {
+        "200": 1.0981204589529072,
+        "30": 1.0198201185544988,
+        "314": 1.1980088710467331,
+        "8": 0.9798919429910653
+      },
+      "score": 1.25,
+      "setup_family": "range/mixed TMS needing confirmation",
+      "sma": {
+        "200": 169.90849999999998,
+        "30": 182.95383333333334,
+        "314": 155.7417515923567,
+        "8": 190.40875
+      },
+      "symbol": "IBB",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 182.95383333333334,
+      "twenty_day_high": 198.93,
+      "twenty_day_low": 175.05,
+      "verdict": "does not yet fit"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 314 SMA / Pi."
+      ],
+      "failure_level": 74.42984076433122,
+      "fetch_error": null,
+      "hemisphere": "mixed",
+      "hourly_context": null,
+      "last_close": 74.93,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 73.845,
+      "major_breakout_level": 84.32,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "314 SMA / Pi",
+      "nearest_level_value": 74.42984076433122,
+      "ratios": {
+        "200": 0.9603855384625246,
+        "30": 0.9570011494742221,
+        "314": 1.0067198751271342,
+        "8": 0.9571896207584831
+      },
+      "score": 5.082498017257722,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 78.02074999999999,
+        "30": 78.29666666666667,
+        "314": 74.42984076433122,
+        "8": 78.28125
+      },
+      "symbol": "ARKK",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 74.42984076433122,
+      "twenty_day_high": 84.32,
+      "twenty_day_low": 73.845,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 143.40200000000002,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 143.47,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 135.965,
+      "major_breakout_level": 150.53,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "30 SMA",
+      "nearest_level_value": 143.40200000000002,
+      "ratios": {
+        "200": 0.9873938157640274,
+        "30": 1.000474191433871,
+        "314": 0.9965645302011642,
+        "8": 0.979919404412267
+      },
+      "score": 4.352603331706988,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 145.3017,
+        "30": 143.40200000000002,
+        "314": 143.96458598726113,
+        "8": 146.41
+      },
+      "symbol": "ARKW",
+      "tms": "range/mixed",
+      "trigger_level": 143.40200000000002,
+      "twenty_day_high": 150.53,
+      "twenty_day_low": 135.965,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is near 20-day low."
+      ],
+      "failure_level": 228.91,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 229.26,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 228.91,
+      "major_breakout_level": 250.99,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 228.91,
+      "ratios": {
+        "200": 1.0214898955441258,
+        "30": 0.9676847490249708,
+        "314": 1.0903383825172994,
+        "8": 0.9776754301797479
+      },
+      "score": 5.347334903602899,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 224.436875,
+        "30": 236.916,
+        "314": 210.26500000000001,
+        "8": 234.495
+      },
+      "symbol": "ITA",
+      "tms": "range/mixed",
+      "trigger_level": 228.91,
+      "twenty_day_high": 250.99,
+      "twenty_day_low": 228.91,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 8 SMA."
+      ],
+      "failure_level": 88.371875,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 88.28,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 83.81,
+      "major_breakout_level": 90.05,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 88.371875,
+      "ratios": {
+        "200": 1.1311585950851364,
+        "30": 1.019862755215995,
+        "314": 1.186487274865851,
+        "8": 0.9989603592772022
+      },
+      "score": 5.145927729950157,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 78.043875,
+        "30": 86.56066666666668,
+        "314": 74.40450636942676,
+        "8": 88.371875
+      },
+      "symbol": "IYT",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 88.371875,
+      "twenty_day_high": 90.05,
+      "twenty_day_low": 83.81,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is near 8 SMA."
+      ],
+      "failure_level": 88.530625,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 88.95,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 85.1,
+      "major_breakout_level": 91.53,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 88.530625,
+      "ratios": {
+        "200": 1.047983383071799,
+        "30": 1.0211207647021685,
+        "314": 1.0737842973900749,
+        "8": 1.0047370613276478
+      },
+      "score": 4.028527262507024,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 84.87729999999999,
+        "30": 87.11016666666666,
+        "314": 82.83786624203822,
+        "8": 88.530625
+      },
+      "symbol": "XRT",
+      "tms": "range/mixed",
+      "trigger_level": 88.530625,
+      "twenty_day_high": 91.53,
+      "twenty_day_low": 85.1,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 69.76,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 70.75,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 69.76,
+      "major_breakout_level": 81.63,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 69.76,
+      "ratios": {
+        "200": 0.8080535816618092,
+        "30": 0.9179370742783003,
+        "314": 0.9300889457345194,
+        "8": 0.9640606370294669
+      },
+      "score": 4.750706713780926,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 87.556075,
+        "30": 77.075,
+        "314": 76.06799363057324,
+        "8": 73.3875
+      },
+      "symbol": "GDX",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 69.76,
+      "twenty_day_high": 81.63,
+      "twenty_day_low": 69.76,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 89.9,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 91.68,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 89.9,
+      "major_breakout_level": 106.8,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 89.9,
+      "ratios": {
+        "200": 0.7959573562026375,
+        "30": 0.9145836589331853,
+        "314": 0.923109926723641,
+        "8": 0.9589581998614072
+      },
+      "score": 4.15,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 115.18205,
+        "30": 100.24233333333333,
+        "314": 99.316449044586,
+        "8": 95.60375
+      },
+      "symbol": "GDXJ",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 89.9,
+      "twenty_day_high": 106.8,
+      "twenty_day_low": 89.9,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is near 8 SMA."
+      ],
+      "failure_level": 38.15625,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 38.41,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 36.13,
+      "major_breakout_level": 38.98,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 38.15625,
+      "ratios": {
+        "200": 1.0888438156874585,
+        "30": 1.0090281000709287,
+        "314": 1.1511788837495203,
+        "8": 1.0066502866502867
+      },
+      "score": 4.8393647487633515,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 35.275949999999995,
+        "30": 38.06633333333333,
+        "314": 33.36579617834395,
+        "8": 38.15625
+      },
+      "symbol": "CPER",
+      "tms": "range/mixed",
+      "trigger_level": 38.15625,
+      "twenty_day_high": 38.98,
+      "twenty_day_low": 36.13,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "long-bias",
+      "evidence_against": [],
+      "evidence_for": [
+        "Recent structure is higher highs / higher lows and price is above the 8 SMA."
+      ],
+      "failure_level": 323.13625,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 326.65,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 273.79,
+      "major_breakout_level": 334.98,
+      "missing_confirmation": [
+        "Next session must hold the 8 SMA or break higher with structure."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 323.13625,
+      "ratios": {
+        "200": 1.1897363613061605,
+        "30": 1.0764328271643993,
+        "314": 1.2900114388918549,
+        "8": 1.0108738960732506
+      },
+      "score": 4.174307362620555,
+      "setup_family": "trend continuation / 8-train",
+      "sma": {
+        "200": 274.556625,
+        "30": 303.456,
+        "314": 253.21480891719744,
+        "8": 323.13625
+      },
+      "symbol": "AAPL",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 323.13625,
+      "twenty_day_high": 334.98,
+      "twenty_day_low": 273.79,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 405.98,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 402.48,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 349.205,
+      "major_breakout_level": 405.98,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "20-day high",
+      "nearest_level_value": 405.98,
+      "ratios": {
+        "200": 0.9173255452133199,
+        "30": 1.0404104289202805,
+        "314": 0.8849647909921745,
+        "8": 1.0259233769213123
+      },
+      "score": 5.280391572252038,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 438.753725,
+        "30": 386.8473333333333,
+        "314": 454.79775477707005,
+        "8": 392.31
+      },
+      "symbol": "MSFT",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 405.98,
+      "twenty_day_high": 405.98,
+      "twenty_day_low": 349.205,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is near 30 SMA."
+      ],
+      "failure_level": 203.38066666666666,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 203.33,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 189.82,
+      "major_breakout_level": 213.98,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "30 SMA",
+      "nearest_level_value": 203.38066666666666,
+      "ratios": {
+        "200": 1.0564250639223411,
+        "30": 0.9997508776645437,
+        "314": 1.1364599309871406,
+        "8": 0.9828343554575392
+      },
+      "score": 4.475081558714089,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 192.469875,
+        "30": 203.38066666666666,
+        "314": 178.91523885350318,
+        "8": 206.88125
+      },
+      "symbol": "NVDA",
+      "tms": "range/mixed",
+      "trigger_level": 203.38066666666666,
+      "twenty_day_high": 213.98,
+      "twenty_day_low": 189.82,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 368.77,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 369.665,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 368.77,
+      "major_breakout_level": 432.85,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 368.77,
+      "ratios": {
+        "200": 0.8872607700362126,
+        "30": 0.9303067887116115,
+        "314": 0.9579843431718055,
+        "8": 0.9414573660191996
+      },
+      "score": 5.157888899408914,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 416.63625,
+        "30": 397.3581666666667,
+        "314": 385.8779140127388,
+        "8": 392.651875
+      },
+      "symbol": "TSLA",
+      "tms": "range/mixed",
+      "trigger_level": 368.77,
+      "twenty_day_high": 432.85,
+      "twenty_day_low": 368.77,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only",
+      "evidence_against": [
+        "No precise Jenkins/CycleEdge location is close enough yet."
+      ],
+      "evidence_for": [],
+      "failure_level": 520.3765,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 503.44,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 460.29,
+      "major_breakout_level": 584.62,
+      "missing_confirmation": [
+        "Need price to move into a clearer location or break structure."
+      ],
+      "nearest_level_name": "30 SMA",
+      "nearest_level_value": 520.3765,
+      "ratios": {
+        "200": 1.6873438402975842,
+        "30": 0.9674533727022647,
+        "314": 2.089737946888745,
+        "8": 0.955529827092072
+      },
+      "score": 1.25,
+      "setup_family": "range/mixed TMS needing confirmation",
+      "sma": {
+        "200": 298.36242500000003,
+        "30": 520.3765,
+        "314": 240.91058917197452,
+        "8": 526.87
+      },
+      "symbol": "AMD",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 520.3765,
+      "twenty_day_high": 584.62,
+      "twenty_day_low": 460.29,
+      "verdict": "does not yet fit"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 200 SMA."
+      ],
+      "failure_level": 640.0493250000001,
+      "fetch_error": null,
+      "hemisphere": "mixed",
+      "hourly_context": null,
+      "last_close": 645.835,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 540.205,
+      "major_breakout_level": 685.98,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "200 SMA",
+      "nearest_level_value": 640.0493250000001,
+      "ratios": {
+        "200": 1.0090394205165358,
+        "30": 1.0775814962354267,
+        "314": 0.9773651726316032,
+        "8": 0.9830247911870471
+      },
+      "score": 3.854155860242946,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 640.0493250000001,
+        "30": 599.3375,
+        "314": 660.7919108280255,
+        "8": 656.9875
+      },
+      "symbol": "META",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 640.0493250000001,
+      "twenty_day_high": 685.98,
+      "twenty_day_low": 540.205,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "long-bias",
+      "evidence_against": [],
+      "evidence_for": [
+        "Recent structure is higher highs / higher lows and price is above the 8 SMA."
+      ],
+      "failure_level": 248.643125,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 249.975,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 225.555,
+      "major_breakout_level": 258.07,
+      "missing_confirmation": [
+        "Next session must hold the 8 SMA or break higher with structure."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 248.643125,
+      "ratios": {
+        "200": 1.067353086037049,
+        "30": 1.0312372371629064,
+        "314": 1.0990559145658305,
+        "8": 1.0053565727988658
+      },
+      "score": 4.717196719671969,
+      "setup_family": "trend continuation / 8-train",
+      "sma": {
+        "200": 234.20085,
+        "30": 242.403,
+        "314": 227.44520700636943,
+        "8": 248.643125
+      },
+      "symbol": "AMZN",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 248.643125,
+      "twenty_day_high": 258.07,
+      "twenty_day_low": 225.555,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 8 SMA."
+      ],
+      "failure_level": 356.53812500000004,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 352.11,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 334.36,
+      "major_breakout_level": 375.18,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 356.53812500000004,
+      "ratios": {
+        "200": 1.0928361364979058,
+        "30": 0.9831776501204388,
+        "314": 1.283310670466832,
+        "8": 0.987580220207867
+      },
+      "score": 3.9924029422623546,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 322.19835,
+        "30": 358.1346666666667,
+        "314": 274.3762738853503,
+        "8": 356.53812500000004
+      },
+      "symbol": "GOOGL",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 356.53812500000004,
+      "twenty_day_high": 375.18,
+      "twenty_day_low": 334.36,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 65.08,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 67.58,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 65.08,
+      "major_breakout_level": 78.44,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 65.08,
+      "ratios": {
+        "200": 0.2554798403232096,
+        "30": 0.892280676274286,
+        "314": 0.11163617167220806,
+        "8": 0.9306536988423635
+      },
+      "score": 3.15,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 264.52185000000003,
+        "30": 75.73849999999999,
+        "314": 605.359347133758,
+        "8": 72.615625
+      },
+      "symbol": "NFLX",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 65.08,
+      "twenty_day_high": 78.44,
+      "twenty_day_low": 65.08,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 160.229375,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 160.58,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 139.66,
+      "major_breakout_level": 176.47,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 160.229375,
+      "ratios": {
+        "200": 0.7238360244101958,
+        "30": 1.0093996069179096,
+        "314": 0.6421623634554932,
+        "8": 1.0021882691610076
+      },
+      "score": 4.181650890521854,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 221.845825,
+        "30": 159.08466666666666,
+        "314": 250.0613694267516,
+        "8": 160.229375
+      },
+      "symbol": "COIN",
+      "tms": "range/mixed",
+      "trigger_level": 160.229375,
+      "twenty_day_high": 176.47,
+      "twenty_day_low": 139.66,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 131.8775,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 134.85,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 106.39,
+      "major_breakout_level": 138.89,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 131.8775,
+      "ratios": {
+        "200": 0.8677846298192292,
+        "30": 1.0558403985859488,
+        "314": 0.8879967586353553,
+        "8": 1.022539857064321
+      },
+      "score": 3.15,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 155.3957,
+        "30": 127.71816666666668,
+        "314": 151.85866242038216,
+        "8": 131.8775
+      },
+      "symbol": "PLTR",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 131.8775,
+      "twenty_day_high": 138.89,
+      "twenty_day_low": 106.39,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is near 30 SMA."
+      ],
+      "failure_level": 383.0213333333333,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 377.99,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 356.46,
+      "major_breakout_level": 414.63,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "30 SMA",
+      "nearest_level_value": 383.0213333333333,
+      "ratios": {
+        "200": 1.038861526057872,
+        "30": 0.9868640911211213,
+        "314": 1.1429629342872336,
+        "8": 0.9781590456227519
+      },
+      "score": 3.1689242219811917,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 363.85022499999997,
+        "30": 383.0213333333333,
+        "314": 330.71063694267514,
+        "8": 386.43
+      },
+      "symbol": "AVGO",
+      "tms": "range/mixed",
+      "trigger_level": 383.0213333333333,
+      "twenty_day_high": 414.63,
+      "twenty_day_low": 356.46,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 8 SMA."
+      ],
+      "failure_level": 339.934375,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 338.9,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 325.12,
+      "major_breakout_level": 351.05,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 339.934375,
+      "ratios": {
+        "200": 1.093659565947204,
+        "30": 1.02666740045734,
+        "314": 1.1311678657190323,
+        "8": 0.9969571332702084
+      },
+      "score": 4.944784597226317,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 309.87705,
+        "30": 330.0971666666667,
+        "314": 299.60186305732486,
+        "8": 339.934375
+      },
+      "symbol": "JPM",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 339.934375,
+      "twenty_day_high": 351.05,
+      "twenty_day_low": 325.12,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 8 SMA."
+      ],
+      "failure_level": 60.48875,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 60.445,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 56.81,
+      "major_breakout_level": 62.11,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 60.48875,
+      "ratios": {
+        "200": 1.1397867507922126,
+        "30": 1.0446557420492155,
+        "314": 1.1943979547689283,
+        "8": 0.9992767250108491
+      },
+      "score": 5.177620150550082,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 53.031850000000006,
+        "30": 57.86116666666667,
+        "314": 50.607085987261144,
+        "8": 60.48875
+      },
+      "symbol": "BAC",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 60.48875,
+      "twenty_day_high": 62.11,
+      "twenty_day_low": 56.81,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 30 SMA."
+      ],
+      "failure_level": 1060.2003333333334,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 1055.66,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 1003.47,
+      "major_breakout_level": 1153.54,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "30 SMA",
+      "nearest_level_value": 1060.2003333333334,
+      "ratios": {
+        "200": 1.1669966115245312,
+        "30": 0.9957174760367615,
+        "314": 1.2836142553698406,
+        "8": 0.974274581736274
+      },
+      "score": 4.819905714592448,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 904.5956,
+        "30": 1060.2003333333334,
+        "314": 822.4121815286624,
+        "8": 1083.534375
+      },
+      "symbol": "GS",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 1060.2003333333334,
+      "twenty_day_high": 1153.54,
+      "twenty_day_low": 1003.47,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near a 20-day range boundary."
+      ],
+      "failure_level": 207.47,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 210.96,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 207.47,
+      "major_breakout_level": 232.12,
+      "missing_confirmation": [
+        "Need a clean breakout or breakdown from the range."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 207.47,
+      "ratios": {
+        "200": 1.1601685368078263,
+        "30": 0.9681468251995367,
+        "314": 1.2705695102362156,
+        "8": 0.9552833563520275
+      },
+      "score": 4.25,
+      "setup_family": "range/mixed TMS needing confirmation",
+      "sma": {
+        "200": 181.83565,
+        "30": 217.9008333333333,
+        "314": 166.03578025477708,
+        "8": 220.835
+      },
+      "symbol": "MS",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 207.47,
+      "twenty_day_high": 232.12,
+      "twenty_day_low": 207.47,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "long-bias",
+      "evidence_against": [],
+      "evidence_for": [
+        "Recent structure is higher highs / higher lows and price is above the 8 SMA."
+      ],
+      "failure_level": 149.64,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 148.4,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 135.025,
+      "major_breakout_level": 149.64,
+      "missing_confirmation": [
+        "Next session must hold the 8 SMA or break higher with structure."
+      ],
+      "nearest_level_name": "20-day high",
+      "nearest_level_value": 149.64,
+      "ratios": {
+        "200": 1.0813006575058497,
+        "30": 1.0445934895921933,
+        "314": 1.1674573298675268,
+        "8": 1.030600286470767
+      },
+      "score": 5.414420485175215,
+      "setup_family": "trend continuation / 8-train",
+      "sma": {
+        "200": 137.242125,
+        "30": 142.06483333333333,
+        "314": 127.11385350318471,
+        "8": 143.99375
+      },
+      "symbol": "XOM",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 149.64,
+      "twenty_day_high": 149.64,
+      "twenty_day_low": 135.025,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "long-bias",
+      "evidence_against": [],
+      "evidence_for": [
+        "Recent structure is higher highs / higher lows and price is above the 8 SMA."
+      ],
+      "failure_level": 190.34,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 189.25,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 165.25,
+      "major_breakout_level": 190.34,
+      "missing_confirmation": [
+        "Next session must hold the 8 SMA or break higher with structure."
+      ],
+      "nearest_level_name": "20-day high",
+      "nearest_level_value": 190.34,
+      "ratios": {
+        "200": 1.0901598171411717,
+        "30": 1.0617934818690933,
+        "314": 1.150776075972581,
+        "8": 1.0396388044840432
+      },
+      "score": 5.6740422721268144,
+      "setup_family": "trend continuation / 8-train",
+      "sma": {
+        "200": 173.5984,
+        "30": 178.23616666666666,
+        "314": 164.4542356687898,
+        "8": 182.034375
+      },
+      "symbol": "CVX",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 190.34,
+      "twenty_day_high": 190.34,
+      "twenty_day_low": 165.25,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 8 SMA."
+      ],
+      "failure_level": 425.005,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 421.85,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 400.01,
+      "major_breakout_level": 460.95,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 425.005,
+      "ratios": {
+        "200": 1.2342345986371341,
+        "30": 1.0137696602864317,
+        "314": 1.265260138573031,
+        "8": 0.992576557922848
+      },
+      "score": 4.502103828375022,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 341.790775,
+        "30": 416.12016666666665,
+        "314": 333.4096974522293,
+        "8": 425.005
+      },
+      "symbol": "UNH",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 425.005,
+      "twenty_day_high": 460.95,
+      "twenty_day_low": 400.01,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 30 SMA."
+      ],
+      "failure_level": 1161.9933333333333,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 1146.38,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 1093.09,
+      "major_breakout_level": 1248.525,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "30 SMA",
+      "nearest_level_value": 1161.9933333333333,
+      "ratios": {
+        "200": 1.1359546343489335,
+        "30": 0.9865633193535248,
+        "314": 1.2473818382484407,
+        "8": 0.9762771333281528
+      },
+      "score": 3.8880316009234956,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 1009.1776249999999,
+        "30": 1161.9933333333333,
+        "314": 919.0289331210191,
+        "8": 1174.23625
+      },
+      "symbol": "LLY",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 1161.9933333333333,
+      "twenty_day_high": 1248.525,
+      "twenty_day_low": 1093.09,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 8 SMA."
+      ],
+      "failure_level": 124.554375,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 124.395,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 113.04,
+      "major_breakout_level": 131.72,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 124.554375,
+      "ratios": {
+        "200": 1.1339565027248184,
+        "30": 1.0144811313061017,
+        "314": 1.2533012639049033,
+        "8": 0.9987204383627633
+      },
+      "score": 5.121879898709757,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 109.699975,
+        "30": 122.61933333333333,
+        "314": 99.25386942675159,
+        "8": 124.554375
+      },
+      "symbol": "MRK",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 124.554375,
+      "twenty_day_high": 131.72,
+      "twenty_day_low": 113.04,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 926.97375,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 936.39,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 907.49,
+      "major_breakout_level": 968.975,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 926.97375,
+      "ratios": {
+        "200": 0.978707169313001,
+        "30": 0.9847521635017338,
+        "314": 0.970786592088131,
+        "8": 1.0101580546374695
+      },
+      "score": 4.144409380706758,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 956.762175,
+        "30": 950.8889999999999,
+        "314": 964.5683280254777,
+        "8": 926.97375
+      },
+      "symbol": "COST",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 926.97375,
+      "twenty_day_high": 968.975,
+      "twenty_day_low": 907.49,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is near 8 SMA."
+      ],
+      "failure_level": 113.548125,
+      "fetch_error": null,
+      "hemisphere": "mixed",
+      "hourly_context": null,
+      "last_close": 112.19,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 107.26,
+      "major_breakout_level": 120.38,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 113.548125,
+      "ratios": {
+        "200": 0.9538921652922777,
+        "30": 0.9684157826135746,
+        "314": 1.0142397432763646,
+        "8": 0.9880392124484663
+      },
+      "score": 2.7894420180051687,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 117.612875,
+        "30": 115.84899999999999,
+        "314": 110.61487261146496,
+        "8": 113.548125
+      },
+      "symbol": "WMT",
+      "tms": "range/mixed",
+      "trigger_level": 113.548125,
+      "twenty_day_high": 120.38,
+      "twenty_day_low": 107.26,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 336.44916666666666,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 333.05,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 321.775,
+      "major_breakout_level": 358.415,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "30 SMA",
+      "nearest_level_value": 336.44916666666666,
+      "ratios": {
+        "200": 0.9474875541798661,
+        "30": 0.9898969383685996,
+        "314": 0.9201056569881882,
+        "8": 0.9801588104483075
+      },
+      "score": 3.379382475103845,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 351.508575,
+        "30": 336.44916666666666,
+        "314": 361.9692993630573,
+        "8": 339.791875
+      },
+      "symbol": "HD",
+      "tms": "range/mixed",
+      "trigger_level": 336.44916666666666,
+      "twenty_day_high": 358.415,
+      "twenty_day_low": 321.775,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only",
+      "evidence_against": [
+        "No precise Jenkins/CycleEdge location is close enough yet."
+      ],
+      "evidence_for": [],
+      "failure_level": 838.98,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 863.995,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 838.98,
+      "major_breakout_level": 1073.46,
+      "missing_confirmation": [
+        "Need price to move into a clearer location or break structure."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 838.98,
+      "ratios": {
+        "200": 1.1966967377705784,
+        "30": 0.9101868299206689,
+        "314": 1.436906284139142,
+        "8": 0.9479203095021607
+      },
+      "score": 1.25,
+      "setup_family": "range/mixed TMS needing confirmation",
+      "sma": {
+        "200": 721.98325,
+        "30": 949.2501666666667,
+        "314": 601.2883439490446,
+        "8": 911.46375
+      },
+      "symbol": "CAT",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 838.98,
+      "twenty_day_high": 1073.46,
+      "twenty_day_low": 838.98,
+      "verdict": "does not yet fit"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 208.79,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 209.52,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 208.79,
+      "major_breakout_level": 237.17,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 208.79,
+      "ratios": {
+        "200": 0.9585158924034803,
+        "30": 0.953113129870307,
+        "314": 0.9673559735436493,
+        "8": 0.9665850683782125
+      },
+      "score": 5.051584574264979,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 218.58792499999998,
+        "30": 219.82700000000003,
+        "314": 216.59038216560512,
+        "8": 216.763125
+      },
+      "symbol": "BA",
+      "tms": "range/mixed",
+      "trigger_level": 208.79,
+      "twenty_day_high": 237.17,
+      "twenty_day_low": 208.79,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 20-day low."
+      ],
+      "failure_level": 336.74,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 341.26,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 336.74,
+      "major_breakout_level": 382.69,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 336.74,
+      "ratios": {
+        "200": 1.0915598348778253,
+        "30": 0.9644712850337755,
+        "314": 1.1720731597669845,
+        "8": 0.967711977654661
+      },
+      "score": 4.9254966887417275,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 312.635175,
+        "30": 353.83116666666666,
+        "314": 291.15929936305736,
+        "8": 352.64625
+      },
+      "symbol": "GE",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 336.74,
+      "twenty_day_high": 382.69,
+      "twenty_day_low": 336.74,
+      "verdict": "possibly fits but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 175.38,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 173.78,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 147.6,
+      "major_breakout_level": 175.38,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "20-day high",
+      "nearest_level_value": 175.38,
+      "ratios": {
+        "200": 0.8349823891172649,
+        "30": 1.055399676906072,
+        "314": 0.7655517348294494,
+        "8": 1.0307503531007995
+      },
+      "score": 5.229295661180807,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 208.12415000000001,
+        "30": 164.658,
+        "314": 226.9996815286624,
+        "8": 168.595625
+      },
+      "symbol": "CRM",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 175.38,
+      "twenty_day_high": 175.38,
+      "twenty_day_low": 147.6,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 120.095,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 121.395,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 120.095,
+      "major_breakout_level": 184.53,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "20-day low",
+      "nearest_level_value": 120.095,
+      "ratios": {
+        "200": 0.6364173365859758,
+        "30": 0.7583419488441681,
+        "314": 0.6064917863609781,
+        "8": 0.9256856904563326
+      },
+      "score": 5.079115696692618,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 190.747475,
+        "30": 160.0795,
+        "314": 200.15934713375796,
+        "8": 131.140625
+      },
+      "symbol": "ORCL",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 120.095,
+      "twenty_day_high": 184.53,
+      "twenty_day_low": 120.095,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 240.11,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 234.73,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 191.27,
+      "major_breakout_level": 240.11,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "20-day high",
+      "nearest_level_value": 240.11,
+      "ratios": {
+        "200": 0.834300546882178,
+        "30": 1.081323034872472,
+        "314": 0.7457263019122681,
+        "8": 1.02646459953264
+      },
+      "score": 3.15,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 281.34945,
+        "30": 217.07666666666668,
+        "314": 314.7669585987261,
+        "8": 228.678125
+      },
+      "symbol": "ADBE",
+      "tms": "higher highs / higher lows",
+      "trigger_level": 240.11,
+      "twenty_day_high": 240.11,
+      "twenty_day_low": 191.27,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only",
+      "evidence_against": [
+        "No precise Jenkins/CycleEdge location is close enough yet."
+      ],
+      "evidence_for": [],
+      "failure_level": 103.15875,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 97.07,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 89.65,
+      "major_breakout_level": 142.33,
+      "missing_confirmation": [
+        "Need price to move into a clearer location or break structure."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 103.15875,
+      "ratios": {
+        "200": 1.505329404206998,
+        "30": 0.8277632257780266,
+        "314": 1.9680819259837994,
+        "8": 0.9409768924109685
+      },
+      "score": 1.25,
+      "setup_family": "range/mixed TMS needing confirmation",
+      "sma": {
+        "200": 64.484225,
+        "30": 117.26783333333333,
+        "314": 49.32213375796178,
+        "8": 103.15875
+      },
+      "symbol": "INTC",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 103.15875,
+      "twenty_day_high": 142.33,
+      "twenty_day_low": 89.65,
+      "verdict": "does not yet fit"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only",
+      "evidence_against": [
+        "No precise Jenkins/CycleEdge location is close enough yet."
+      ],
+      "evidence_for": [],
+      "failure_level": 920.413125,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 866.08,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 804.09,
+      "major_breakout_level": 1254.71,
+      "missing_confirmation": [
+        "Need price to move into a clearer location or break structure."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 920.413125,
+      "ratios": {
+        "200": 1.7801317011348627,
+        "30": 0.8633714598352534,
+        "314": 2.4631707010444717,
+        "8": 0.9409687633474371
+      },
+      "score": 1.25,
+      "setup_family": "range/mixed TMS needing confirmation",
+      "sma": {
+        "200": 486.5258,
+        "30": 1003.1371666666668,
+        "314": 351.6118471337579,
+        "8": 920.413125
+      },
+      "symbol": "MU",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 920.413125,
+      "twenty_day_high": 1254.71,
+      "twenty_day_low": 804.09,
+      "verdict": "does not yet fit"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [
+        "Daily TMS is range/mixed, so the setup is not clean yet."
+      ],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 95.274375,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 97.76,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 81.84,
+      "major_breakout_level": 119.97,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 95.274375,
+      "ratios": {
+        "200": 0.5801471405306454,
+        "30": 0.9429846067280254,
+        "314": 0.4010925807978056,
+        "8": 1.0260891241742598
+      },
+      "score": 2.4,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 168.508975,
+        "30": 103.67083333333333,
+        "314": 243.7342515923567,
+        "8": 95.274375
+      },
+      "symbol": "MSTR",
+      "tms": "range/mixed",
+      "trigger_level": 95.274375,
+      "twenty_day_high": 119.97,
+      "twenty_day_low": 81.84,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "short-bias / avoid longs",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is below both 200 SMA and Pi/314."
+      ],
+      "failure_level": 12.025625,
+      "fetch_error": null,
+      "hemisphere": "south",
+      "hourly_context": null,
+      "last_close": 11.66,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 10.54,
+      "major_breakout_level": 16.43,
+      "missing_confirmation": [
+        "Breakdown or continuation trigger must confirm short-bias before action."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 12.025625,
+      "ratios": {
+        "200": 0.9594062542426575,
+        "30": 0.8839583543919943,
+        "314": 0.8606501114234939,
+        "8": 0.9695961748349878
+      },
+      "score": 3.15,
+      "setup_family": "southern hemisphere avoid or short-bias",
+      "sma": {
+        "200": 12.15335,
+        "30": 13.190666666666667,
+        "314": 13.547898089171975,
+        "8": 12.025625
+      },
+      "symbol": "MARA",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 12.025625,
+      "twenty_day_high": 16.43,
+      "twenty_day_low": 10.54,
+      "verdict": "possibly fits short bias but needs confirmation"
+    },
+    {
+      "bars_count": 638,
+      "category": "mature",
+      "directional_bias": "watch-only until reaction confirms",
+      "evidence_against": [],
+      "evidence_for": [
+        "Price is near 8 SMA."
+      ],
+      "failure_level": 19.999375,
+      "fetch_error": null,
+      "hemisphere": "north",
+      "hourly_context": null,
+      "last_close": 19.9,
+      "last_timestamp": "2026-07-20T04:00:00Z",
+      "major_breakdown_level": 17.44,
+      "major_breakout_level": 30.315,
+      "missing_confirmation": [
+        "Need a reaction, reclaim, hold, or rejection at the nearest level."
+      ],
+      "nearest_level_name": "8 SMA",
+      "nearest_level_value": 19.999375,
+      "ratios": {
+        "200": 1.0760013842027858,
+        "30": 0.8178642372765257,
+        "314": 1.2429657242544014,
+        "8": 0.9950310947217099
+      },
+      "score": 4.750628140703507,
+      "setup_family": "pullback to moving-average support/resistance",
+      "sma": {
+        "200": 18.4944,
+        "30": 24.331666666666667,
+        "314": 16.010095541401274,
+        "8": 19.999375
+      },
+      "symbol": "RIOT",
+      "tms": "lower highs / lower lows",
+      "trigger_level": 19.999375,
+      "twenty_day_high": 30.315,
+      "twenty_day_low": 17.44,
+      "verdict": "possibly fits but needs confirmation"
+    }
+  ],
+  "scan_time": "2026-07-21T01:01:35+00:00",
+  "start": "2024-01-01T00:00:00Z"
+}
