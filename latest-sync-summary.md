@@ -1,9 +1,10 @@
 # Hermes Output Sync
 
-- Last sync: 2026-07-31T17:06:12Z
+- Last sync: 2026-07-31T17:11:14Z
 - Safety: research outputs only; no credentials or order keys.
 
 ## Latest Paper Proposals
+- 20260731T170709Z-dia-confirmed_long-proposal.json
 - 20260731T170158Z-qqq-confirmed_long-proposal.json
 - 20260731T165648Z-tlt-confirmed_short-proposal.json
 - 20260731T165138Z-ung-confirmed_short-proposal.json
@@ -23,4 +24,3 @@
 - 20260731T153911Z-dia-confirmed_long-proposal.json
 - 20260731T150300Z-tlt-confirmed_short-proposal.json
 - 20260731T145749Z-ung-confirmed_short-proposal.json
-- 20260731T145239Z-uso-confirmed_long-proposal.json
