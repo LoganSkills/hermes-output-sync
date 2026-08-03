@@ -1,6 +1,6 @@
 # Hermes Live 5-Minute Decision Loop
 
-- Scan time: 2026-08-03T07:24:17Z
+- Scan time: 2026-08-03T07:19:10Z
 - Market open: False
 - Mode: read-only research; no orders placed
 - States: CONFIRMED_LONG, CONFIRMED_SHORT, PENDING, NEGATED, NO_TRADE
