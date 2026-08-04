@@ -1,0 +1,36 @@
+# Hermes Market Communication Snapshot
+
+- Snapshot time: 2026-08-04T14:08:33Z
+- Latest 5m scan: 2026-08-04T14:04:14Z
+- Latest 1m scan: 2026-08-04T14:08:21Z
+- Mode: read-only communication; no orders placed
+- Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
+
+## Action Table
+
+| Symbol | 5m State | 1m State | Alignment | Action | 5m Price | 1m Price | Latest Proposal |
+|---|---|---|---|---|---:|---:|---|
+| DIA | CONFIRMED_LONG long | MICRO_BUILDING_LONG | agrees | REVIEW_LONG_BRACKET | 537.40 | 537.22 | 20260804T140414Z-dia-confirmed_long-proposal.json |
+| IWM | CONFIRMED_LONG long | MICRO_BUILDING_LONG | agrees | REVIEW_LONG_BRACKET | 298.77 | 298.64 | 20260804T133321Z-iwm-confirmed_long-proposal.json |
+| QQQ | CONFIRMED_LONG long | MICRO_CONFIRMS_LONG | agrees | REVIEW_LONG_BRACKET | 714.29 | 715.15 | 20260804T130230Z-qqq-confirmed_long-proposal.json |
+| SPY | CONFIRMED_LONG long | MICRO_CONFIRMS_LONG | agrees | REVIEW_LONG_BRACKET | 764.06 | 764.49 | 20260804T134847Z-spy-confirmed_long-proposal.json |
+| UNG | CONFIRMED_SHORT short | MICRO_CHOP | unclear | REVIEW_ONLY_SHORT_NO_EXECUTION | 9.70 | 9.73 | 20260804T132304Z-ung-confirmed_short-proposal.json |
+| IEF | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 93.16 | 93.15 | 20260803T171714Z-ief-confirmed_short-proposal.json |
+| RSP | CONFIRMED_LONG long | MICRO_CHOP | unclear | WAIT | 217.67 | 217.56 | 20260804T135356Z-rsp-confirmed_long-proposal.json |
+| TLT | PENDING short | MICRO_CHOP | unclear | WAIT | 82.61 | 82.62 | 20260803T200139Z-tlt-confirmed_short-proposal.json |
+| GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 375.15 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
+| SHY | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 81.87 | n/a | 20260803T181344Z-shy-confirmed_short-proposal.json |
+| SLV | NEGATED short | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 54.02 | 53.95 | 20260803T122434Z-slv-confirmed_short-proposal.json |
+| USO | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 116.33 | 116.32 | 20260731T181940Z-uso-confirmed_long-proposal.json |
+
+## Notes
+- DIA: REVIEW_LONG_BRACKET; 5m flow: n/a; 5m reason: Long confirmation: trigger reclaimed/held with 5-minute structure.
+- IWM: REVIEW_LONG_BRACKET; 5m flow: n/a; 5m reason: Long confirmation: trigger reclaimed/held with 5-minute structure.
+- QQQ: REVIEW_LONG_BRACKET; 5m flow: n/a; 5m reason: Long confirmation: trigger reclaimed/held with 5-minute structure.
+- SPY: REVIEW_LONG_BRACKET; 5m flow: n/a; 5m reason: Long confirmation: trigger reclaimed/held with 5-minute structure.
+- UNG: REVIEW_ONLY_SHORT_NO_EXECUTION; 5m flow: n/a; 5m reason: Short confirmation: level failed with 5-minute downside structure.
+- IEF: WAIT_DATA; 5m flow: n/a; 5m reason: Short candidate is still waiting for 5-minute confirmation.
+- RSP: WAIT; 5m flow: n/a; 5m reason: Long confirmation: trigger reclaimed/held with 5-minute structure.
+- TLT: WAIT; 5m flow: n/a; 5m reason: Short candidate is still waiting for 5-minute confirmation.
+- GLD: REJECT_OR_IGNORE; 5m flow: n/a; 5m reason: Short idea negated: reclaim or 5-minute upside structure appeared.
+- SHY: REJECT_OR_IGNORE; 5m flow: n/a; 5m reason: Short idea negated: reclaim or 5-minute upside structure appeared.
