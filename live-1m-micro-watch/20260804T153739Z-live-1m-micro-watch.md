@@ -1,6 +1,6 @@
 # Hermes Live 1-Minute Micro Watch
 
-- Scan time: 2026-08-04T15:38:46Z
+- Scan time: 2026-08-04T15:37:39Z
 - Mode: read-only; no orders placed; no proposals written
 - Use: earliest execution clue only; 5-minute confirmation still required
 
@@ -22,11 +22,11 @@
 - Prior 5-bar low: 716.77
 
 ### IEF
-- Price: 93.17
+- Price: 93.16
 - 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 93.15
-- 1m 30 SMA: 93.14
-- Prior 5-bar high: 93.16
+- 1m 8 SMA: 93.14
+- 1m 30 SMA: 93.13
+- Prior 5-bar high: 93.15
 - Prior 5-bar low: 93.14
 
 ## MICRO_CONFIRMS_SHORT
