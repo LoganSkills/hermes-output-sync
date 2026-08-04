@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-04T17:29:54Z",
+  "scan_time": "2026-08-04T17:26:31Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -64,12 +64,12 @@
     },
     {
       "symbol": "TLT",
-      "state": "MICRO_BUILDING_LONG",
-      "price": 82.745,
+      "state": "MICRO_CONFIRMS_LONG",
+      "price": 82.75,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 82.685,
-      "one_min_sma_30": 82.634,
-      "prior_5bar_high": 82.77,
+      "one_min_sma_8": 82.67375,
+      "one_min_sma_30": 82.62950000000001,
+      "prior_5bar_high": 82.69,
       "prior_5bar_low": 82.655
     },
     {

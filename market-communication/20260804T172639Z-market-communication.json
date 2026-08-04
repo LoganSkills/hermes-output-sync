@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-04T17:29:39Z",
+  "snapshot_time": "2026-08-04T17:26:39Z",
   "latest_5m_scan": "2026-08-04T17:25:42Z",
-  "latest_1m_scan": "2026-08-04T17:28:46Z",
+  "latest_1m_scan": "2026-08-04T17:26:31Z",
   "rows": [
     {
       "symbol": "RSP",
@@ -38,8 +38,8 @@
       "five_price": 82.695,
       "five_flow": "n/a",
       "five_reason": "Short confirmation: level failed with 5-minute downside structure.",
-      "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 82.745,
+      "one_state": "MICRO_CONFIRMS_LONG",
+      "one_price": 82.75,
       "one_tms": "higher highs / higher lows",
       "alignment": "conflicts",
       "action": "REVIEW_ONLY_SHORT_NO_EXECUTION",
