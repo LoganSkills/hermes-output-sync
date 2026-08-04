@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-04T21:31:47Z",
+  "snapshot_time": "2026-08-04T21:30:47Z",
   "latest_5m_scan": "2026-08-04T21:28:47Z",
-  "latest_1m_scan": "2026-08-04T21:30:55Z",
+  "latest_1m_scan": "2026-08-04T21:29:47Z",
   "rows": [
     {
       "symbol": "IWM",
@@ -11,7 +11,7 @@
       "five_flow": "n/a",
       "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
       "one_state": "MICRO_BUILDING_SHORT",
-      "one_price": 302.11,
+      "one_price": 302.09,
       "one_tms": "range/mixed",
       "alignment": "conflicts",
       "action": "WAIT",
@@ -24,8 +24,8 @@
       "five_price": 721.17,
       "five_flow": "n/a",
       "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
-      "one_state": "MICRO_BUILDING_SHORT",
-      "one_price": 724.22,
+      "one_state": "MICRO_CONFIRMS_SHORT",
+      "one_price": 724.06,
       "one_tms": "lower highs / lower lows",
       "alignment": "conflicts",
       "action": "WAIT",
@@ -67,7 +67,7 @@
       "five_flow": "n/a",
       "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
       "one_state": "MICRO_BUILDING_SHORT",
-      "one_price": 772.44,
+      "one_price": 772.28,
       "one_tms": "range/mixed",
       "alignment": "conflicts",
       "action": "WAIT",
