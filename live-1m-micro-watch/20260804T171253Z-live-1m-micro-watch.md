@@ -1,6 +1,6 @@
 # Hermes Live 1-Minute Micro Watch
 
-- Scan time: 2026-08-04T17:14:01Z
+- Scan time: 2026-08-04T17:12:53Z
 - Mode: read-only; no orders placed; no proposals written
 - Use: earliest execution clue only; 5-minute confirmation still required
 
@@ -39,12 +39,12 @@
 - Prior 5-bar low: 93.22
 
 ### UNG
-- Price: 9.76
+- Price: 9.77
 - 1m TMS: higher highs / higher lows
 - 1m 8 SMA: 9.76
 - 1m 30 SMA: 9.75
 - Prior 5-bar high: 9.77
-- Prior 5-bar low: 9.76
+- Prior 5-bar low: 9.74
 
 ### SLV
 - Price: 53.85
