@@ -1,0 +1,86 @@
+{
+  "scan_time": "2026-08-04T13:59:24Z",
+  "mode": "read-only 1m micro watch",
+  "rows": [
+    {
+      "symbol": "SPY",
+      "state": "MICRO_BUILDING_LONG",
+      "price": 763.195,
+      "one_min_tms": "higher highs / higher lows",
+      "one_min_sma_8": 763.05875,
+      "one_min_sma_30": 762.2196666666666,
+      "prior_5bar_high": 763.47,
+      "prior_5bar_low": 762.685
+    },
+    {
+      "symbol": "QQQ",
+      "state": "MICRO_CHOP",
+      "price": 713.635,
+      "one_min_tms": "higher highs / higher lows",
+      "one_min_sma_8": 713.895625,
+      "one_min_sma_30": 712.5538333333334,
+      "prior_5bar_high": 714.64,
+      "prior_5bar_low": 712.85
+    },
+    {
+      "symbol": "IWM",
+      "state": "DATA_INCOMPLETE",
+      "price": 298.275
+    },
+    {
+      "symbol": "DIA",
+      "state": "MICRO_BUILDING_SHORT",
+      "price": 536.385,
+      "one_min_tms": "lower highs / lower lows",
+      "one_min_sma_8": 536.443125,
+      "one_min_sma_30": 537.1766666666666,
+      "prior_5bar_high": 536.76,
+      "prior_5bar_low": 536.01
+    },
+    {
+      "symbol": "RSP",
+      "state": "DATA_INCOMPLETE",
+      "price": 217.52
+    },
+    {
+      "symbol": "USO",
+      "state": "DATA_INCOMPLETE",
+      "price": 115.86
+    },
+    {
+      "symbol": "TLT",
+      "state": "MICRO_BUILDING_SHORT",
+      "price": 82.62,
+      "one_min_tms": "lower highs / lower lows",
+      "one_min_sma_8": 82.629375,
+      "one_min_sma_30": 82.63133333333333,
+      "prior_5bar_high": 82.64,
+      "prior_5bar_low": 82.605
+    },
+    {
+      "symbol": "IEF",
+      "state": "DATA_INCOMPLETE",
+      "price": 93.17
+    },
+    {
+      "symbol": "UNG",
+      "state": "MICRO_CONFIRMS_SHORT",
+      "price": 9.7,
+      "one_min_tms": "lower highs / lower lows",
+      "one_min_sma_8": 9.730625,
+      "one_min_sma_30": 9.767833333333334,
+      "prior_5bar_high": 9.74,
+      "prior_5bar_low": 9.715
+    },
+    {
+      "symbol": "SLV",
+      "state": "MICRO_BUILDING_SHORT",
+      "price": 53.94,
+      "one_min_tms": "range/mixed",
+      "one_min_sma_8": 54.0,
+      "one_min_sma_30": 54.0315,
+      "prior_5bar_high": 54.055,
+      "prior_5bar_low": 53.935
+    }
+  ]
+}
