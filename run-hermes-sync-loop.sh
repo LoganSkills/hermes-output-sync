@@ -3,8 +3,6 @@ set -u
 
 DEST="$HOME/hermes-output-sync"
 mkdir -p "$DEST"/{market-watch,live-5m-decisions,nightly-scans,paper-proposals}
-  sync_one_dir "$HOME/Downloads/hermes-nightly-scan-kit/live-1m-micro-watch" "$DEST/live-1m-micro-watch"
-  sync_one_dir "$HOME/Downloads/hermes-nightly-scan-kit/market-communication" "$DEST/market-communication"
 
 sync_one_dir() {
   local src="$1"
