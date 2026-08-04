@@ -1,75 +1,75 @@
 {
-  "scan_time": "2026-08-04T18:49:52Z",
+  "scan_time": "2026-08-04T18:48:44Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
       "symbol": "SPY",
       "state": "MICRO_BUILDING_LONG",
-      "price": 770.17,
+      "price": 770.06,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 769.965,
-      "one_min_sma_30": 769.4891666666666,
-      "prior_5bar_high": 770.18,
-      "prior_5bar_low": 769.78
+      "one_min_sma_8": 769.874375,
+      "one_min_sma_30": 769.4418333333334,
+      "prior_5bar_high": 770.17,
+      "prior_5bar_low": 769.57
     },
     {
       "symbol": "QQQ",
-      "state": "MICRO_BUILDING_LONG",
-      "price": 720.52,
+      "state": "MICRO_CONFIRMS_LONG",
+      "price": 720.44,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 720.235625,
-      "one_min_sma_30": 719.9653333333333,
-      "prior_5bar_high": 720.54,
-      "prior_5bar_low": 720.0
+      "one_min_sma_8": 720.128125,
+      "one_min_sma_30": 719.936,
+      "prior_5bar_high": 720.43,
+      "prior_5bar_low": 719.785
     },
     {
       "symbol": "IWM",
-      "state": "MICRO_BUILDING_LONG",
-      "price": 301.33,
+      "state": "MICRO_CONFIRMS_LONG",
+      "price": 301.34,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 301.24625,
-      "one_min_sma_30": 301.0973333333333,
-      "prior_5bar_high": 301.35,
-      "prior_5bar_low": 301.135
+      "one_min_sma_8": 301.221875,
+      "one_min_sma_30": 301.07866666666666,
+      "prior_5bar_high": 301.31,
+      "prior_5bar_low": 301.12
     },
     {
       "symbol": "DIA",
       "state": "MICRO_CONFIRMS_LONG",
-      "price": 541.395,
+      "price": 541.32,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 541.163125,
-      "one_min_sma_30": 540.9375,
-      "prior_5bar_high": 541.32,
-      "prior_5bar_low": 541.12
+      "one_min_sma_8": 541.11,
+      "one_min_sma_30": 540.9113333333333,
+      "prior_5bar_high": 541.195,
+      "prior_5bar_low": 540.885
     },
     {
       "symbol": "RSP",
       "state": "MICRO_CHOP",
-      "price": 219.74,
+      "price": 219.73,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 219.75062499999999,
-      "one_min_sma_30": 219.67083333333332,
-      "prior_5bar_high": 219.795,
+      "one_min_sma_8": 219.749375,
+      "one_min_sma_30": 219.6655,
+      "prior_5bar_high": 219.8,
       "prior_5bar_low": 219.655
     },
     {
       "symbol": "USO",
       "state": "MICRO_BUILDING_LONG",
-      "price": 115.865,
+      "price": 115.87,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 115.8475,
-      "one_min_sma_30": 115.80783333333333,
+      "one_min_sma_8": 115.833125,
+      "one_min_sma_30": 115.80033333333334,
       "prior_5bar_high": 115.96,
-      "prior_5bar_low": 115.87
+      "prior_5bar_low": 115.635
     },
     {
       "symbol": "TLT",
       "state": "MICRO_BUILDING_LONG",
-      "price": 82.76,
+      "price": 82.755,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 82.738125,
-      "one_min_sma_30": 82.73783333333333,
-      "prior_5bar_high": 82.755,
+      "one_min_sma_8": 82.73375,
+      "one_min_sma_30": 82.73816666666667,
+      "prior_5bar_high": 82.745,
       "prior_5bar_low": 82.72
     },
     {
@@ -85,20 +85,20 @@
     {
       "symbol": "UNG",
       "state": "MICRO_BUILDING_SHORT",
-      "price": 9.75,
+      "price": 9.755,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 9.76875,
-      "one_min_sma_30": 9.765666666666668,
+      "one_min_sma_8": 9.7725,
+      "one_min_sma_30": 9.766,
       "prior_5bar_high": 9.775,
-      "prior_5bar_low": 9.755
+      "prior_5bar_low": 9.77
     },
     {
       "symbol": "SLV",
-      "state": "MICRO_CHOP",
-      "price": 54.175,
+      "state": "MICRO_BUILDING_LONG",
+      "price": 54.195,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 54.18125,
-      "one_min_sma_30": 54.102833333333336,
+      "one_min_sma_8": 54.176249999999996,
+      "one_min_sma_30": 54.097166666666666,
       "prior_5bar_high": 54.24,
       "prior_5bar_low": 54.155
     }
