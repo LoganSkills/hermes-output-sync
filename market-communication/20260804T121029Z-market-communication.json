@@ -1,8 +1,22 @@
 {
-  "snapshot_time": "2026-08-04T12:12:29Z",
-  "latest_5m_scan": "2026-08-04T12:11:09Z",
-  "latest_1m_scan": "2026-08-04T12:12:17Z",
+  "snapshot_time": "2026-08-04T12:10:29Z",
+  "latest_5m_scan": "2026-08-04T12:06:03Z",
+  "latest_1m_scan": "2026-08-04T12:10:06Z",
   "rows": [
+    {
+      "symbol": "TLT",
+      "five_state": "CONFIRMED_SHORT",
+      "five_direction": "short",
+      "five_price": 82.2,
+      "five_flow": "n/a",
+      "five_reason": "Short confirmation: level failed with 5-minute downside structure.",
+      "one_state": "DATA_INCOMPLETE",
+      "one_price": 82.39,
+      "one_tms": "n/a",
+      "alignment": "unclear",
+      "action": "REVIEW_ONLY_SHORT_NO_EXECUTION",
+      "latest_proposal": "20260803T200139Z-tlt-confirmed_short-proposal.json"
+    },
     {
       "symbol": "UNG",
       "five_state": "CONFIRMED_SHORT",
@@ -19,17 +33,17 @@
     },
     {
       "symbol": "DIA",
-      "five_state": "CONFIRMED_LONG",
+      "five_state": "PENDING",
       "five_direction": "long",
-      "five_price": 537.55,
+      "five_price": 531.17,
       "five_flow": "n/a",
-      "five_reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
+      "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 537.55,
+      "one_price": null,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "WAIT_DATA",
-      "latest_proposal": "20260804T121109Z-dia-confirmed_long-proposal.json"
+      "latest_proposal": "20260803T183926Z-dia-confirmed_long-proposal.json"
     },
     {
       "symbol": "IEF",
@@ -91,7 +105,7 @@
       "symbol": "SPY",
       "five_state": "PENDING",
       "five_direction": "long",
-      "five_price": 760.33,
+      "five_price": 760.2,
       "five_flow": "n/a",
       "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
       "one_state": "DATA_INCOMPLETE",
@@ -100,20 +114,6 @@
       "alignment": "unclear",
       "action": "WAIT_DATA",
       "latest_proposal": "20260803T184435Z-spy-confirmed_long-proposal.json"
-    },
-    {
-      "symbol": "TLT",
-      "five_state": "PENDING",
-      "five_direction": "short",
-      "five_price": 82.39,
-      "five_flow": "n/a",
-      "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
-      "one_state": "DATA_INCOMPLETE",
-      "one_price": 82.39,
-      "one_tms": "n/a",
-      "alignment": "unclear",
-      "action": "WAIT_DATA",
-      "latest_proposal": "20260803T200139Z-tlt-confirmed_short-proposal.json"
     },
     {
       "symbol": "GLD",
