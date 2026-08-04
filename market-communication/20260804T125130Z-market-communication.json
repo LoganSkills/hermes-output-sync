@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-04T12:52:30Z",
-  "latest_5m_scan": "2026-08-04T12:52:14Z",
-  "latest_1m_scan": "2026-08-04T12:51:53Z",
+  "snapshot_time": "2026-08-04T12:51:30Z",
+  "latest_5m_scan": "2026-08-04T12:47:06Z",
+  "latest_1m_scan": "2026-08-04T12:50:47Z",
   "rows": [
     {
       "symbol": "UNG",
@@ -105,7 +105,7 @@
       "symbol": "TLT",
       "five_state": "PENDING",
       "five_direction": "short",
-      "five_price": 82.41,
+      "five_price": 82.38,
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "DATA_INCOMPLETE",

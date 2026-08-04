@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-04T12:52:30Z",
-  "latest_5m_scan": "2026-08-04T12:52:14Z",
-  "latest_1m_scan": "2026-08-04T12:51:53Z",
+  "snapshot_time": "2026-08-04T12:49:30Z",
+  "latest_5m_scan": "2026-08-04T12:47:06Z",
+  "latest_1m_scan": "2026-08-04T12:48:34Z",
   "rows": [
     {
       "symbol": "UNG",
@@ -11,7 +11,7 @@
       "five_flow": "n/a",
       "five_reason": "Short confirmation: level failed with 5-minute downside structure.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 9.83,
+      "one_price": 9.84,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "REVIEW_ONLY_SHORT_NO_EXECUTION",
@@ -105,11 +105,11 @@
       "symbol": "TLT",
       "five_state": "PENDING",
       "five_direction": "short",
-      "five_price": 82.41,
+      "five_price": 82.38,
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 82.41,
+      "one_price": 82.38,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "WAIT_DATA",
