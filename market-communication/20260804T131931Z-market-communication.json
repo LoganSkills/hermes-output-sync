@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-04T13:22:31Z",
+  "snapshot_time": "2026-08-04T13:19:31Z",
   "latest_5m_scan": "2026-08-04T13:17:56Z",
-  "latest_1m_scan": "2026-08-04T13:21:38Z",
+  "latest_1m_scan": "2026-08-04T13:19:26Z",
   "rows": [
     {
       "symbol": "DIA",
@@ -95,7 +95,7 @@
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 82.43,
+      "one_price": 82.33,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "WAIT_DATA",
@@ -109,7 +109,7 @@
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 9.78,
+      "one_price": 9.84,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "WAIT_DATA",
