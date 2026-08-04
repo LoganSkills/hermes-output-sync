@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-04T21:46:47Z
+- Snapshot time: 2026-08-04T21:45:47Z
 - Latest 5m scan: 2026-08-04T21:44:17Z
-- Latest 1m scan: 2026-08-04T21:46:41Z
+- Latest 1m scan: 2026-08-04T21:45:33Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -10,9 +10,9 @@
 
 | Symbol | 5m State | 1m State | Alignment | Action | 5m Price | 1m Price | Latest Proposal |
 |---|---|---|---|---|---:|---:|---|
-| IWM | PENDING long | MICRO_BUILDING_LONG | building same way | WATCH_BUILDING | 301.71 | 302.29 | 20260804T194017Z-iwm-confirmed_long-proposal.json |
-| QQQ | PENDING long | MICRO_BUILDING_LONG | building same way | WATCH_BUILDING | 721.17 | 725.29 | 20260804T194017Z-qqq-confirmed_long-proposal.json |
-| SPY | PENDING long | MICRO_BUILDING_LONG | building same way | WATCH_BUILDING | 771.70 | 773.23 | 20260804T194017Z-spy-confirmed_long-proposal.json |
+| IWM | PENDING long | MICRO_BUILDING_LONG | building same way | WATCH_BUILDING | 301.71 | 302.31 | 20260804T194017Z-iwm-confirmed_long-proposal.json |
+| QQQ | PENDING long | MICRO_BUILDING_LONG | building same way | WATCH_BUILDING | 721.17 | 725.48 | 20260804T194017Z-qqq-confirmed_long-proposal.json |
+| SPY | PENDING long | MICRO_BUILDING_LONG | building same way | WATCH_BUILDING | 771.70 | 773.20 | 20260804T194017Z-spy-confirmed_long-proposal.json |
 | RSP | PENDING long | MICRO_BUILDING_SHORT | conflicts | WAIT | 220.21 | 220.21 | 20260804T192445Z-rsp-confirmed_long-proposal.json |
 | SHY | PENDING short | n/a | unclear | WAIT | 81.86 | n/a | 20260803T181344Z-shy-confirmed_short-proposal.json |
 | UNG | PENDING short | MICRO_CHOP | unclear | WAIT | 9.76 | 9.76 | 20260804T143001Z-ung-confirmed_short-proposal.json |

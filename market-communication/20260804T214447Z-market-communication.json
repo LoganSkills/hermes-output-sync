@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-04T21:46:47Z",
+  "snapshot_time": "2026-08-04T21:44:47Z",
   "latest_5m_scan": "2026-08-04T21:44:17Z",
-  "latest_1m_scan": "2026-08-04T21:46:41Z",
+  "latest_1m_scan": "2026-08-04T21:44:26Z",
   "rows": [
     {
       "symbol": "IWM",
@@ -10,11 +10,11 @@
       "five_price": 301.71,
       "five_flow": "n/a",
       "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
-      "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 302.29,
+      "one_state": "MICRO_CONFIRMS_LONG",
+      "one_price": 302.315,
       "one_tms": "higher highs / higher lows",
-      "alignment": "building same way",
-      "action": "WATCH_BUILDING",
+      "alignment": "early 1m alignment",
+      "action": "WATCH_EARLY_TRIGGER",
       "latest_proposal": "20260804T194017Z-iwm-confirmed_long-proposal.json"
     },
     {
@@ -24,11 +24,11 @@
       "five_price": 721.17,
       "five_flow": "n/a",
       "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
-      "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 725.295,
+      "one_state": "MICRO_CONFIRMS_LONG",
+      "one_price": 725.43,
       "one_tms": "higher highs / higher lows",
-      "alignment": "building same way",
-      "action": "WATCH_BUILDING",
+      "alignment": "early 1m alignment",
+      "action": "WATCH_EARLY_TRIGGER",
       "latest_proposal": "20260804T194017Z-qqq-confirmed_long-proposal.json"
     },
     {
@@ -38,11 +38,11 @@
       "five_price": 771.7,
       "five_flow": "n/a",
       "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
-      "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 773.23,
+      "one_state": "MICRO_CONFIRMS_LONG",
+      "one_price": 773.25,
       "one_tms": "higher highs / higher lows",
-      "alignment": "building same way",
-      "action": "WATCH_BUILDING",
+      "alignment": "early 1m alignment",
+      "action": "WATCH_EARLY_TRIGGER",
       "latest_proposal": "20260804T194017Z-spy-confirmed_long-proposal.json"
     },
     {
