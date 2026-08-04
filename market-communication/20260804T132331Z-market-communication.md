@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-04T13:27:31Z
+- Snapshot time: 2026-08-04T13:23:31Z
 - Latest 5m scan: 2026-08-04T13:23:04Z
-- Latest 1m scan: 2026-08-04T13:27:08Z
+- Latest 1m scan: 2026-08-04T13:22:44Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -10,17 +10,17 @@
 
 | Symbol | 5m State | 1m State | Alignment | Action | 5m Price | 1m Price | Latest Proposal |
 |---|---|---|---|---|---:|---:|---|
-| UNG | CONFIRMED_SHORT short | DATA_INCOMPLETE | unclear | REVIEW_ONLY_SHORT_NO_EXECUTION | 9.78 | 9.76 | 20260804T132304Z-ung-confirmed_short-proposal.json |
+| UNG | CONFIRMED_SHORT short | DATA_INCOMPLETE | unclear | REVIEW_ONLY_SHORT_NO_EXECUTION | 9.78 | 9.78 | 20260804T132304Z-ung-confirmed_short-proposal.json |
 | DIA | CONFIRMED_LONG long | DATA_INCOMPLETE | unclear | WAIT_DATA | 537.34 | 537.34 | 20260804T121109Z-dia-confirmed_long-proposal.json |
 | IEF | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 92.82 | n/a | 20260803T171714Z-ief-confirmed_short-proposal.json |
 | IWM | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 296.15 | n/a | 20260803T194615Z-iwm-confirmed_long-proposal.json |
 | QQQ | CONFIRMED_LONG long | DATA_INCOMPLETE | unclear | WAIT_DATA | 708.22 | 708.22 | 20260804T130230Z-qqq-confirmed_long-proposal.json |
 | RSP | CONFIRMED_LONG long | DATA_INCOMPLETE | unclear | WAIT_DATA | 217.12 | n/a | 20260803T190507Z-rsp-confirmed_long-proposal.json |
 | SPY | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 760.30 | 760.30 | 20260803T184435Z-spy-confirmed_long-proposal.json |
-| TLT | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 82.53 | 82.55 | 20260803T200139Z-tlt-confirmed_short-proposal.json |
+| TLT | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 82.53 | 82.43 | 20260803T200139Z-tlt-confirmed_short-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 374.20 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
 | SHY | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 81.83 | n/a | 20260803T181344Z-shy-confirmed_short-proposal.json |
-| SLV | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 53.80 | 53.98 | 20260803T122434Z-slv-confirmed_short-proposal.json |
+| SLV | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 53.80 | 53.80 | 20260803T122434Z-slv-confirmed_short-proposal.json |
 | USO | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 122.13 | n/a | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
 ## Notes

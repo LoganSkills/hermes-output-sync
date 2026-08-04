@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-04T13:27:31Z",
+  "snapshot_time": "2026-08-04T13:26:31Z",
   "latest_5m_scan": "2026-08-04T13:23:04Z",
-  "latest_1m_scan": "2026-08-04T13:27:08Z",
+  "latest_1m_scan": "2026-08-04T13:26:02Z",
   "rows": [
     {
       "symbol": "UNG",
@@ -151,7 +151,7 @@
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 53.98,
+      "one_price": 53.95,
       "one_tms": "n/a",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
