@@ -1,54 +1,54 @@
 {
-  "scan_time": "2026-08-04T20:26:34Z",
+  "scan_time": "2026-08-04T20:25:26Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
       "symbol": "SPY",
       "state": "MICRO_CHOP",
-      "price": 772.125,
+      "price": 772.165,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 772.17875,
-      "one_min_sma_30": 771.9246666666667,
+      "one_min_sma_8": 772.183125,
+      "one_min_sma_30": 771.9201666666667,
       "prior_5bar_high": 772.43,
       "prior_5bar_low": 772.05
     },
     {
       "symbol": "QQQ",
-      "state": "MICRO_CHOP",
-      "price": 723.605,
+      "state": "MICRO_BUILDING_LONG",
+      "price": 723.625,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 723.62125,
-      "one_min_sma_30": 723.0930000000001,
+      "one_min_sma_8": 723.6018750000001,
+      "one_min_sma_30": 723.0768333333333,
       "prior_5bar_high": 723.85,
       "prior_5bar_low": 723.39
     },
     {
       "symbol": "IWM",
-      "state": "MICRO_CONFIRMS_LONG",
-      "price": 301.99,
+      "state": "MICRO_BUILDING_LONG",
+      "price": 301.955,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 301.9075,
-      "one_min_sma_30": 301.82166666666666,
-      "prior_5bar_high": 301.975,
-      "prior_5bar_low": 301.86
+      "one_min_sma_8": 301.8925,
+      "one_min_sma_30": 301.81666666666666,
+      "prior_5bar_high": 301.97,
+      "prior_5bar_low": 301.85
     },
     {
       "symbol": "DIA",
-      "state": "MICRO_BUILDING_LONG",
-      "price": 541.66,
+      "state": "MICRO_CONFIRMS_LONG",
+      "price": 541.74,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 541.3525,
-      "one_min_sma_30": 541.1131666666666,
-      "prior_5bar_high": 541.74,
-      "prior_5bar_low": 541.075
+      "one_min_sma_8": 541.25625,
+      "one_min_sma_30": 541.0966666666667,
+      "prior_5bar_high": 541.67,
+      "prior_5bar_low": 541.025
     },
     {
       "symbol": "RSP",
       "state": "MICRO_BUILDING_LONG",
-      "price": 220.21,
+      "price": 220.2,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 220.185625,
-      "one_min_sma_30": 219.98016666666666,
+      "one_min_sma_8": 220.17125,
+      "one_min_sma_30": 219.97016666666664,
       "prior_5bar_high": 220.23,
       "prior_5bar_low": 220.14
     },
