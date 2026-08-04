@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-04T12:07:29Z",
+  "snapshot_time": "2026-08-04T12:06:29Z",
   "latest_5m_scan": "2026-08-04T12:06:03Z",
-  "latest_1m_scan": "2026-08-04T12:06:48Z",
+  "latest_1m_scan": "2026-08-04T12:05:42Z",
   "rows": [
     {
       "symbol": "TLT",
@@ -11,7 +11,7 @@
       "five_flow": "n/a",
       "five_reason": "Short confirmation: level failed with 5-minute downside structure.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 82.39,
+      "one_price": null,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "REVIEW_ONLY_SHORT_NO_EXECUTION",
