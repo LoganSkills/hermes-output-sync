@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-04T16:13:43Z",
+  "scan_time": "2026-08-04T16:10:20Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -54,13 +54,13 @@
     },
     {
       "symbol": "USO",
-      "state": "MICRO_CONFIRMS_LONG",
-      "price": 116.07,
+      "state": "MICRO_BUILDING_SHORT",
+      "price": 115.79,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 115.93187499999999,
-      "one_min_sma_30": 115.79133333333333,
+      "one_min_sma_8": 115.90062499999999,
+      "one_min_sma_30": 115.82366666666667,
       "prior_5bar_high": 116.065,
-      "prior_5bar_low": 115.79
+      "prior_5bar_low": 115.795
     },
     {
       "symbol": "TLT",
@@ -84,13 +84,13 @@
     },
     {
       "symbol": "UNG",
-      "state": "MICRO_CHOP",
-      "price": 9.74,
+      "state": "MICRO_BUILDING_LONG",
+      "price": 9.75,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 9.741875,
-      "one_min_sma_30": 9.730333333333334,
+      "one_min_sma_8": 9.738125,
+      "one_min_sma_30": 9.729999999999999,
       "prior_5bar_high": 9.75,
-      "prior_5bar_low": 9.735
+      "prior_5bar_low": 9.72
     },
     {
       "symbol": "SLV",
