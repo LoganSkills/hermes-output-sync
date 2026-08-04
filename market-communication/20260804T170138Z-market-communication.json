@@ -1,8 +1,22 @@
 {
-  "snapshot_time": "2026-08-04T17:04:38Z",
+  "snapshot_time": "2026-08-04T17:01:38Z",
   "latest_5m_scan": "2026-08-04T16:59:52Z",
-  "latest_1m_scan": "2026-08-04T17:03:51Z",
+  "latest_1m_scan": "2026-08-04T17:01:35Z",
   "rows": [
+    {
+      "symbol": "QQQ",
+      "five_state": "CONFIRMED_LONG",
+      "five_direction": "long",
+      "five_price": 720.48,
+      "five_flow": "n/a",
+      "five_reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
+      "one_state": "MICRO_BUILDING_LONG",
+      "one_price": 718.35,
+      "one_tms": "higher highs / higher lows",
+      "alignment": "agrees",
+      "action": "REVIEW_LONG_BRACKET",
+      "latest_proposal": "20260804T161831Z-qqq-confirmed_long-proposal.json"
+    },
     {
       "symbol": "RSP",
       "five_state": "CONFIRMED_LONG",
@@ -38,10 +52,10 @@
       "five_price": 93.215,
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
-      "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 93.22,
+      "one_state": "MICRO_CHOP",
+      "one_price": 93.215,
       "one_tms": "range/mixed",
-      "alignment": "conflicts",
+      "alignment": "unclear",
       "action": "WAIT",
       "latest_proposal": "20260804T151632Z-ief-confirmed_short-proposal.json"
     },
@@ -58,20 +72,6 @@
       "alignment": "unclear",
       "action": "WAIT",
       "latest_proposal": "20260804T143511Z-iwm-confirmed_long-proposal.json"
-    },
-    {
-      "symbol": "QQQ",
-      "five_state": "CONFIRMED_LONG",
-      "five_direction": "long",
-      "five_price": 720.48,
-      "five_flow": "n/a",
-      "five_reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
-      "one_state": "MICRO_CHOP",
-      "one_price": 717.94,
-      "one_tms": "higher highs / higher lows",
-      "alignment": "unclear",
-      "action": "WAIT",
-      "latest_proposal": "20260804T161831Z-qqq-confirmed_long-proposal.json"
     },
     {
       "symbol": "SHY",
@@ -152,7 +152,7 @@
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "MICRO_CHOP",
       "one_price": 9.745,
-      "one_tms": "higher highs / higher lows",
+      "one_tms": "range/mixed",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
       "latest_proposal": "20260804T143001Z-ung-confirmed_short-proposal.json"
