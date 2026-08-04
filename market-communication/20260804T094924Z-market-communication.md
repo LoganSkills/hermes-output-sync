@@ -1,6 +1,6 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-04T09:50:24Z
+- Snapshot time: 2026-08-04T09:49:24Z
 - Latest 5m scan: 2026-08-04T09:47:33Z
 - Latest 1m scan: 2026-08-04T09:49:21Z
 - Mode: read-only communication; no orders placed
