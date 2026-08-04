@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-04T16:19:37Z
+- Snapshot time: 2026-08-04T16:18:37Z
 - Latest 5m scan: 2026-08-04T16:18:31Z
-- Latest 1m scan: 2026-08-04T16:19:27Z
+- Latest 1m scan: 2026-08-04T16:18:19Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -20,7 +20,7 @@
 | IEF | NEGATED short | MICRO_BUILDING_LONG | not actionable | REJECT_OR_IGNORE | 93.23 | 93.23 | 20260804T151632Z-ief-confirmed_short-proposal.json |
 | SLV | NEGATED short | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 53.92 | 53.72 | 20260803T122434Z-slv-confirmed_short-proposal.json |
 | TLT | NEGATED short | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 82.75 | 82.62 | 20260803T200139Z-tlt-confirmed_short-proposal.json |
-| UNG | NEGATED short | MICRO_BUILDING_LONG | not actionable | REJECT_OR_IGNORE | 9.76 | 9.76 | 20260804T143001Z-ung-confirmed_short-proposal.json |
+| UNG | NEGATED short | MICRO_CONFIRMS_LONG | not actionable | REJECT_OR_IGNORE | 9.76 | 9.76 | 20260804T143001Z-ung-confirmed_short-proposal.json |
 | USO | NEGATED long | MICRO_BUILDING_LONG | not actionable | REJECT_OR_IGNORE | 116.20 | 116.20 | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
 ## Notes
