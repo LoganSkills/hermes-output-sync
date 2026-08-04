@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-04T16:59:38Z",
+  "snapshot_time": "2026-08-04T16:56:38Z",
   "latest_5m_scan": "2026-08-04T16:54:43Z",
-  "latest_1m_scan": "2026-08-04T16:59:18Z",
+  "latest_1m_scan": "2026-08-04T16:55:52Z",
   "rows": [
     {
       "symbol": "QQQ",
@@ -11,7 +11,7 @@
       "five_flow": "n/a",
       "five_reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
       "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 718.4,
+      "one_price": 718.19,
       "one_tms": "higher highs / higher lows",
       "alignment": "agrees",
       "action": "REVIEW_LONG_BRACKET",
@@ -53,7 +53,7 @@
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "MICRO_CHOP",
-      "one_price": 93.215,
+      "one_price": 93.21,
       "one_tms": "lower highs / lower lows",
       "alignment": "unclear",
       "action": "WAIT",
@@ -151,7 +151,7 @@
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 9.76,
+      "one_price": 9.755,
       "one_tms": "range/mixed",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",

@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-04T16:59:18Z",
+  "scan_time": "2026-08-04T16:57:02Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -15,12 +15,12 @@
     {
       "symbol": "QQQ",
       "state": "MICRO_BUILDING_LONG",
-      "price": 718.4,
+      "price": 718.19,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 718.16625,
-      "one_min_sma_30": 717.059,
-      "prior_5bar_high": 718.49,
-      "prior_5bar_low": 717.815
+      "one_min_sma_8": 717.84625,
+      "one_min_sma_30": 716.7716666666668,
+      "prior_5bar_high": 718.255,
+      "prior_5bar_low": 717.505
     },
     {
       "symbol": "IWM",
@@ -75,10 +75,10 @@
     {
       "symbol": "IEF",
       "state": "MICRO_CHOP",
-      "price": 93.215,
+      "price": 93.205,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 93.209375,
-      "one_min_sma_30": 93.21933333333332,
+      "one_min_sma_8": 93.205,
+      "one_min_sma_30": 93.22049999999999,
       "prior_5bar_high": 93.21,
       "prior_5bar_low": 93.205
     },
