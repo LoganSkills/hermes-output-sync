@@ -1,0 +1,106 @@
+{
+  "scan_time": "2026-08-04T19:26:15Z",
+  "mode": "read-only 1m micro watch",
+  "rows": [
+    {
+      "symbol": "SPY",
+      "state": "MICRO_BUILDING_LONG",
+      "price": 771.265,
+      "one_min_tms": "higher highs / higher lows",
+      "one_min_sma_8": 771.195,
+      "one_min_sma_30": 771.0148333333333,
+      "prior_5bar_high": 771.27,
+      "prior_5bar_low": 770.97
+    },
+    {
+      "symbol": "QQQ",
+      "state": "MICRO_CONFIRMS_LONG",
+      "price": 722.305,
+      "one_min_tms": "higher highs / higher lows",
+      "one_min_sma_8": 721.8575,
+      "one_min_sma_30": 721.5333333333333,
+      "prior_5bar_high": 722.08,
+      "prior_5bar_low": 721.49
+    },
+    {
+      "symbol": "IWM",
+      "state": "MICRO_CHOP",
+      "price": 301.62,
+      "one_min_tms": "range/mixed",
+      "one_min_sma_8": 301.6075,
+      "one_min_sma_30": 301.6215,
+      "prior_5bar_high": 301.65,
+      "prior_5bar_low": 301.54
+    },
+    {
+      "symbol": "DIA",
+      "state": "MICRO_BUILDING_SHORT",
+      "price": 541.2,
+      "one_min_tms": "higher highs / higher lows",
+      "one_min_sma_8": 541.336875,
+      "one_min_sma_30": 541.3081666666667,
+      "prior_5bar_high": 541.43,
+      "prior_5bar_low": 541.28
+    },
+    {
+      "symbol": "RSP",
+      "state": "MICRO_BUILDING_SHORT",
+      "price": 219.91,
+      "one_min_tms": "range/mixed",
+      "one_min_sma_8": 219.951875,
+      "one_min_sma_30": 219.94716666666667,
+      "prior_5bar_high": 219.975,
+      "prior_5bar_low": 219.815
+    },
+    {
+      "symbol": "USO",
+      "state": "MICRO_BUILDING_SHORT",
+      "price": 115.83,
+      "one_min_tms": "range/mixed",
+      "one_min_sma_8": 115.86625000000001,
+      "one_min_sma_30": 115.85083333333334,
+      "prior_5bar_high": 115.91,
+      "prior_5bar_low": 115.8
+    },
+    {
+      "symbol": "TLT",
+      "state": "MICRO_CHOP",
+      "price": 82.745,
+      "one_min_tms": "higher highs / higher lows",
+      "one_min_sma_8": 82.754375,
+      "one_min_sma_30": 82.741,
+      "prior_5bar_high": 82.765,
+      "prior_5bar_low": 82.745
+    },
+    {
+      "symbol": "IEF",
+      "state": "MICRO_CHOP",
+      "price": 93.21,
+      "one_min_tms": "range/mixed",
+      "one_min_sma_8": 93.21,
+      "one_min_sma_30": 93.20533333333333,
+      "prior_5bar_high": 93.21,
+      "prior_5bar_low": 93.21
+    },
+    {
+      "symbol": "UNG",
+      "state": "MICRO_CHOP",
+      "price": 9.76,
+      "one_min_tms": "range/mixed",
+      "one_min_sma_8": 9.75375,
+      "one_min_sma_30": 9.760833333333332,
+      "prior_5bar_high": 9.755,
+      "prior_5bar_low": 9.745
+    },
+    {
+      "symbol": "SLV",
+      "state": "MICRO_BUILDING_SHORT",
+      "price": 54.165,
+      "one_min_tms": "higher highs / higher lows",
+      "one_min_sma_8": 54.169375,
+      "one_min_sma_30": 54.16766666666667,
+      "prior_5bar_high": 54.185,
+      "prior_5bar_low": 54.165
+    }
+  ]
+}
