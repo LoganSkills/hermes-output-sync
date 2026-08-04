@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-04T23:27:51Z",
-  "latest_5m_scan": "2026-08-04T23:27:35Z",
-  "latest_1m_scan": "2026-08-04T23:27:32Z",
+  "snapshot_time": "2026-08-04T23:25:50Z",
+  "latest_5m_scan": "2026-08-04T23:22:25Z",
+  "latest_1m_scan": "2026-08-04T23:25:20Z",
   "rows": [
     {
       "symbol": "UNG",
@@ -94,9 +94,9 @@
       "five_price": 540.43,
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
-      "one_state": "DATA_INCOMPLETE",
+      "one_state": "MICRO_CONFIRMS_SHORT",
       "one_price": 540.43,
-      "one_tms": "n/a",
+      "one_tms": "lower highs / lower lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
       "latest_proposal": "20260804T194017Z-dia-confirmed_long-proposal.json"
@@ -122,9 +122,9 @@
       "five_price": 93.25,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
-      "one_state": "DATA_INCOMPLETE",
+      "one_state": "MICRO_BUILDING_LONG",
       "one_price": 93.25,
-      "one_tms": "n/a",
+      "one_tms": "range/mixed",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
       "latest_proposal": "20260804T180157Z-ief-confirmed_short-proposal.json"
