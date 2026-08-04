@@ -1,6 +1,6 @@
 # Hermes Live 1-Minute Micro Watch
 
-- Scan time: 2026-08-04T21:52:17Z
+- Scan time: 2026-08-04T21:50:03Z
 - Mode: read-only; no orders placed; no proposals written
 - Use: earliest execution clue only; 5-minute confirmation still required
 
@@ -31,29 +31,13 @@
 - Prior 5-bar low: 93.20
 
 ## MICRO_BUILDING_SHORT
-### SPY
-- Price: 772.37
-- 1m TMS: range/mixed
-- 1m 8 SMA: 772.79
-- 1m 30 SMA: 772.71
-- Prior 5-bar high: 773.24
-- Prior 5-bar low: 772.24
-
 ### QQQ
-- Price: 724.26
-- 1m TMS: range/mixed
-- 1m 8 SMA: 724.80
-- 1m 30 SMA: 724.73
-- Prior 5-bar high: 725.31
-- Prior 5-bar low: 724.21
-
-### IWM
-- Price: 301.94
-- 1m TMS: range/mixed
-- 1m 8 SMA: 302.15
-- 1m 30 SMA: 302.17
-- Prior 5-bar high: 302.29
-- Prior 5-bar low: 301.91
+- Price: 724.80
+- 1m TMS: higher highs / higher lows
+- 1m 8 SMA: 725.18
+- 1m 30 SMA: 724.81
+- Prior 5-bar high: 725.62
+- Prior 5-bar low: 724.80
 
 ### RSP
 - Price: 220.21
@@ -72,6 +56,22 @@
 - Prior 5-bar low: 115.83
 
 ## MICRO_CHOP
+### SPY
+- Price: 772.89
+- 1m TMS: higher highs / higher lows
+- 1m 8 SMA: 773.10
+- 1m 30 SMA: 772.78
+- Prior 5-bar high: 773.41
+- Prior 5-bar low: 772.75
+
+### IWM
+- Price: 302.24
+- 1m TMS: higher highs / higher lows
+- 1m 8 SMA: 302.27
+- 1m 30 SMA: 302.20
+- Prior 5-bar high: 302.38
+- Prior 5-bar low: 302.21
+
 ### UNG
 - Price: 9.76
 - 1m TMS: higher highs / higher lows
