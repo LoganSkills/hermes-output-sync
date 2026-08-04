@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-04T13:02:30Z",
+  "snapshot_time": "2026-08-04T13:01:30Z",
   "latest_5m_scan": "2026-08-04T12:57:22Z",
-  "latest_1m_scan": "2026-08-04T13:01:46Z",
+  "latest_1m_scan": "2026-08-04T13:00:40Z",
   "rows": [
     {
       "symbol": "UNG",
@@ -67,7 +67,7 @@
       "five_flow": "n/a",
       "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 707.43,
+      "one_price": 707.5,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "WAIT_DATA",

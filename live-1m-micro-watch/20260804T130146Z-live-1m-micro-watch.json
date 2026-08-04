@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-04T13:02:53Z",
+  "scan_time": "2026-08-04T13:01:46Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -20,7 +20,7 @@
     {
       "symbol": "DIA",
       "state": "DATA_INCOMPLETE",
-      "price": 537.34
+      "price": 537.77
     },
     {
       "symbol": "RSP",
