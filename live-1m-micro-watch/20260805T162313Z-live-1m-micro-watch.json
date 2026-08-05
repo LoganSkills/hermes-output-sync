@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-05T16:26:35Z",
+  "scan_time": "2026-08-05T16:23:13Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -75,10 +75,10 @@
     {
       "symbol": "IEF",
       "state": "MICRO_BUILDING_SHORT",
-      "price": 93.15,
-      "one_min_tms": "range/mixed",
-      "one_min_sma_8": 93.15625,
-      "one_min_sma_30": 93.17933333333333,
+      "price": 93.155,
+      "one_min_tms": "lower highs / lower lows",
+      "one_min_sma_8": 93.155625,
+      "one_min_sma_30": 93.18116666666667,
       "prior_5bar_high": 93.175,
       "prior_5bar_low": 93.135
     },
@@ -95,12 +95,12 @@
     {
       "symbol": "SLV",
       "state": "MICRO_BUILDING_LONG",
-      "price": 56.545,
+      "price": 56.53,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 56.47375,
-      "one_min_sma_30": 56.4195,
-      "prior_5bar_high": 56.53,
-      "prior_5bar_low": 56.43
+      "one_min_sma_8": 56.446875,
+      "one_min_sma_30": 56.410999999999994,
+      "prior_5bar_high": 56.5,
+      "prior_5bar_low": 56.41
     }
   ]
 }
