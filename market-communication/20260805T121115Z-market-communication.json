@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-05T12:14:15Z",
-  "latest_5m_scan": "2026-08-05T12:12:01Z",
-  "latest_1m_scan": "2026-08-05T12:13:49Z",
+  "snapshot_time": "2026-08-05T12:11:15Z",
+  "latest_5m_scan": "2026-08-05T12:06:51Z",
+  "latest_1m_scan": "2026-08-05T12:10:31Z",
   "rows": [
     {
       "symbol": "IWM",
@@ -63,7 +63,7 @@
       "symbol": "UNG",
       "five_state": "PENDING",
       "five_direction": "short",
-      "five_price": 9.78,
+      "five_price": 9.76,
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "DATA_INCOMPLETE",
@@ -72,20 +72,6 @@
       "alignment": "unclear",
       "action": "WAIT_DATA",
       "latest_proposal": "20260804T143001Z-ung-confirmed_short-proposal.json"
-    },
-    {
-      "symbol": "SHY",
-      "five_state": "PENDING",
-      "five_direction": "short",
-      "five_price": 81.86,
-      "five_flow": "n/a",
-      "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
-      "one_state": "n/a",
-      "one_price": null,
-      "one_tms": "n/a",
-      "alignment": "unclear",
-      "action": "WAIT",
-      "latest_proposal": "20260803T181344Z-shy-confirmed_short-proposal.json"
     },
     {
       "symbol": "DIA",
@@ -130,10 +116,24 @@
       "latest_proposal": "20260804T180157Z-ief-confirmed_short-proposal.json"
     },
     {
+      "symbol": "SHY",
+      "five_state": "NEGATED",
+      "five_direction": "short",
+      "five_price": 81.87,
+      "five_flow": "n/a",
+      "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
+      "one_state": "n/a",
+      "one_price": null,
+      "one_tms": "n/a",
+      "alignment": "not actionable",
+      "action": "REJECT_OR_IGNORE",
+      "latest_proposal": "20260803T181344Z-shy-confirmed_short-proposal.json"
+    },
+    {
       "symbol": "SLV",
       "five_state": "NEGATED",
       "five_direction": "short",
-      "five_price": 56.15,
+      "five_price": 56.19,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "DATA_INCOMPLETE",
