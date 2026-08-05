@@ -1,17 +1,25 @@
 # Hermes Live 1-Minute Micro Watch
 
-- Scan time: 2026-08-05T21:34:41Z
+- Scan time: 2026-08-05T21:31:19Z
 - Mode: read-only; no orders placed; no proposals written
 - Use: earliest execution clue only; 5-minute confirmation still required
 
 ## MICRO_CONFIRMS_SHORT
-### IWM
-- Price: 300.20
+### SPY
+- Price: 771.61
 - 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 300.39
-- 1m 30 SMA: 300.54
-- Prior 5-bar high: 300.58
-- Prior 5-bar low: 300.24
+- 1m 8 SMA: 771.83
+- 1m 30 SMA: 771.75
+- Prior 5-bar high: 771.96
+- Prior 5-bar low: 771.74
+
+### IWM
+- Price: 300.34
+- 1m TMS: lower highs / lower lows
+- 1m 8 SMA: 300.50
+- 1m 30 SMA: 300.57
+- Prior 5-bar high: 300.60
+- Prior 5-bar low: 300.39
 
 ### DIA
 - Price: 542.77
@@ -30,14 +38,6 @@
 - Prior 5-bar low: 219.87
 
 ## MICRO_BUILDING_LONG
-### TLT
-- Price: 82.97
-- 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 82.96
-- 1m 30 SMA: 82.96
-- Prior 5-bar high: 82.96
-- Prior 5-bar low: 82.94
-
 ### IEF
 - Price: 93.32
 - 1m TMS: range/mixed
@@ -47,21 +47,29 @@
 - Prior 5-bar low: 93.27
 
 ## MICRO_BUILDING_SHORT
-### SPY
-- Price: 771.55
-- 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 771.71
-- 1m 30 SMA: 771.75
-- Prior 5-bar high: 771.88
-- Prior 5-bar low: 771.37
-
 ### QQQ
-- Price: 719.91
+- Price: 720.04
 - 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 720.17
-- 1m 30 SMA: 720.84
-- Prior 5-bar high: 720.36
+- 1m 8 SMA: 720.44
+- 1m 30 SMA: 720.94
+- Prior 5-bar high: 720.90
 - Prior 5-bar low: 719.83
+
+### TLT
+- Price: 82.95
+- 1m TMS: range/mixed
+- 1m 8 SMA: 82.96
+- 1m 30 SMA: 82.96
+- Prior 5-bar high: 82.97
+- Prior 5-bar low: 82.95
+
+### SLV
+- Price: 56.08
+- 1m TMS: lower highs / lower lows
+- 1m 8 SMA: 56.08
+- 1m 30 SMA: 56.20
+- Prior 5-bar high: 56.09
+- Prior 5-bar low: 56.05
 
 ## MICRO_CHOP
 ### USO
@@ -79,11 +87,3 @@
 - 1m 30 SMA: 9.75
 - Prior 5-bar high: 9.74
 - Prior 5-bar low: 9.73
-
-### SLV
-- Price: 56.11
-- 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 56.07
-- 1m 30 SMA: 56.18
-- Prior 5-bar high: 56.09
-- Prior 5-bar low: 56.05
