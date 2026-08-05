@@ -1,39 +1,39 @@
 # Hermes Live 1-Minute Micro Watch
 
-- Scan time: 2026-08-05T19:28:27Z
+- Scan time: 2026-08-05T19:27:20Z
 - Mode: read-only; no orders placed; no proposals written
 - Use: earliest execution clue only; 5-minute confirmation still required
 
 ## MICRO_CONFIRMS_LONG
 ### SLV
-- Price: 56.23
+- Price: 56.22
 - 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 56.16
-- 1m 30 SMA: 56.08
-- Prior 5-bar high: 56.22
+- 1m 8 SMA: 56.14
+- 1m 30 SMA: 56.07
+- Prior 5-bar high: 56.20
 - Prior 5-bar low: 56.07
 
 ## MICRO_BUILDING_LONG
 ### SPY
-- Price: 771.53
+- Price: 771.59
 - 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 771.39
-- 1m 30 SMA: 771.50
-- Prior 5-bar high: 771.78
+- 1m 8 SMA: 771.37
+- 1m 30 SMA: 771.51
+- Prior 5-bar high: 771.67
 - Prior 5-bar low: 771.10
 
 ### IWM
-- Price: 300.92
+- Price: 300.96
 - 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 300.85
+- 1m 8 SMA: 300.84
 - 1m 30 SMA: 300.84
-- Prior 5-bar high: 301.01
-- Prior 5-bar low: 300.74
+- Prior 5-bar high: 300.98
+- Prior 5-bar low: 300.69
 
 ### RSP
-- Price: 220.05
+- Price: 220.06
 - 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 219.98
+- 1m 8 SMA: 219.97
 - 1m 30 SMA: 219.91
 - Prior 5-bar high: 220.09
 - Prior 5-bar low: 219.89
@@ -47,9 +47,25 @@
 - Prior 5-bar low: 114.87
 
 ## MICRO_BUILDING_SHORT
-### TLT
-- Price: 83.05
+### QQQ
+- Price: 720.84
+- 1m TMS: range/mixed
+- 1m 8 SMA: 720.93
+- 1m 30 SMA: 721.07
+- Prior 5-bar high: 721.23
+- Prior 5-bar low: 720.49
+
+### DIA
+- Price: 544.30
 - 1m TMS: lower highs / lower lows
+- 1m 8 SMA: 544.35
+- 1m 30 SMA: 544.60
+- Prior 5-bar high: 544.53
+- Prior 5-bar low: 544.21
+
+### TLT
+- Price: 83.06
+- 1m TMS: range/mixed
 - 1m 8 SMA: 83.06
 - 1m 30 SMA: 83.06
 - Prior 5-bar high: 83.08
@@ -64,22 +80,6 @@
 - Prior 5-bar low: 93.28
 
 ## MICRO_CHOP
-### QQQ
-- Price: 721.00
-- 1m TMS: range/mixed
-- 1m 8 SMA: 720.90
-- 1m 30 SMA: 721.04
-- Prior 5-bar high: 721.12
-- Prior 5-bar low: 720.49
-
-### DIA
-- Price: 544.45
-- 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 544.38
-- 1m 30 SMA: 544.58
-- Prior 5-bar high: 544.53
-- Prior 5-bar low: 544.30
-
 ### UNG
 - Price: 9.73
 - 1m TMS: lower highs / lower lows
