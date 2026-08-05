@@ -3,18 +3,18 @@
     "DIA": {
       "direction": "long",
       "failure_level": 519.185,
-      "price": 544.81,
+      "price": 544.8,
       "state": "PENDING",
       "trigger_level": 519.185,
-      "updated_at": "2026-08-05T18:03:50Z"
+      "updated_at": "2026-08-05T18:09:00Z"
     },
     "GLD": {
       "direction": "short",
       "failure_level": 370.966875,
-      "price": 390.22,
+      "price": 390.35,
       "state": "NEGATED",
       "trigger_level": 370.966875,
-      "updated_at": "2026-08-05T18:03:50Z"
+      "updated_at": "2026-08-05T18:09:00Z"
     },
     "IEF": {
       "direction": "short",
@@ -22,31 +22,31 @@
       "price": 93.295,
       "state": "PENDING",
       "trigger_level": 93.62875,
-      "updated_at": "2026-08-05T18:03:50Z"
+      "updated_at": "2026-08-05T18:09:00Z"
     },
     "IWM": {
       "direction": "long",
       "failure_level": 290.68,
-      "price": 300.965,
+      "price": 300.94,
       "state": "PENDING",
       "trigger_level": 290.68,
-      "updated_at": "2026-08-05T18:03:50Z"
+      "updated_at": "2026-08-05T18:09:00Z"
     },
     "QQQ": {
       "direction": "long",
       "failure_level": 686.78,
-      "price": 721.08,
-      "state": "PENDING",
+      "price": 720.92,
+      "state": "NEGATED",
       "trigger_level": 686.78,
-      "updated_at": "2026-08-05T18:03:50Z"
+      "updated_at": "2026-08-05T18:09:00Z"
     },
     "RSP": {
       "direction": "long",
       "failure_level": 211.82433333333333,
-      "price": 220.085,
+      "price": 220.12,
       "state": "CONFIRMED_LONG",
       "trigger_level": 211.82433333333333,
-      "updated_at": "2026-08-05T18:03:50Z"
+      "updated_at": "2026-08-05T18:09:00Z"
     },
     "SHY": {
       "direction": "short",
@@ -54,48 +54,48 @@
       "price": 81.885,
       "state": "NEGATED",
       "trigger_level": 81.93375,
-      "updated_at": "2026-08-05T18:03:50Z"
+      "updated_at": "2026-08-05T18:09:00Z"
     },
     "SLV": {
       "direction": "short",
       "failure_level": 52.225,
-      "price": 56.205,
+      "price": 56.195,
       "state": "NEGATED",
       "trigger_level": 52.225,
-      "updated_at": "2026-08-05T18:03:50Z"
+      "updated_at": "2026-08-05T18:09:00Z"
     },
     "SPY": {
       "direction": "long",
       "failure_level": 743.5550000000001,
-      "price": 771.77,
-      "state": "PENDING",
+      "price": 771.82,
+      "state": "CONFIRMED_LONG",
       "trigger_level": 743.5550000000001,
-      "updated_at": "2026-08-05T18:03:50Z"
+      "updated_at": "2026-08-05T18:09:00Z"
     },
     "TLT": {
       "direction": "short",
       "failure_level": 83.79,
-      "price": 83.055,
+      "price": 83.05,
       "state": "PENDING",
       "trigger_level": 83.79,
-      "updated_at": "2026-08-05T18:03:50Z"
+      "updated_at": "2026-08-05T18:09:00Z"
     },
     "UNG": {
       "direction": "short",
       "failure_level": 10.19,
-      "price": 9.82,
+      "price": 9.815,
       "state": "PENDING",
       "trigger_level": 10.19,
-      "updated_at": "2026-08-05T18:03:50Z"
+      "updated_at": "2026-08-05T18:09:00Z"
     },
     "USO": {
       "direction": "long",
       "failure_level": 126.5,
-      "price": 114.55,
+      "price": 114.75,
       "state": "NEGATED",
       "trigger_level": 126.5,
-      "updated_at": "2026-08-05T18:03:50Z"
+      "updated_at": "2026-08-05T18:09:00Z"
     }
   },
-  "updated_at": "2026-08-05T18:03:50Z"
+  "updated_at": "2026-08-05T18:09:00Z"
 }
