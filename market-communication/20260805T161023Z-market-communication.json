@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-05T16:11:23Z",
+  "snapshot_time": "2026-08-05T16:10:23Z",
   "latest_5m_scan": "2026-08-05T16:10:02Z",
-  "latest_1m_scan": "2026-08-05T16:10:50Z",
+  "latest_1m_scan": "2026-08-05T16:09:42Z",
   "rows": [
     {
       "symbol": "IEF",
@@ -165,7 +165,7 @@
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
       "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 115.49,
+      "one_price": 115.31,
       "one_tms": "range/mixed",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
