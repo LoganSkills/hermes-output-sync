@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-05T12:48:59Z",
+  "scan_time": "2026-08-05T12:45:41Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -35,7 +35,7 @@
     {
       "symbol": "TLT",
       "state": "DATA_INCOMPLETE",
-      "price": 83.06
+      "price": null
     },
     {
       "symbol": "IEF",
