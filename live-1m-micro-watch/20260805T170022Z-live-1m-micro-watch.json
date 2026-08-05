@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-05T17:01:30Z",
+  "scan_time": "2026-08-05T17:00:22Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -75,10 +75,10 @@
     {
       "symbol": "IEF",
       "state": "MICRO_BUILDING_LONG",
-      "price": 93.195,
+      "price": 93.185,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 93.185,
-      "one_min_sma_30": 93.16866666666667,
+      "one_min_sma_8": 93.1825,
+      "one_min_sma_30": 93.16783333333333,
       "prior_5bar_high": 93.195,
       "prior_5bar_low": 93.175
     },
