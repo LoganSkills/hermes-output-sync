@@ -1,6 +1,6 @@
 # Hermes Live 1-Minute Micro Watch
 
-- Scan time: 2026-08-05T15:51:38Z
+- Scan time: 2026-08-05T15:49:23Z
 - Mode: read-only; no orders placed; no proposals written
 - Use: earliest execution clue only; 5-minute confirmation still required
 
@@ -17,10 +17,10 @@
 ### USO
 - Price: 115.31
 - 1m TMS: range/mixed
-- 1m 8 SMA: 115.17
-- 1m 30 SMA: 115.00
-- Prior 5-bar high: 115.31
-- Prior 5-bar low: 115.04
+- 1m 8 SMA: 115.09
+- 1m 30 SMA: 114.97
+- Prior 5-bar high: 115.24
+- Prior 5-bar low: 114.84
 
 ### UNG
 - Price: 9.75
@@ -56,11 +56,11 @@
 - Prior 5-bar low: 544.59
 
 ### IEF
-- Price: 93.17
-- 1m TMS: range/mixed
+- Price: 93.19
+- 1m TMS: higher highs / higher lows
 - 1m 8 SMA: 93.21
 - 1m 30 SMA: 93.22
-- Prior 5-bar high: 93.22
+- Prior 5-bar high: 93.23
 - Prior 5-bar low: 93.19
 
 ## MICRO_CHOP
