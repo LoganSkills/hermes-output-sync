@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-05T23:30:38Z",
-  "latest_5m_scan": "2026-08-05T23:29:35Z",
-  "latest_1m_scan": "2026-08-05T23:29:52Z",
+  "snapshot_time": "2026-08-05T23:27:37Z",
+  "latest_5m_scan": "2026-08-05T23:24:24Z",
+  "latest_1m_scan": "2026-08-05T23:26:33Z",
   "rows": [
     {
       "symbol": "RSP",
@@ -136,9 +136,9 @@
       "five_price": 56.065,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
-      "one_state": "DATA_INCOMPLETE",
+      "one_state": "MICRO_BUILDING_SHORT",
       "one_price": 56.065,
-      "one_tms": "n/a",
+      "one_tms": "higher highs / higher lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
       "latest_proposal": "20260803T122434Z-slv-confirmed_short-proposal.json"
