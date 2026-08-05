@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-05T13:09:17Z",
-  "latest_5m_scan": "2026-08-05T13:08:48Z",
-  "latest_1m_scan": "2026-08-05T13:08:45Z",
+  "snapshot_time": "2026-08-05T13:08:17Z",
+  "latest_5m_scan": "2026-08-05T13:03:38Z",
+  "latest_1m_scan": "2026-08-05T13:07:39Z",
   "rows": [
     {
       "symbol": "IWM",
@@ -58,20 +58,6 @@
       "alignment": "unclear",
       "action": "WAIT_DATA",
       "latest_proposal": "20260804T194017Z-spy-confirmed_long-proposal.json"
-    },
-    {
-      "symbol": "UNG",
-      "five_state": "PENDING",
-      "five_direction": "short",
-      "five_price": 9.77,
-      "five_flow": "n/a",
-      "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
-      "one_state": "DATA_INCOMPLETE",
-      "one_price": 9.77,
-      "one_tms": "n/a",
-      "alignment": "unclear",
-      "action": "WAIT_DATA",
-      "latest_proposal": "20260804T143001Z-ung-confirmed_short-proposal.json"
     },
     {
       "symbol": "SHY",
@@ -156,6 +142,20 @@
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
       "latest_proposal": "20260804T180157Z-tlt-confirmed_short-proposal.json"
+    },
+    {
+      "symbol": "UNG",
+      "five_state": "NEGATED",
+      "five_direction": "short",
+      "five_price": 9.8,
+      "five_flow": "n/a",
+      "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
+      "one_state": "DATA_INCOMPLETE",
+      "one_price": 9.8,
+      "one_tms": "n/a",
+      "alignment": "not actionable",
+      "action": "REJECT_OR_IGNORE",
+      "latest_proposal": "20260804T143001Z-ung-confirmed_short-proposal.json"
     },
     {
       "symbol": "USO",

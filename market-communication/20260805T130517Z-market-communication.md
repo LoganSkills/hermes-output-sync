@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-05T13:09:17Z
-- Latest 5m scan: 2026-08-05T13:08:48Z
-- Latest 1m scan: 2026-08-05T13:08:45Z
+- Snapshot time: 2026-08-05T13:05:17Z
+- Latest 5m scan: 2026-08-05T13:03:38Z
+- Latest 1m scan: 2026-08-05T13:04:21Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -14,13 +14,13 @@
 | QQQ | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 724.93 | 724.93 | 20260804T194017Z-qqq-confirmed_long-proposal.json |
 | RSP | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 220.21 | n/a | 20260804T192445Z-rsp-confirmed_long-proposal.json |
 | SPY | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 774.59 | 774.59 | 20260804T194017Z-spy-confirmed_long-proposal.json |
-| UNG | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 9.77 | 9.77 | 20260804T143001Z-ung-confirmed_short-proposal.json |
 | SHY | PENDING short | n/a | unclear | WAIT | 81.86 | n/a | 20260803T181344Z-shy-confirmed_short-proposal.json |
 | DIA | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 540.43 | n/a | 20260804T194017Z-dia-confirmed_long-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 384.69 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
 | IEF | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 93.25 | n/a | 20260804T180157Z-ief-confirmed_short-proposal.json |
 | SLV | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 55.89 | 55.89 | 20260803T122434Z-slv-confirmed_short-proposal.json |
 | TLT | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 83.06 | 83.06 | 20260804T180157Z-tlt-confirmed_short-proposal.json |
+| UNG | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 9.80 | 9.80 | 20260804T143001Z-ung-confirmed_short-proposal.json |
 | USO | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 116.19 | 116.19 | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
 ## Notes
@@ -28,9 +28,9 @@
 - QQQ: WAIT_DATA; 5m flow: n/a; 5m reason: Long candidate is still waiting for 5-minute confirmation.
 - RSP: WAIT_DATA; 5m flow: n/a; 5m reason: Long candidate is still waiting for 5-minute confirmation.
 - SPY: WAIT_DATA; 5m flow: n/a; 5m reason: Long candidate is still waiting for 5-minute confirmation.
-- UNG: WAIT_DATA; 5m flow: n/a; 5m reason: Short candidate is still waiting for 5-minute confirmation.
 - SHY: WAIT; 5m flow: n/a; 5m reason: Short candidate is still waiting for 5-minute confirmation.
 - DIA: REJECT_OR_IGNORE; 5m flow: n/a; 5m reason: Long idea negated: failure level or 5-minute structure broke.
 - GLD: REJECT_OR_IGNORE; 5m flow: n/a; 5m reason: Short idea negated: reclaim or 5-minute upside structure appeared.
 - IEF: REJECT_OR_IGNORE; 5m flow: n/a; 5m reason: Short idea negated: reclaim or 5-minute upside structure appeared.
 - SLV: REJECT_OR_IGNORE; 5m flow: n/a; 5m reason: Short idea negated: reclaim or 5-minute upside structure appeared.
+- TLT: REJECT_OR_IGNORE; 5m flow: n/a; 5m reason: Short idea negated: reclaim or 5-minute upside structure appeared.
