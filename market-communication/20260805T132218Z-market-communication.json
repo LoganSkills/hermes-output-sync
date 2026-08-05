@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-05T13:25:18Z",
-  "latest_5m_scan": "2026-08-05T13:24:18Z",
-  "latest_1m_scan": "2026-08-05T13:25:14Z",
+  "snapshot_time": "2026-08-05T13:22:18Z",
+  "latest_5m_scan": "2026-08-05T13:19:08Z",
+  "latest_1m_scan": "2026-08-05T13:21:56Z",
   "rows": [
     {
       "symbol": "IWM",
@@ -105,7 +105,7 @@
       "symbol": "GLD",
       "five_state": "NEGATED",
       "five_direction": "short",
-      "five_price": 384.97,
+      "five_price": 384.69,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "n/a",
@@ -133,7 +133,7 @@
       "symbol": "SLV",
       "five_state": "NEGATED",
       "five_direction": "short",
-      "five_price": 55.87,
+      "five_price": 55.84,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "DATA_INCOMPLETE",
