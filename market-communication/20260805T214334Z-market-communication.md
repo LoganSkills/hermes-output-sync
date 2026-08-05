@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-05T21:44:34Z
+- Snapshot time: 2026-08-05T21:43:34Z
 - Latest 5m scan: 2026-08-05T21:41:03Z
-- Latest 1m scan: 2026-08-05T21:43:40Z
+- Latest 1m scan: 2026-08-05T21:42:33Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -17,10 +17,10 @@
 | UNG | PENDING short | MICRO_CHOP | unclear | WAIT | 9.74 | 9.74 | 20260805T195233Z-ung-confirmed_short-proposal.json |
 | DIA | NEGATED long | MICRO_CONFIRMS_SHORT | not actionable | REJECT_OR_IGNORE | 542.77 | 542.77 | 20260805T173759Z-dia-confirmed_long-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 389.62 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
-| IWM | NEGATED long | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 299.77 | 300.21 | 20260805T172739Z-iwm-confirmed_long-proposal.json |
-| QQQ | NEGATED long | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 717.10 | 719.72 | 20260804T194017Z-qqq-confirmed_long-proposal.json |
-| SLV | NEGATED short | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 56.06 | 56.10 | 20260803T122434Z-slv-confirmed_short-proposal.json |
-| SPY | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 770.60 | 771.51 | 20260805T185024Z-spy-confirmed_long-proposal.json |
+| IWM | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 299.77 | 300.27 | 20260805T172739Z-iwm-confirmed_long-proposal.json |
+| QQQ | NEGATED long | MICRO_CONFIRMS_SHORT | not actionable | REJECT_OR_IGNORE | 717.10 | 719.32 | 20260804T194017Z-qqq-confirmed_long-proposal.json |
+| SLV | NEGATED short | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 56.06 | 56.08 | 20260803T122434Z-slv-confirmed_short-proposal.json |
+| SPY | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 770.60 | 771.56 | 20260805T185024Z-spy-confirmed_long-proposal.json |
 | USO | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 114.90 | 114.90 | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
 ## Notes
