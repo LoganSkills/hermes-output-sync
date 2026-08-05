@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-05T00:02:52Z
+- Snapshot time: 2026-08-04T23:58:52Z
 - Latest 5m scan: 2026-08-04T23:58:35Z
-- Latest 1m scan: 2026-08-05T00:02:44Z
+- Latest 1m scan: 2026-08-04T23:58:19Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -10,18 +10,18 @@
 
 | Symbol | 5m State | 1m State | Alignment | Action | 5m Price | 1m Price | Latest Proposal |
 |---|---|---|---|---|---:|---:|---|
-| IWM | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 301.71 | n/a | 20260804T194017Z-iwm-confirmed_long-proposal.json |
+| IWM | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 301.71 | 301.71 | 20260804T194017Z-iwm-confirmed_long-proposal.json |
 | QQQ | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 721.17 | 721.17 | 20260804T194017Z-qqq-confirmed_long-proposal.json |
-| RSP | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 220.21 | n/a | 20260804T192445Z-rsp-confirmed_long-proposal.json |
+| RSP | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 220.21 | 220.21 | 20260804T192445Z-rsp-confirmed_long-proposal.json |
 | SPY | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 771.70 | 771.70 | 20260804T194017Z-spy-confirmed_long-proposal.json |
 | UNG | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 9.76 | 9.76 | 20260804T143001Z-ung-confirmed_short-proposal.json |
 | SHY | PENDING short | n/a | unclear | WAIT | 81.86 | n/a | 20260803T181344Z-shy-confirmed_short-proposal.json |
-| DIA | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 540.43 | n/a | 20260804T194017Z-dia-confirmed_long-proposal.json |
+| DIA | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 540.43 | 540.43 | 20260804T194017Z-dia-confirmed_long-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 374.13 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
-| IEF | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 93.25 | n/a | 20260804T180157Z-ief-confirmed_short-proposal.json |
-| SLV | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 53.84 | n/a | 20260803T122434Z-slv-confirmed_short-proposal.json |
+| IEF | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 93.25 | 93.25 | 20260804T180157Z-ief-confirmed_short-proposal.json |
+| SLV | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 53.84 | 53.84 | 20260803T122434Z-slv-confirmed_short-proposal.json |
 | TLT | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 82.88 | 82.88 | 20260804T180157Z-tlt-confirmed_short-proposal.json |
-| USO | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 115.75 | n/a | 20260731T181940Z-uso-confirmed_long-proposal.json |
+| USO | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 115.75 | 115.75 | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
 ## Notes
 - IWM: WAIT_DATA; 5m flow: n/a; 5m reason: Long candidate is still waiting for 5-minute confirmation.
