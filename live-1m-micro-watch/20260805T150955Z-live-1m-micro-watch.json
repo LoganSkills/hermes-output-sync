@@ -1,76 +1,76 @@
 {
-  "scan_time": "2026-08-05T15:11:02Z",
+  "scan_time": "2026-08-05T15:09:55Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
       "symbol": "SPY",
-      "state": "MICRO_CHOP",
-      "price": 773.62,
+      "state": "MICRO_BUILDING_SHORT",
+      "price": 773.335,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 773.54,
-      "one_min_sma_30": 773.7379999999999,
+      "one_min_sma_8": 773.52875,
+      "one_min_sma_30": 773.7478333333333,
       "prior_5bar_high": 773.75,
       "prior_5bar_low": 773.18
     },
     {
       "symbol": "QQQ",
       "state": "MICRO_BUILDING_LONG",
-      "price": 723.69,
+      "price": 723.345,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 723.201875,
-      "one_min_sma_30": 723.1324999999999,
+      "one_min_sma_8": 723.135,
+      "one_min_sma_30": 723.1268333333334,
       "prior_5bar_high": 723.41,
       "prior_5bar_low": 722.56
     },
     {
       "symbol": "IWM",
-      "state": "MICRO_BUILDING_LONG",
-      "price": 301.44,
+      "state": "MICRO_CHOP",
+      "price": 301.31,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 301.405,
-      "one_min_sma_30": 301.3005,
-      "prior_5bar_high": 301.5,
+      "one_min_sma_8": 301.38625,
+      "one_min_sma_30": 301.2998333333333,
+      "prior_5bar_high": 301.52,
       "prior_5bar_low": 301.21
     },
     {
       "symbol": "DIA",
       "state": "MICRO_BUILDING_SHORT",
-      "price": 546.045,
-      "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 546.184375,
-      "one_min_sma_30": 546.0665,
-      "prior_5bar_high": 546.35,
-      "prior_5bar_low": 545.87
+      "price": 545.87,
+      "one_min_tms": "range/mixed",
+      "one_min_sma_8": 546.195,
+      "one_min_sma_30": 546.0591666666667,
+      "prior_5bar_high": 546.39,
+      "prior_5bar_low": 546.045
     },
     {
       "symbol": "RSP",
       "state": "MICRO_BUILDING_SHORT",
-      "price": 219.865,
+      "price": 219.85,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 219.92875,
-      "one_min_sma_30": 220.05866666666668,
-      "prior_5bar_high": 219.99,
-      "prior_5bar_low": 219.85
+      "one_min_sma_8": 219.935,
+      "one_min_sma_30": 220.07766666666666,
+      "prior_5bar_high": 220.02,
+      "prior_5bar_low": 219.91
     },
     {
       "symbol": "USO",
       "state": "MICRO_BUILDING_LONG",
-      "price": 115.13,
+      "price": 114.925,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 114.630625,
-      "one_min_sma_30": 114.704,
-      "prior_5bar_high": 114.925,
+      "one_min_sma_8": 114.604375,
+      "one_min_sma_30": 114.68,
+      "prior_5bar_high": 114.88,
       "prior_5bar_low": 114.05
     },
     {
       "symbol": "TLT",
       "state": "MICRO_BUILDING_SHORT",
-      "price": 82.955,
+      "price": 82.97,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 82.986875,
-      "one_min_sma_30": 82.9935,
-      "prior_5bar_high": 83.01,
-      "prior_5bar_low": 82.955
+      "one_min_sma_8": 83.00875,
+      "one_min_sma_30": 82.99633333333333,
+      "prior_5bar_high": 83.055,
+      "prior_5bar_low": 82.965
     },
     {
       "symbol": "IEF",
@@ -87,19 +87,19 @@
       "state": "MICRO_CHOP",
       "price": 9.735,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 9.72625,
-      "one_min_sma_30": 9.751166666666668,
-      "prior_5bar_high": 9.735,
+      "one_min_sma_8": 9.725,
+      "one_min_sma_30": 9.752666666666666,
+      "prior_5bar_high": 9.73,
       "prior_5bar_low": 9.715
     },
     {
       "symbol": "SLV",
-      "state": "MICRO_BUILDING_LONG",
-      "price": 56.42,
+      "state": "MICRO_CHOP",
+      "price": 56.405,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 56.41125,
-      "one_min_sma_30": 56.36716666666667,
-      "prior_5bar_high": 56.435,
+      "one_min_sma_8": 56.42125,
+      "one_min_sma_30": 56.35916666666667,
+      "prior_5bar_high": 56.49,
       "prior_5bar_low": 56.33
     }
   ]
