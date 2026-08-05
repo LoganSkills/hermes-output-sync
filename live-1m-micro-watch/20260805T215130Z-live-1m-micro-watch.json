@@ -1,36 +1,36 @@
 {
-  "scan_time": "2026-08-05T21:54:52Z",
+  "scan_time": "2026-08-05T21:51:30Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
       "symbol": "SPY",
       "state": "MICRO_CHOP",
-      "price": 771.5,
-      "one_min_tms": "range/mixed",
-      "one_min_sma_8": 771.451875,
-      "one_min_sma_30": 771.5366666666666,
+      "price": 771.505,
+      "one_min_tms": "lower highs / lower lows",
+      "one_min_sma_8": 771.413125,
+      "one_min_sma_30": 771.5693333333334,
       "prior_5bar_high": 771.66,
-      "prior_5bar_low": 771.24
+      "prior_5bar_low": 771.22
     },
     {
       "symbol": "QQQ",
       "state": "MICRO_CONFIRMS_SHORT",
-      "price": 718.825,
+      "price": 719.37,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 719.568125,
-      "one_min_sma_30": 719.99,
-      "prior_5bar_high": 719.915,
-      "prior_5bar_low": 718.895
+      "one_min_sma_8": 719.766875,
+      "one_min_sma_30": 720.1388333333333,
+      "prior_5bar_high": 720.09,
+      "prior_5bar_low": 719.55
     },
     {
       "symbol": "IWM",
-      "state": "MICRO_CONFIRMS_SHORT",
-      "price": 300.1,
+      "state": "MICRO_CHOP",
+      "price": 300.18,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 300.195625,
-      "one_min_sma_30": 300.2776666666667,
+      "one_min_sma_8": 300.169375,
+      "one_min_sma_30": 300.3088333333333,
       "prior_5bar_high": 300.32,
-      "prior_5bar_low": 300.15
+      "prior_5bar_low": 300.04
     },
     {
       "symbol": "DIA",
@@ -95,12 +95,12 @@
     {
       "symbol": "SLV",
       "state": "MICRO_BUILDING_SHORT",
-      "price": 56.065,
+      "price": 56.085,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 56.0975,
-      "one_min_sma_30": 56.0905,
-      "prior_5bar_high": 56.135,
-      "prior_5bar_low": 56.075
+      "one_min_sma_8": 56.1075,
+      "one_min_sma_30": 56.100500000000004,
+      "prior_5bar_high": 56.145,
+      "prior_5bar_low": 56.09
     }
   ]
 }
