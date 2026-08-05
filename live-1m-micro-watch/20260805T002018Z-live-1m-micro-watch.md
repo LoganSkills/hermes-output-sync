@@ -1,12 +1,12 @@
 # Hermes Live 1-Minute Micro Watch
 
-- Scan time: 2026-08-05T00:23:36Z
+- Scan time: 2026-08-05T00:20:18Z
 - Mode: read-only; no orders placed; no proposals written
 - Use: earliest execution clue only; 5-minute confirmation still required
 
 ## DATA_INCOMPLETE
 ### SPY
-- Price: n/a
+- Price: 771.70
 - 1m TMS: n/a
 - 1m 8 SMA: n/a
 - 1m 30 SMA: n/a
