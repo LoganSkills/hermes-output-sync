@@ -1,8 +1,17 @@
 # Hermes Live 1-Minute Micro Watch
 
-- Scan time: 2026-08-05T21:14:26Z
+- Scan time: 2026-08-05T21:13:18Z
 - Mode: read-only; no orders placed; no proposals written
 - Use: earliest execution clue only; 5-minute confirmation still required
+
+## MICRO_CONFIRMS_LONG
+### IWM
+- Price: 300.69
+- 1m TMS: higher highs / higher lows
+- 1m 8 SMA: 300.63
+- 1m 30 SMA: 300.60
+- Prior 5-bar high: 300.68
+- Prior 5-bar low: 300.57
 
 ## MICRO_CONFIRMS_SHORT
 ### DIA
@@ -15,28 +24,12 @@
 
 ## MICRO_BUILDING_LONG
 ### SPY
-- Price: 771.74
+- Price: 771.70
 - 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 771.70
-- 1m 30 SMA: 771.66
-- Prior 5-bar high: 771.78
+- 1m 8 SMA: 771.68
+- 1m 30 SMA: 771.65
+- Prior 5-bar high: 771.79
 - Prior 5-bar low: 771.54
-
-### IWM
-- Price: 300.66
-- 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 300.64
-- 1m 30 SMA: 300.60
-- Prior 5-bar high: 300.69
-- Prior 5-bar low: 300.57
-
-### TLT
-- Price: 82.97
-- 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 82.96
-- 1m 30 SMA: 82.95
-- Prior 5-bar high: 82.97
-- Prior 5-bar low: 82.95
 
 ### IEF
 - Price: 93.32
@@ -57,12 +50,12 @@
 
 ## MICRO_CHOP
 ### QQQ
-- Price: 721.07
+- Price: 721.06
 - 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 721.17
-- 1m 30 SMA: 720.85
-- Prior 5-bar high: 721.30
-- Prior 5-bar low: 721.06
+- 1m 8 SMA: 721.18
+- 1m 30 SMA: 720.83
+- Prior 5-bar high: 721.33
+- Prior 5-bar low: 721.11
 
 ### USO
 - Price: 114.90
@@ -71,6 +64,14 @@
 - 1m 30 SMA: 114.94
 - Prior 5-bar high: 114.83
 - Prior 5-bar low: 114.70
+
+### TLT
+- Price: 82.95
+- 1m TMS: higher highs / higher lows
+- 1m 8 SMA: 82.96
+- 1m 30 SMA: 82.95
+- Prior 5-bar high: 82.97
+- Prior 5-bar low: 82.95
 
 ### UNG
 - Price: 9.74
@@ -81,9 +82,9 @@
 - Prior 5-bar low: 9.73
 
 ### SLV
-- Price: 56.24
+- Price: 56.23
 - 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 56.22
-- 1m 30 SMA: 56.26
-- Prior 5-bar high: 56.24
+- 1m 8 SMA: 56.21
+- 1m 30 SMA: 56.27
+- Prior 5-bar high: 56.23
 - Prior 5-bar low: 56.18
