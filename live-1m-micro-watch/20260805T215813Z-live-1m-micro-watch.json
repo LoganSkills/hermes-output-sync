@@ -1,16 +1,16 @@
 {
-  "scan_time": "2026-08-05T21:59:21Z",
+  "scan_time": "2026-08-05T21:58:13Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
       "symbol": "SPY",
       "state": "MICRO_BUILDING_SHORT",
-      "price": 769.79,
+      "price": 770.915,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 771.11,
-      "one_min_sma_30": 771.3723333333332,
+      "one_min_sma_8": 771.324375,
+      "one_min_sma_30": 771.4395000000001,
       "prior_5bar_high": 771.595,
-      "prior_5bar_low": 770.885
+      "prior_5bar_low": 770.965
     },
     {
       "symbol": "QQQ",
