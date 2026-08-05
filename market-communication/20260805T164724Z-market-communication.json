@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-05T16:51:24Z",
+  "snapshot_time": "2026-08-05T16:47:24Z",
   "latest_5m_scan": "2026-08-05T16:46:17Z",
-  "latest_1m_scan": "2026-08-05T16:51:23Z",
+  "latest_1m_scan": "2026-08-05T16:46:53Z",
   "rows": [
     {
       "symbol": "DIA",
@@ -25,7 +25,7 @@
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 93.18,
+      "one_price": 93.185,
       "one_tms": "range/mixed",
       "alignment": "conflicts",
       "action": "WAIT",
@@ -164,8 +164,8 @@
       "five_price": 115.46,
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
-      "one_state": "MICRO_BUILDING_SHORT",
-      "one_price": 114.77,
+      "one_state": "MICRO_BUILDING_LONG",
+      "one_price": 115.46,
       "one_tms": "higher highs / higher lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",

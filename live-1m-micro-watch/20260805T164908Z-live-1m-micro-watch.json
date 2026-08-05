@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-05T16:51:23Z",
+  "scan_time": "2026-08-05T16:49:08Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -84,11 +84,11 @@
     },
     {
       "symbol": "UNG",
-      "state": "MICRO_BUILDING_LONG",
-      "price": 9.81,
+      "state": "MICRO_CHOP",
+      "price": 9.805,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 9.809375000000001,
-      "one_min_sma_30": 9.770999999999999,
+      "one_min_sma_8": 9.80875,
+      "one_min_sma_30": 9.767666666666667,
       "prior_5bar_high": 9.815,
       "prior_5bar_low": 9.8
     },
