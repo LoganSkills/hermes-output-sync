@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-05T16:21:23Z",
+  "snapshot_time": "2026-08-05T16:20:23Z",
   "latest_5m_scan": "2026-08-05T16:20:23Z",
-  "latest_1m_scan": "2026-08-05T16:20:58Z",
+  "latest_1m_scan": "2026-08-05T16:19:50Z",
   "rows": [
     {
       "symbol": "IEF",
@@ -137,7 +137,7 @@
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 56.49,
+      "one_price": 56.495,
       "one_tms": "range/mixed",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
