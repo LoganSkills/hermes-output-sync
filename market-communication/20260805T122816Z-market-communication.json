@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-05T12:29:16Z",
+  "snapshot_time": "2026-08-05T12:28:16Z",
   "latest_5m_scan": "2026-08-05T12:27:29Z",
-  "latest_1m_scan": "2026-08-05T12:29:12Z",
+  "latest_1m_scan": "2026-08-05T12:28:05Z",
   "rows": [
     {
       "symbol": "IWM",
@@ -67,7 +67,7 @@
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 9.75,
+      "one_price": 9.78,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "WAIT_DATA",
@@ -137,7 +137,7 @@
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 56.32,
+      "one_price": 56.46,
       "one_tms": "n/a",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
