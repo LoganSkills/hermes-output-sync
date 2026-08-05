@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-05T17:22:25Z",
+  "snapshot_time": "2026-08-05T17:19:25Z",
   "latest_5m_scan": "2026-08-05T17:17:18Z",
-  "latest_1m_scan": "2026-08-05T17:21:51Z",
+  "latest_1m_scan": "2026-08-05T17:18:27Z",
   "rows": [
     {
       "symbol": "DIA",
@@ -95,8 +95,8 @@
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "MICRO_CHOP",
-      "one_price": 9.8,
-      "one_tms": "lower highs / lower lows",
+      "one_price": 9.795,
+      "one_tms": "range/mixed",
       "alignment": "unclear",
       "action": "WAIT",
       "latest_proposal": "20260805T143652Z-ung-confirmed_short-proposal.json"
@@ -123,7 +123,7 @@
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "MICRO_CONFIRMS_LONG",
-      "one_price": 93.265,
+      "one_price": 93.24,
       "one_tms": "higher highs / higher lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
@@ -137,7 +137,7 @@
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "MICRO_BUILDING_SHORT",
-      "one_price": 56.39,
+      "one_price": 56.4,
       "one_tms": "higher highs / higher lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
