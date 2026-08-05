@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-05T15:56:23Z",
+  "snapshot_time": "2026-08-05T15:55:23Z",
   "latest_5m_scan": "2026-08-05T15:54:30Z",
-  "latest_1m_scan": "2026-08-05T15:56:07Z",
+  "latest_1m_scan": "2026-08-05T15:55:00Z",
   "rows": [
     {
       "symbol": "IEF",
@@ -67,7 +67,7 @@
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 9.75,
+      "one_price": 9.755,
       "one_tms": "range/mixed",
       "alignment": "conflicts",
       "action": "WAIT",
