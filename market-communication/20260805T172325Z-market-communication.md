@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-05T17:27:26Z
+- Snapshot time: 2026-08-05T17:23:25Z
 - Latest 5m scan: 2026-08-05T17:22:29Z
-- Latest 1m scan: 2026-08-05T17:26:23Z
+- Latest 1m scan: 2026-08-05T17:22:59Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -16,12 +16,12 @@
 | RSP | PENDING long | MICRO_CHOP | unclear | WAIT | 219.88 | 219.41 | 20260805T165127Z-rsp-confirmed_long-proposal.json |
 | SHY | PENDING short | n/a | unclear | WAIT | 81.86 | n/a | 20260805T161512Z-shy-confirmed_short-proposal.json |
 | SPY | PENDING long | MICRO_BUILDING_SHORT | conflicts | WAIT | 771.37 | 771.71 | 20260805T141607Z-spy-confirmed_long-proposal.json |
-| UNG | PENDING short | MICRO_BUILDING_LONG | conflicts | WAIT | 9.80 | 9.81 | 20260805T143652Z-ung-confirmed_short-proposal.json |
+| UNG | PENDING short | MICRO_CHOP | unclear | WAIT | 9.80 | 9.80 | 20260805T143652Z-ung-confirmed_short-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 388.74 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
 | IEF | NEGATED short | MICRO_BUILDING_LONG | not actionable | REJECT_OR_IGNORE | 93.27 | 93.27 | 20260805T154920Z-ief-confirmed_short-proposal.json |
 | SLV | NEGATED short | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 55.98 | 56.39 | 20260803T122434Z-slv-confirmed_short-proposal.json |
 | TLT | NEGATED short | MICRO_BUILDING_LONG | not actionable | REJECT_OR_IGNORE | 83.01 | 83.00 | 20260805T154410Z-tlt-confirmed_short-proposal.json |
-| USO | NEGATED long | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 113.91 | 113.94 | 20260731T181940Z-uso-confirmed_long-proposal.json |
+| USO | NEGATED long | MICRO_CONFIRMS_SHORT | not actionable | REJECT_OR_IGNORE | 113.91 | 113.91 | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
 ## Notes
 - DIA: WAIT; 5m flow: n/a; 5m reason: Long candidate is still waiting for 5-minute confirmation.
