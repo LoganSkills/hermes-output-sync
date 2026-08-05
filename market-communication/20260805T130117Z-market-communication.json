@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-05T13:04:17Z",
-  "latest_5m_scan": "2026-08-05T13:03:38Z",
-  "latest_1m_scan": "2026-08-05T13:03:15Z",
+  "snapshot_time": "2026-08-05T13:01:17Z",
+  "latest_5m_scan": "2026-08-05T12:58:28Z",
+  "latest_1m_scan": "2026-08-05T13:01:03Z",
   "rows": [
     {
       "symbol": "IWM",
@@ -21,11 +21,11 @@
       "symbol": "QQQ",
       "five_state": "PENDING",
       "five_direction": "long",
-      "five_price": 724.93,
+      "five_price": 721.17,
       "five_flow": "n/a",
       "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 724.93,
+      "one_price": null,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "WAIT_DATA",
@@ -147,7 +147,7 @@
       "symbol": "UNG",
       "five_state": "NEGATED",
       "five_direction": "short",
-      "five_price": 9.8,
+      "five_price": 9.82,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "DATA_INCOMPLETE",

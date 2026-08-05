@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-05T13:04:21Z",
+  "scan_time": "2026-08-05T13:01:03Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -10,7 +10,7 @@
     {
       "symbol": "QQQ",
       "state": "DATA_INCOMPLETE",
-      "price": 724.93
+      "price": null
     },
     {
       "symbol": "IWM",
