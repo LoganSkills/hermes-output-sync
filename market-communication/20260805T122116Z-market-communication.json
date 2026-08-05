@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-05T12:24:16Z",
-  "latest_5m_scan": "2026-08-05T12:22:19Z",
-  "latest_1m_scan": "2026-08-05T12:23:41Z",
+  "snapshot_time": "2026-08-05T12:21:16Z",
+  "latest_5m_scan": "2026-08-05T12:17:09Z",
+  "latest_1m_scan": "2026-08-05T12:20:24Z",
   "rows": [
     {
       "symbol": "IWM",
@@ -105,7 +105,7 @@
       "symbol": "GLD",
       "five_state": "NEGATED",
       "five_direction": "short",
-      "five_price": 385.88,
+      "five_price": 385.16,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "n/a",
@@ -133,11 +133,11 @@
       "symbol": "SLV",
       "five_state": "NEGATED",
       "five_direction": "short",
-      "five_price": 56.45,
+      "five_price": 56.22,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 56.45,
+      "one_price": 56.32,
       "one_tms": "n/a",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
