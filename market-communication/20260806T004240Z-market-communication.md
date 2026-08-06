@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-06T00:45:40Z
+- Snapshot time: 2026-08-06T00:42:40Z
 - Latest 5m scan: 2026-08-06T00:41:56Z
-- Latest 1m scan: 2026-08-06T00:44:38Z
+- Latest 1m scan: 2026-08-06T00:42:26Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -13,7 +13,7 @@
 | IEF | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 93.32 | n/a | 20260805T195233Z-ief-confirmed_short-proposal.json |
 | RSP | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 219.73 | n/a | 20260805T181920Z-rsp-confirmed_long-proposal.json |
 | TLT | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 83.03 | n/a | 20260805T195233Z-tlt-confirmed_short-proposal.json |
-| UNG | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 9.74 | n/a | 20260805T195233Z-ung-confirmed_short-proposal.json |
+| UNG | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 9.74 | 9.74 | 20260805T195233Z-ung-confirmed_short-proposal.json |
 | SHY | PENDING short | n/a | unclear | WAIT | 81.90 | n/a | 20260805T161512Z-shy-confirmed_short-proposal.json |
 | DIA | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 542.77 | n/a | 20260805T173759Z-dia-confirmed_long-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 389.62 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
