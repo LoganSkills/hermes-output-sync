@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-06T00:00:39Z",
+  "scan_time": "2026-08-05T23:58:27Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -10,27 +10,27 @@
     {
       "symbol": "QQQ",
       "state": "DATA_INCOMPLETE",
-      "price": null
+      "price": 717.1
     },
     {
       "symbol": "IWM",
       "state": "DATA_INCOMPLETE",
-      "price": null
+      "price": 299.77
     },
     {
       "symbol": "DIA",
       "state": "DATA_INCOMPLETE",
-      "price": null
+      "price": 542.77
     },
     {
       "symbol": "RSP",
       "state": "DATA_INCOMPLETE",
-      "price": null
+      "price": 219.73
     },
     {
       "symbol": "USO",
       "state": "DATA_INCOMPLETE",
-      "price": null
+      "price": 114.9
     },
     {
       "symbol": "TLT",
@@ -50,7 +50,7 @@
     {
       "symbol": "SLV",
       "state": "DATA_INCOMPLETE",
-      "price": null
+      "price": 56.065
     }
   ]
 }
