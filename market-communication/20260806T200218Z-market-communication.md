@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-06T20:06:19Z
-- Latest 5m scan: 2026-08-06T20:05:30Z
-- Latest 1m scan: 2026-08-06T20:05:43Z
+- Snapshot time: 2026-08-06T20:02:18Z
+- Latest 5m scan: 2026-08-06T20:00:19Z
+- Latest 1m scan: 2026-08-06T20:01:13Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -10,22 +10,21 @@
 
 | Symbol | 5m State | 1m State | Alignment | Action | 5m Price | 1m Price | Latest Proposal |
 |---|---|---|---|---|---:|---:|---|
-| SPY | PENDING long | MICRO_CONFIRMS_LONG | early 1m alignment | WATCH_EARLY_TRIGGER | 769.00 | 768.96 | 20260806T191348Z-spy-confirmed_long-proposal.json |
-| QQQ | PENDING long | MICRO_BUILDING_LONG | building same way | WATCH_BUILDING | 715.56 | 715.40 | 20260806T190838Z-qqq-confirmed_long-proposal.json |
-| DIA | PENDING long | MICRO_BUILDING_SHORT | conflicts | WAIT | 538.31 | 538.66 | 20260805T173759Z-dia-confirmed_long-proposal.json |
-| IEF | PENDING short | MICRO_CONFIRMS_LONG | conflicts | WAIT | 92.99 | 92.99 | 20260806T184757Z-ief-confirmed_short-proposal.json |
-| RSP | PENDING long | MICRO_CHOP | unclear | WAIT | 218.61 | 218.72 | 20260806T190328Z-rsp-confirmed_long-proposal.json |
+| SPY | PENDING long | MICRO_BUILDING_LONG | building same way | WATCH_BUILDING | 768.64 | 768.68 | 20260806T191348Z-spy-confirmed_long-proposal.json |
+| DIA | PENDING long | MICRO_BUILDING_SHORT | conflicts | WAIT | 538.31 | 538.67 | 20260805T173759Z-dia-confirmed_long-proposal.json |
+| IEF | PENDING short | MICRO_CONFIRMS_LONG | conflicts | WAIT | 92.97 | 92.99 | 20260806T184757Z-ief-confirmed_short-proposal.json |
+| RSP | PENDING long | MICRO_CHOP | unclear | WAIT | 218.61 | 218.70 | 20260806T190328Z-rsp-confirmed_long-proposal.json |
 | SHY | PENDING short | n/a | unclear | WAIT | 81.81 | n/a | 20260806T193429Z-shy-confirmed_short-proposal.json |
-| TLT | PENDING short | MICRO_BUILDING_LONG | conflicts | WAIT | 82.52 | 82.45 | 20260806T181654Z-tlt-confirmed_short-proposal.json |
+| TLT | PENDING short | MICRO_CHOP | unclear | WAIT | 82.52 | 82.43 | 20260806T181654Z-tlt-confirmed_short-proposal.json |
 | UNG | PENDING short | MICRO_BUILDING_LONG | conflicts | WAIT | 9.63 | 9.63 | 20260806T194959Z-ung-confirmed_short-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 389.69 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
 | IWM | NEGATED long | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 298.25 | 298.85 | 20260806T151026Z-iwm-confirmed_long-proposal.json |
-| SLV | NEGATED short | MICRO_CONFIRMS_SHORT | not actionable | REJECT_OR_IGNORE | 55.87 | 55.63 | 20260803T122434Z-slv-confirmed_short-proposal.json |
-| USO | NEGATED long | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 118.86 | 118.64 | 20260731T181940Z-uso-confirmed_long-proposal.json |
+| QQQ | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 714.70 | 715.29 | 20260806T190838Z-qqq-confirmed_long-proposal.json |
+| SLV | NEGATED short | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 55.85 | 55.75 | 20260803T122434Z-slv-confirmed_short-proposal.json |
+| USO | NEGATED long | MICRO_BUILDING_LONG | not actionable | REJECT_OR_IGNORE | 118.86 | 119.20 | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
 ## Notes
-- SPY: WATCH_EARLY_TRIGGER; 5m flow: n/a; 5m reason: Long candidate is still waiting for 5-minute confirmation.
-- QQQ: WATCH_BUILDING; 5m flow: n/a; 5m reason: Long candidate is still waiting for 5-minute confirmation.
+- SPY: WATCH_BUILDING; 5m flow: n/a; 5m reason: Long candidate is still waiting for 5-minute confirmation.
 - DIA: WAIT; 5m flow: n/a; 5m reason: Long candidate is still waiting for 5-minute confirmation.
 - IEF: WAIT; 5m flow: n/a; 5m reason: Short candidate is still waiting for 5-minute confirmation.
 - RSP: WAIT; 5m flow: n/a; 5m reason: Long candidate is still waiting for 5-minute confirmation.
@@ -34,3 +33,4 @@
 - UNG: WAIT; 5m flow: n/a; 5m reason: Short candidate is still waiting for 5-minute confirmation.
 - GLD: REJECT_OR_IGNORE; 5m flow: n/a; 5m reason: Short idea negated: reclaim or 5-minute upside structure appeared.
 - IWM: REJECT_OR_IGNORE; 5m flow: n/a; 5m reason: Long idea negated: failure level or 5-minute structure broke.
+- QQQ: REJECT_OR_IGNORE; 5m flow: n/a; 5m reason: Long idea negated: failure level or 5-minute structure broke.
