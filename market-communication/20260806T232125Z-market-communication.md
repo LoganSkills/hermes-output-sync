@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-06T23:23:25Z
-- Latest 5m scan: 2026-08-06T23:21:52Z
-- Latest 1m scan: 2026-08-06T23:23:10Z
+- Snapshot time: 2026-08-06T23:21:25Z
+- Latest 5m scan: 2026-08-06T23:16:42Z
+- Latest 1m scan: 2026-08-06T23:20:58Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -21,7 +21,7 @@
 | QQQ | NEGATED long | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 714.71 | 714.71 | 20260806T190838Z-qqq-confirmed_long-proposal.json |
 | SLV | NEGATED short | MICRO_BUILDING_LONG | not actionable | REJECT_OR_IGNORE | 55.87 | 55.87 | 20260803T122434Z-slv-confirmed_short-proposal.json |
 | SPY | NEGATED long | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 768.13 | 768.13 | 20260806T191348Z-spy-confirmed_long-proposal.json |
-| USO | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 118.86 | 118.86 | 20260731T181940Z-uso-confirmed_long-proposal.json |
+| USO | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 118.86 | 118.86 | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
 ## Notes
 - RSP: WATCH_EARLY_TRIGGER; 5m flow: n/a; 5m reason: Long candidate is still waiting for 5-minute confirmation.

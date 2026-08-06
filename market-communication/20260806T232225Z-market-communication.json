@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-06T23:23:25Z",
+  "snapshot_time": "2026-08-06T23:22:25Z",
   "latest_5m_scan": "2026-08-06T23:21:52Z",
-  "latest_1m_scan": "2026-08-06T23:23:10Z",
+  "latest_1m_scan": "2026-08-06T23:22:04Z",
   "rows": [
     {
       "symbol": "RSP",
@@ -164,9 +164,9 @@
       "five_price": 118.86,
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
-      "one_state": "DATA_INCOMPLETE",
+      "one_state": "MICRO_CHOP",
       "one_price": 118.86,
-      "one_tms": "n/a",
+      "one_tms": "lower highs / lower lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
       "latest_proposal": "20260731T181940Z-uso-confirmed_long-proposal.json"

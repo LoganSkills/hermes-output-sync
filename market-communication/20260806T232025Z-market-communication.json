@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-06T23:23:25Z",
-  "latest_5m_scan": "2026-08-06T23:21:52Z",
-  "latest_1m_scan": "2026-08-06T23:23:10Z",
+  "snapshot_time": "2026-08-06T23:20:25Z",
+  "latest_5m_scan": "2026-08-06T23:16:42Z",
+  "latest_1m_scan": "2026-08-06T23:19:52Z",
   "rows": [
     {
       "symbol": "RSP",
@@ -46,20 +46,6 @@
       "latest_proposal": "20260806T181654Z-tlt-confirmed_short-proposal.json"
     },
     {
-      "symbol": "IEF",
-      "five_state": "PENDING",
-      "five_direction": "short",
-      "five_price": 93.0,
-      "five_flow": "n/a",
-      "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
-      "one_state": "DATA_INCOMPLETE",
-      "one_price": 93.0,
-      "one_tms": "n/a",
-      "alignment": "unclear",
-      "action": "WAIT_DATA",
-      "latest_proposal": "20260806T184757Z-ief-confirmed_short-proposal.json"
-    },
-    {
       "symbol": "UNG",
       "five_state": "PENDING",
       "five_direction": "short",
@@ -72,6 +58,20 @@
       "alignment": "unclear",
       "action": "WAIT_DATA",
       "latest_proposal": "20260806T194959Z-ung-confirmed_short-proposal.json"
+    },
+    {
+      "symbol": "IEF",
+      "five_state": "PENDING",
+      "five_direction": "short",
+      "five_price": 93.0,
+      "five_flow": "n/a",
+      "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
+      "one_state": "MICRO_CONFIRMS_LONG",
+      "one_price": 93.0,
+      "one_tms": "higher highs / higher lows",
+      "alignment": "conflicts",
+      "action": "WAIT",
+      "latest_proposal": "20260806T184757Z-ief-confirmed_short-proposal.json"
     },
     {
       "symbol": "SHY",
@@ -164,9 +164,9 @@
       "five_price": 118.86,
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
-      "one_state": "DATA_INCOMPLETE",
+      "one_state": "MICRO_CHOP",
       "one_price": 118.86,
-      "one_tms": "n/a",
+      "one_tms": "lower highs / lower lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
       "latest_proposal": "20260731T181940Z-uso-confirmed_long-proposal.json"
