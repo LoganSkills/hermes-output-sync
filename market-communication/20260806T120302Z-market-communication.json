@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-06T12:07:03Z",
-  "latest_5m_scan": "2026-08-06T12:04:08Z",
-  "latest_1m_scan": "2026-08-06T12:06:13Z",
+  "snapshot_time": "2026-08-06T12:03:02Z",
+  "latest_5m_scan": "2026-08-06T11:58:59Z",
+  "latest_1m_scan": "2026-08-06T12:02:56Z",
   "rows": [
     {
       "symbol": "IEF",
@@ -133,11 +133,11 @@
       "symbol": "SLV",
       "five_state": "NEGATED",
       "five_direction": "short",
-      "five_price": 55.75,
+      "five_price": 56.065,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 55.75,
+      "one_price": 55.81,
       "one_tms": "n/a",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
