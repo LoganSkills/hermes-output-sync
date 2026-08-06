@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-06T15:39:19Z",
+  "scan_time": "2026-08-06T15:38:12Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -35,32 +35,32 @@
     {
       "symbol": "DIA",
       "state": "MICRO_CHOP",
-      "price": 539.565,
+      "price": 539.51,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 539.47375,
-      "one_min_sma_30": 540.0696666666666,
+      "one_min_sma_8": 539.490625,
+      "one_min_sma_30": 540.1125,
       "prior_5bar_high": 539.51,
       "prior_5bar_low": 539.35
     },
     {
       "symbol": "RSP",
-      "state": "MICRO_CHOP",
-      "price": 218.775,
+      "state": "MICRO_BUILDING_SHORT",
+      "price": 218.705,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 218.74812500000002,
-      "one_min_sma_30": 218.91366666666667,
-      "prior_5bar_high": 218.75,
+      "one_min_sma_8": 218.741875,
+      "one_min_sma_30": 218.9271666666667,
+      "prior_5bar_high": 218.825,
       "prior_5bar_low": 218.695
     },
     {
       "symbol": "USO",
-      "state": "MICRO_BUILDING_LONG",
-      "price": 117.595,
+      "state": "MICRO_CHOP",
+      "price": 117.25,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 117.561875,
-      "one_min_sma_30": 117.19933333333333,
+      "one_min_sma_8": 117.525,
+      "one_min_sma_30": 117.16783333333333,
       "prior_5bar_high": 117.83,
-      "prior_5bar_low": 117.25
+      "prior_5bar_low": 117.385
     },
     {
       "symbol": "TLT",
@@ -74,13 +74,13 @@
     },
     {
       "symbol": "IEF",
-      "state": "MICRO_BUILDING_SHORT",
-      "price": 93.035,
+      "state": "MICRO_CONFIRMS_SHORT",
+      "price": 93.03,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 93.044375,
-      "one_min_sma_30": 93.10533333333333,
+      "one_min_sma_8": 93.05125,
+      "one_min_sma_30": 93.1085,
       "prior_5bar_high": 93.055,
-      "prior_5bar_low": 93.03
+      "prior_5bar_low": 93.035
     },
     {
       "symbol": "UNG",
