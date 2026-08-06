@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-06T00:05:39Z",
+  "snapshot_time": "2026-08-06T00:02:39Z",
   "latest_5m_scan": "2026-08-06T00:00:36Z",
-  "latest_1m_scan": "2026-08-06T00:05:03Z",
+  "latest_1m_scan": "2026-08-06T00:01:45Z",
   "rows": [
     {
       "symbol": "IEF",
@@ -11,7 +11,7 @@
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": null,
+      "one_price": 93.32,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "WAIT_DATA",
