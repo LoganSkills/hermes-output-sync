@@ -1,35 +1,35 @@
 {
-  "scan_time": "2026-08-06T21:32:19Z",
+  "scan_time": "2026-08-06T21:30:04Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
       "symbol": "SPY",
-      "state": "MICRO_CHOP",
-      "price": 768.83,
+      "state": "MICRO_BUILDING_SHORT",
+      "price": 768.62,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 768.77625,
-      "one_min_sma_30": 769.2090000000001,
-      "prior_5bar_high": 768.87,
-      "prior_5bar_low": 768.43
+      "one_min_sma_8": 768.898125,
+      "one_min_sma_30": 769.2668333333334,
+      "prior_5bar_high": 769.16,
+      "prior_5bar_low": 768.62
     },
     {
       "symbol": "QQQ",
       "state": "MICRO_CHOP",
-      "price": 715.345,
+      "price": 715.19,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 715.2275,
-      "one_min_sma_30": 715.6226666666666,
-      "prior_5bar_high": 715.8,
-      "prior_5bar_low": 714.85
+      "one_min_sma_8": 715.13625,
+      "one_min_sma_30": 715.6626666666667,
+      "prior_5bar_high": 715.28,
+      "prior_5bar_low": 714.735
     },
     {
       "symbol": "IWM",
-      "state": "MICRO_CHOP",
-      "price": 298.47,
+      "state": "MICRO_BUILDING_SHORT",
+      "price": 298.35,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 298.404375,
-      "one_min_sma_30": 298.7316666666667,
-      "prior_5bar_high": 298.495,
+      "one_min_sma_8": 298.464375,
+      "one_min_sma_30": 298.79249999999996,
+      "prior_5bar_high": 298.63,
       "prior_5bar_low": 298.29
     },
     {
@@ -45,12 +45,12 @@
     {
       "symbol": "RSP",
       "state": "MICRO_BUILDING_LONG",
-      "price": 218.43,
+      "price": 218.395,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 218.363125,
-      "one_min_sma_30": 218.3595,
-      "prior_5bar_high": 218.54,
-      "prior_5bar_low": 218.255
+      "one_min_sma_8": 218.340625,
+      "one_min_sma_30": 218.36383333333333,
+      "prior_5bar_high": 218.47,
+      "prior_5bar_low": 218.215
     },
     {
       "symbol": "USO",
