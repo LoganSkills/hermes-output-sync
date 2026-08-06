@@ -1,21 +1,21 @@
 {
-  "snapshot_time": "2026-08-06T12:52:04Z",
-  "latest_5m_scan": "2026-08-06T12:50:40Z",
-  "latest_1m_scan": "2026-08-06T12:51:16Z",
+  "snapshot_time": "2026-08-06T12:50:04Z",
+  "latest_5m_scan": "2026-08-06T12:45:29Z",
+  "latest_1m_scan": "2026-08-06T12:49:04Z",
   "rows": [
     {
-      "symbol": "TLT",
+      "symbol": "UNG",
       "five_state": "CONFIRMED_SHORT",
       "five_direction": "short",
-      "five_price": 82.74,
+      "five_price": 9.68,
       "five_flow": "n/a",
       "five_reason": "Short confirmation: level failed with 5-minute downside structure.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 82.74,
+      "one_price": 9.68,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "REVIEW_ONLY_SHORT_NO_EXECUTION",
-      "latest_proposal": "20260806T125040Z-tlt-confirmed_short-proposal.json"
+      "latest_proposal": "20260806T120918Z-ung-confirmed_short-proposal.json"
     },
     {
       "symbol": "DIA",
@@ -74,18 +74,18 @@
       "latest_proposal": "20260805T185024Z-spy-confirmed_long-proposal.json"
     },
     {
-      "symbol": "UNG",
+      "symbol": "TLT",
       "five_state": "PENDING",
       "five_direction": "short",
-      "five_price": 9.75,
+      "five_price": 83.03,
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 9.75,
+      "one_price": 82.74,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "WAIT_DATA",
-      "latest_proposal": "20260806T120918Z-ung-confirmed_short-proposal.json"
+      "latest_proposal": "20260805T195233Z-tlt-confirmed_short-proposal.json"
     },
     {
       "symbol": "SHY",
@@ -105,7 +105,7 @@
       "symbol": "GLD",
       "five_state": "NEGATED",
       "five_direction": "short",
-      "five_price": 390.77,
+      "five_price": 389.625,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "n/a",
@@ -133,7 +133,7 @@
       "symbol": "QQQ",
       "five_state": "NEGATED",
       "five_direction": "long",
-      "five_price": 712.93,
+      "five_price": 713.38,
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
       "one_state": "DATA_INCOMPLETE",
@@ -147,11 +147,11 @@
       "symbol": "SLV",
       "five_state": "NEGATED",
       "five_direction": "short",
-      "five_price": 55.63,
+      "five_price": 55.72,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 55.46,
+      "one_price": 55.63,
       "one_tms": "n/a",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",

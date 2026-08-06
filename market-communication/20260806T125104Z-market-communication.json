@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-06T12:52:04Z",
+  "snapshot_time": "2026-08-06T12:51:04Z",
   "latest_5m_scan": "2026-08-06T12:50:40Z",
-  "latest_1m_scan": "2026-08-06T12:51:16Z",
+  "latest_1m_scan": "2026-08-06T12:50:10Z",
   "rows": [
     {
       "symbol": "TLT",
@@ -151,7 +151,7 @@
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 55.46,
+      "one_price": 55.63,
       "one_tms": "n/a",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
