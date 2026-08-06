@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-06T13:02:04Z",
+  "snapshot_time": "2026-08-06T13:01:04Z",
   "latest_5m_scan": "2026-08-06T13:01:00Z",
-  "latest_1m_scan": "2026-08-06T13:01:10Z",
+  "latest_1m_scan": "2026-08-06T13:00:04Z",
   "rows": [
     {
       "symbol": "TLT",
@@ -11,7 +11,7 @@
       "five_flow": "n/a",
       "five_reason": "Short confirmation: level failed with 5-minute downside structure.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 82.76,
+      "one_price": 82.74,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "REVIEW_ONLY_SHORT_NO_EXECUTION",
@@ -151,7 +151,7 @@
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 55.38,
+      "one_price": 55.36,
       "one_tms": "n/a",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
