@@ -1,7 +1,7 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-06T20:11:19Z
-- Latest 5m scan: 2026-08-06T20:10:40Z
+- Snapshot time: 2026-08-06T20:10:19Z
+- Latest 5m scan: 2026-08-06T20:05:30Z
 - Latest 1m scan: 2026-08-06T20:10:13Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
@@ -11,7 +11,7 @@
 | Symbol | 5m State | 1m State | Alignment | Action | 5m Price | 1m Price | Latest Proposal |
 |---|---|---|---|---|---:|---:|---|
 | DIA | PENDING long | MICRO_BUILDING_LONG | building same way | WATCH_BUILDING | 538.31 | 538.97 | 20260805T173759Z-dia-confirmed_long-proposal.json |
-| IEF | PENDING short | MICRO_CONFIRMS_LONG | conflicts | WAIT | 93.00 | 93.00 | 20260806T184757Z-ief-confirmed_short-proposal.json |
+| IEF | PENDING short | MICRO_CONFIRMS_LONG | conflicts | WAIT | 92.99 | 93.00 | 20260806T184757Z-ief-confirmed_short-proposal.json |
 | QQQ | PENDING long | MICRO_CHOP | unclear | WAIT | 715.56 | 715.28 | 20260806T190838Z-qqq-confirmed_long-proposal.json |
 | RSP | PENDING long | MICRO_BUILDING_SHORT | conflicts | WAIT | 218.61 | 218.69 | 20260806T190328Z-rsp-confirmed_long-proposal.json |
 | SHY | PENDING short | n/a | unclear | WAIT | 81.81 | n/a | 20260806T193429Z-shy-confirmed_short-proposal.json |
