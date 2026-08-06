@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-06T15:44:10Z
-- Latest 5m scan: 2026-08-06T15:41:30Z
-- Latest 1m scan: 2026-08-06T15:43:49Z
+- Snapshot time: 2026-08-06T15:40:10Z
+- Latest 5m scan: 2026-08-06T15:36:20Z
+- Latest 1m scan: 2026-08-06T15:39:19Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -10,18 +10,18 @@
 
 | Symbol | 5m State | 1m State | Alignment | Action | 5m Price | 1m Price | Latest Proposal |
 |---|---|---|---|---|---:|---:|---|
-| IEF | CONFIRMED_SHORT short | MICRO_BUILDING_SHORT | agrees | REVIEW_ONLY_SHORT_NO_EXECUTION | 93.03 | 93.03 | 20260806T145454Z-ief-confirmed_short-proposal.json |
+| IEF | CONFIRMED_SHORT short | MICRO_BUILDING_SHORT | agrees | REVIEW_ONLY_SHORT_NO_EXECUTION | 93.06 | 93.03 | 20260806T145454Z-ief-confirmed_short-proposal.json |
 | SHY | CONFIRMED_SHORT short | n/a | unclear | REVIEW_ONLY_SHORT_NO_EXECUTION | 81.84 | n/a | 20260806T150515Z-shy-confirmed_short-proposal.json |
 | TLT | CONFIRMED_SHORT short | MICRO_BUILDING_SHORT | agrees | REVIEW_ONLY_SHORT_NO_EXECUTION | 82.67 | 82.67 | 20260806T151026Z-tlt-confirmed_short-proposal.json |
-| QQQ | PENDING long | MICRO_BUILDING_SHORT | conflicts | WAIT | 716.71 | 716.83 | 20260806T150004Z-qqq-confirmed_long-proposal.json |
-| DIA | NEGATED long | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 539.48 | 539.35 | 20260805T173759Z-dia-confirmed_long-proposal.json |
-| GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 389.91 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
-| IWM | NEGATED long | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 300.20 | 300.25 | 20260806T151026Z-iwm-confirmed_long-proposal.json |
-| RSP | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 218.84 | 218.76 | 20260805T181920Z-rsp-confirmed_long-proposal.json |
-| SLV | NEGATED short | MICRO_CONFIRMS_SHORT | not actionable | REJECT_OR_IGNORE | 55.40 | 55.32 | 20260803T122434Z-slv-confirmed_short-proposal.json |
-| SPY | NEGATED long | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 768.84 | 769.00 | 20260806T150004Z-spy-confirmed_long-proposal.json |
-| UNG | NEGATED short | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 9.63 | 9.63 | 20260806T143412Z-ung-confirmed_short-proposal.json |
-| USO | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 117.59 | 117.53 | 20260731T181940Z-uso-confirmed_long-proposal.json |
+| QQQ | PENDING long | MICRO_BUILDING_SHORT | conflicts | WAIT | 716.60 | 716.83 | 20260806T150004Z-qqq-confirmed_long-proposal.json |
+| DIA | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 539.37 | 539.57 | 20260805T173759Z-dia-confirmed_long-proposal.json |
+| GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 389.60 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
+| IWM | NEGATED long | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 300.00 | 300.25 | 20260806T151026Z-iwm-confirmed_long-proposal.json |
+| RSP | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 218.71 | 218.78 | 20260805T181920Z-rsp-confirmed_long-proposal.json |
+| SLV | NEGATED short | MICRO_CONFIRMS_SHORT | not actionable | REJECT_OR_IGNORE | 55.34 | 55.32 | 20260803T122434Z-slv-confirmed_short-proposal.json |
+| SPY | NEGATED long | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 768.72 | 769.00 | 20260806T150004Z-spy-confirmed_long-proposal.json |
+| UNG | NEGATED short | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 9.64 | 9.63 | 20260806T143412Z-ung-confirmed_short-proposal.json |
+| USO | NEGATED long | MICRO_BUILDING_LONG | not actionable | REJECT_OR_IGNORE | 117.25 | 117.59 | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
 ## Notes
 - IEF: REVIEW_ONLY_SHORT_NO_EXECUTION; 5m flow: n/a; 5m reason: Short confirmation: level failed with 5-minute downside structure.
