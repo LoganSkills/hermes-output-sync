@@ -1,35 +1,21 @@
 {
-  "snapshot_time": "2026-08-06T12:32:03Z",
-  "latest_5m_scan": "2026-08-06T12:29:59Z",
-  "latest_1m_scan": "2026-08-06T12:31:29Z",
+  "snapshot_time": "2026-08-06T12:28:03Z",
+  "latest_5m_scan": "2026-08-06T12:24:49Z",
+  "latest_1m_scan": "2026-08-06T12:27:06Z",
   "rows": [
     {
       "symbol": "UNG",
       "five_state": "CONFIRMED_SHORT",
       "five_direction": "short",
-      "five_price": 9.7,
+      "five_price": 9.72,
       "five_flow": "n/a",
       "five_reason": "Short confirmation: level failed with 5-minute downside structure.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 9.7,
+      "one_price": 9.72,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "REVIEW_ONLY_SHORT_NO_EXECUTION",
       "latest_proposal": "20260806T120918Z-ung-confirmed_short-proposal.json"
-    },
-    {
-      "symbol": "DIA",
-      "five_state": "PENDING",
-      "five_direction": "long",
-      "five_price": 544.19,
-      "five_flow": "n/a",
-      "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
-      "one_state": "DATA_INCOMPLETE",
-      "one_price": 544.19,
-      "one_tms": "n/a",
-      "alignment": "unclear",
-      "action": "WAIT_DATA",
-      "latest_proposal": "20260805T173759Z-dia-confirmed_long-proposal.json"
     },
     {
       "symbol": "IEF",
@@ -88,6 +74,20 @@
       "latest_proposal": "20260805T161512Z-shy-confirmed_short-proposal.json"
     },
     {
+      "symbol": "DIA",
+      "five_state": "NEGATED",
+      "five_direction": "long",
+      "five_price": 542.77,
+      "five_flow": "n/a",
+      "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
+      "one_state": "DATA_INCOMPLETE",
+      "one_price": 544.19,
+      "one_tms": "n/a",
+      "alignment": "not actionable",
+      "action": "REJECT_OR_IGNORE",
+      "latest_proposal": "20260805T173759Z-dia-confirmed_long-proposal.json"
+    },
+    {
       "symbol": "GLD",
       "five_state": "NEGATED",
       "five_direction": "short",
@@ -123,7 +123,7 @@
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 713.22,
+      "one_price": null,
       "one_tms": "n/a",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",

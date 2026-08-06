@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-06T12:32:03Z",
+  "snapshot_time": "2026-08-06T12:30:03Z",
   "latest_5m_scan": "2026-08-06T12:29:59Z",
-  "latest_1m_scan": "2026-08-06T12:31:29Z",
+  "latest_1m_scan": "2026-08-06T12:29:17Z",
   "rows": [
     {
       "symbol": "UNG",
@@ -123,7 +123,7 @@
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 713.22,
+      "one_price": null,
       "one_tms": "n/a",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
