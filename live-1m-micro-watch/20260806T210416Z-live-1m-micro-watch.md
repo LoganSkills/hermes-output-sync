@@ -1,18 +1,10 @@
 # Hermes Live 1-Minute Micro Watch
 
-- Scan time: 2026-08-06T21:06:31Z
+- Scan time: 2026-08-06T21:04:16Z
 - Mode: read-only; no orders placed; no proposals written
 - Use: earliest execution clue only; 5-minute confirmation still required
 
 ## MICRO_CONFIRMS_LONG
-### QQQ
-- Price: 716.25
-- 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 715.98
-- 1m 30 SMA: 715.35
-- Prior 5-bar high: 716.23
-- Prior 5-bar low: 715.59
-
 ### IEF
 - Price: 93.00
 - 1m TMS: higher highs / higher lows
@@ -21,22 +13,31 @@
 - Prior 5-bar high: 92.99
 - Prior 5-bar low: 92.95
 
+## MICRO_CONFIRMS_SHORT
+### RSP
+- Price: 218.38
+- 1m TMS: lower highs / lower lows
+- 1m 8 SMA: 218.46
+- 1m 30 SMA: 218.65
+- Prior 5-bar high: 218.51
+- Prior 5-bar low: 218.40
+
 ## MICRO_BUILDING_LONG
 ### SPY
-- Price: 769.45
+- Price: 769.54
 - 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 769.34
-- 1m 30 SMA: 769.01
-- Prior 5-bar high: 769.56
-- Prior 5-bar low: 769.15
+- 1m 8 SMA: 769.24
+- 1m 30 SMA: 768.99
+- Prior 5-bar high: 769.55
+- Prior 5-bar low: 768.93
 
-### IWM
-- Price: 298.99
+### QQQ
+- Price: 715.91
 - 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 298.98
-- 1m 30 SMA: 298.81
-- Prior 5-bar high: 299.02
-- Prior 5-bar low: 298.85
+- 1m 8 SMA: 715.74
+- 1m 30 SMA: 715.30
+- Prior 5-bar high: 716.23
+- Prior 5-bar low: 715.16
 
 ### DIA
 - Price: 538.31
@@ -63,23 +64,23 @@
 - Prior 5-bar low: 55.82
 
 ## MICRO_BUILDING_SHORT
-### RSP
-- Price: 218.42
-- 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 218.44
-- 1m 30 SMA: 218.63
-- Prior 5-bar high: 218.47
-- Prior 5-bar low: 218.38
-
 ### TLT
-- Price: 82.42
+- Price: 82.45
 - 1m TMS: range/mixed
-- 1m 8 SMA: 82.48
+- 1m 8 SMA: 82.50
 - 1m 30 SMA: 82.49
 - Prior 5-bar high: 82.52
-- Prior 5-bar low: 82.44
+- Prior 5-bar low: 82.45
 
 ## MICRO_CHOP
+### IWM
+- Price: 298.94
+- 1m TMS: higher highs / higher lows
+- 1m 8 SMA: 298.95
+- 1m 30 SMA: 298.80
+- Prior 5-bar high: 299.12
+- Prior 5-bar low: 298.93
+
 ### USO
 - Price: 118.86
 - 1m TMS: lower highs / lower lows
