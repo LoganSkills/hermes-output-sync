@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-06T17:30:13Z
+- Snapshot time: 2026-08-06T17:26:13Z
 - Latest 5m scan: 2026-08-06T17:25:06Z
-- Latest 1m scan: 2026-08-06T17:29:20Z
+- Latest 1m scan: 2026-08-06T17:25:55Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -12,9 +12,9 @@
 |---|---|---|---|---|---:|---:|---|
 | SHY | CONFIRMED_SHORT short | n/a | unclear | REVIEW_ONLY_SHORT_NO_EXECUTION | 81.81 | n/a | 20260806T150515Z-shy-confirmed_short-proposal.json |
 | TLT | PENDING short | MICRO_BUILDING_SHORT | building same way | WATCH_BUILDING | 82.53 | 82.67 | 20260806T165911Z-tlt-confirmed_short-proposal.json |
-| IEF | PENDING short | MICRO_CONFIRMS_LONG | conflicts | WAIT | 92.97 | 92.97 | 20260806T145454Z-ief-confirmed_short-proposal.json |
+| IEF | PENDING short | MICRO_BUILDING_LONG | conflicts | WAIT | 92.97 | 92.97 | 20260806T145454Z-ief-confirmed_short-proposal.json |
 | QQQ | PENDING long | MICRO_CHOP | unclear | WAIT | 715.53 | 717.32 | 20260806T150004Z-qqq-confirmed_long-proposal.json |
-| SPY | PENDING long | MICRO_CHOP | unclear | WAIT | 768.03 | 769.21 | 20260806T150004Z-spy-confirmed_long-proposal.json |
+| SPY | PENDING long | MICRO_CHOP | unclear | WAIT | 768.03 | 769.10 | 20260806T150004Z-spy-confirmed_long-proposal.json |
 | UNG | PENDING short | MICRO_BUILDING_LONG | conflicts | WAIT | 9.68 | 9.69 | 20260806T143412Z-ung-confirmed_short-proposal.json |
 | DIA | NEGATED long | MICRO_BUILDING_LONG | not actionable | REJECT_OR_IGNORE | 538.46 | 539.76 | 20260805T173759Z-dia-confirmed_long-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 388.75 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
