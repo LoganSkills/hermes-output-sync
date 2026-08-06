@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-06T12:12:03Z",
+  "snapshot_time": "2026-08-06T12:10:03Z",
   "latest_5m_scan": "2026-08-06T12:09:18Z",
-  "latest_1m_scan": "2026-08-06T12:11:43Z",
+  "latest_1m_scan": "2026-08-06T12:09:31Z",
   "rows": [
     {
       "symbol": "UNG",
@@ -11,7 +11,7 @@
       "five_flow": "n/a",
       "five_reason": "Short confirmation: level failed with 5-minute downside structure.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 9.72,
+      "one_price": 9.65,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "REVIEW_ONLY_SHORT_NO_EXECUTION",

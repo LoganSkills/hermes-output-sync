@@ -1,22 +1,8 @@
 {
-  "snapshot_time": "2026-08-06T12:12:03Z",
-  "latest_5m_scan": "2026-08-06T12:09:18Z",
-  "latest_1m_scan": "2026-08-06T12:11:43Z",
+  "snapshot_time": "2026-08-06T12:09:03Z",
+  "latest_5m_scan": "2026-08-06T12:04:08Z",
+  "latest_1m_scan": "2026-08-06T12:08:25Z",
   "rows": [
-    {
-      "symbol": "UNG",
-      "five_state": "CONFIRMED_SHORT",
-      "five_direction": "short",
-      "five_price": 9.65,
-      "five_flow": "n/a",
-      "five_reason": "Short confirmation: level failed with 5-minute downside structure.",
-      "one_state": "DATA_INCOMPLETE",
-      "one_price": 9.72,
-      "one_tms": "n/a",
-      "alignment": "unclear",
-      "action": "REVIEW_ONLY_SHORT_NO_EXECUTION",
-      "latest_proposal": "20260806T120918Z-ung-confirmed_short-proposal.json"
-    },
     {
       "symbol": "IEF",
       "five_state": "PENDING",
@@ -46,20 +32,6 @@
       "latest_proposal": "20260805T181920Z-rsp-confirmed_long-proposal.json"
     },
     {
-      "symbol": "SPY",
-      "five_state": "PENDING",
-      "five_direction": "long",
-      "five_price": 770.76,
-      "five_flow": "n/a",
-      "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
-      "one_state": "DATA_INCOMPLETE",
-      "one_price": 770.76,
-      "one_tms": "n/a",
-      "alignment": "unclear",
-      "action": "WAIT_DATA",
-      "latest_proposal": "20260805T185024Z-spy-confirmed_long-proposal.json"
-    },
-    {
       "symbol": "TLT",
       "five_state": "PENDING",
       "five_direction": "short",
@@ -72,6 +44,20 @@
       "alignment": "unclear",
       "action": "WAIT_DATA",
       "latest_proposal": "20260805T195233Z-tlt-confirmed_short-proposal.json"
+    },
+    {
+      "symbol": "UNG",
+      "five_state": "PENDING",
+      "five_direction": "short",
+      "five_price": 9.74,
+      "five_flow": "n/a",
+      "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
+      "one_state": "DATA_INCOMPLETE",
+      "one_price": null,
+      "one_tms": "n/a",
+      "alignment": "unclear",
+      "action": "WAIT_DATA",
+      "latest_proposal": "20260805T195233Z-ung-confirmed_short-proposal.json"
     },
     {
       "symbol": "SHY",
@@ -156,6 +142,20 @@
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
       "latest_proposal": "20260803T122434Z-slv-confirmed_short-proposal.json"
+    },
+    {
+      "symbol": "SPY",
+      "five_state": "NEGATED",
+      "five_direction": "long",
+      "five_price": 770.6,
+      "five_flow": "n/a",
+      "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
+      "one_state": "DATA_INCOMPLETE",
+      "one_price": 770.76,
+      "one_tms": "n/a",
+      "alignment": "not actionable",
+      "action": "REJECT_OR_IGNORE",
+      "latest_proposal": "20260805T185024Z-spy-confirmed_long-proposal.json"
     },
     {
       "symbol": "USO",
