@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-06T19:31:17Z",
+  "snapshot_time": "2026-08-06T19:30:17Z",
   "latest_5m_scan": "2026-08-06T19:29:19Z",
-  "latest_1m_scan": "2026-08-06T19:30:45Z",
+  "latest_1m_scan": "2026-08-06T19:29:36Z",
   "rows": [
     {
       "symbol": "DIA",
@@ -10,11 +10,11 @@
       "five_price": 538.31,
       "five_flow": "n/a",
       "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
-      "one_state": "MICRO_CONFIRMS_LONG",
-      "one_price": 539.08,
+      "one_state": "MICRO_BUILDING_LONG",
+      "one_price": 538.815,
       "one_tms": "higher highs / higher lows",
-      "alignment": "early 1m alignment",
-      "action": "WATCH_EARLY_TRIGGER",
+      "alignment": "building same way",
+      "action": "WATCH_BUILDING",
       "latest_proposal": "20260805T173759Z-dia-confirmed_long-proposal.json"
     },
     {
@@ -30,20 +30,6 @@
       "alignment": "building same way",
       "action": "WATCH_BUILDING",
       "latest_proposal": "20260806T184757Z-ief-confirmed_short-proposal.json"
-    },
-    {
-      "symbol": "RSP",
-      "five_state": "PENDING",
-      "five_direction": "long",
-      "five_price": 218.51,
-      "five_flow": "n/a",
-      "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
-      "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 218.495,
-      "one_tms": "higher highs / higher lows",
-      "alignment": "building same way",
-      "action": "WATCH_BUILDING",
-      "latest_proposal": "20260806T190328Z-rsp-confirmed_long-proposal.json"
     },
     {
       "symbol": "TLT",
@@ -66,10 +52,10 @@
       "five_price": 298.475,
       "five_flow": "n/a",
       "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
-      "one_state": "MICRO_CHOP",
-      "one_price": 299.025,
+      "one_state": "MICRO_BUILDING_SHORT",
+      "one_price": 298.985,
       "one_tms": "range/mixed",
-      "alignment": "unclear",
+      "alignment": "conflicts",
       "action": "WAIT",
       "latest_proposal": "20260806T151026Z-iwm-confirmed_long-proposal.json"
     },
@@ -81,11 +67,25 @@
       "five_flow": "n/a",
       "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
       "one_state": "MICRO_BUILDING_SHORT",
-      "one_price": 715.575,
+      "one_price": 715.695,
       "one_tms": "range/mixed",
       "alignment": "conflicts",
       "action": "WAIT",
       "latest_proposal": "20260806T190838Z-qqq-confirmed_long-proposal.json"
+    },
+    {
+      "symbol": "RSP",
+      "five_state": "PENDING",
+      "five_direction": "long",
+      "five_price": 218.51,
+      "five_flow": "n/a",
+      "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
+      "one_state": "MICRO_CHOP",
+      "one_price": 218.47,
+      "one_tms": "higher highs / higher lows",
+      "alignment": "unclear",
+      "action": "WAIT",
+      "latest_proposal": "20260806T190328Z-rsp-confirmed_long-proposal.json"
     },
     {
       "symbol": "SHY",
@@ -108,8 +108,8 @@
       "five_price": 768.87,
       "five_flow": "n/a",
       "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
-      "one_state": "MICRO_BUILDING_SHORT",
-      "one_price": 767.95,
+      "one_state": "MICRO_CONFIRMS_SHORT",
+      "one_price": 767.85,
       "one_tms": "lower highs / lower lows",
       "alignment": "conflicts",
       "action": "WAIT",
@@ -123,8 +123,8 @@
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "MICRO_CHOP",
-      "one_price": 9.62,
-      "one_tms": "range/mixed",
+      "one_price": 9.625,
+      "one_tms": "lower highs / lower lows",
       "alignment": "unclear",
       "action": "WAIT",
       "latest_proposal": "20260806T184247Z-ung-confirmed_short-proposal.json"
@@ -165,7 +165,7 @@
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
       "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 119.44,
+      "one_price": 119.51,
       "one_tms": "higher highs / higher lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
