@@ -1,10 +1,18 @@
 # Hermes Live 1-Minute Micro Watch
 
-- Scan time: 2026-08-06T21:12:07Z
+- Scan time: 2026-08-06T21:10:59Z
 - Mode: read-only; no orders placed; no proposals written
 - Use: earliest execution clue only; 5-minute confirmation still required
 
 ## MICRO_CONFIRMS_LONG
+### SPY
+- Price: 769.69
+- 1m TMS: higher highs / higher lows
+- 1m 8 SMA: 769.49
+- 1m 30 SMA: 769.10
+- Prior 5-bar high: 769.66
+- Prior 5-bar low: 769.29
+
 ### IEF
 - Price: 93.00
 - 1m TMS: higher highs / higher lows
@@ -13,14 +21,31 @@
 - Prior 5-bar high: 92.99
 - Prior 5-bar low: 92.95
 
+## MICRO_CONFIRMS_SHORT
+### RSP
+- Price: 218.35
+- 1m TMS: lower highs / lower lows
+- 1m 8 SMA: 218.40
+- 1m 30 SMA: 218.59
+- Prior 5-bar high: 218.44
+- Prior 5-bar low: 218.37
+
 ## MICRO_BUILDING_LONG
-### SPY
-- Price: 769.73
+### QQQ
+- Price: 716.23
 - 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 769.54
-- 1m 30 SMA: 769.13
-- Prior 5-bar high: 769.75
-- Prior 5-bar low: 769.29
+- 1m 8 SMA: 716.13
+- 1m 30 SMA: 715.52
+- Prior 5-bar high: 716.33
+- Prior 5-bar low: 715.59
+
+### IWM
+- Price: 299.05
+- 1m TMS: range/mixed
+- 1m 8 SMA: 299.00
+- 1m 30 SMA: 298.86
+- Prior 5-bar high: 299.11
+- Prior 5-bar low: 298.85
 
 ### DIA
 - Price: 538.31
@@ -47,39 +72,15 @@
 - Prior 5-bar low: 55.82
 
 ## MICRO_BUILDING_SHORT
-### IWM
-- Price: 298.86
-- 1m TMS: range/mixed
-- 1m 8 SMA: 299.00
-- 1m 30 SMA: 298.87
-- Prior 5-bar high: 299.11
-- Prior 5-bar low: 298.99
-
-### RSP
-- Price: 218.31
-- 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 218.37
-- 1m 30 SMA: 218.56
-- Prior 5-bar high: 218.44
-- Prior 5-bar low: 218.31
-
 ### TLT
 - Price: 82.41
-- 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 82.42
+- 1m TMS: range/mixed
+- 1m 8 SMA: 82.44
 - 1m 30 SMA: 82.48
-- Prior 5-bar high: 82.44
-- Prior 5-bar low: 82.40
+- Prior 5-bar high: 82.45
+- Prior 5-bar low: 82.42
 
 ## MICRO_CHOP
-### QQQ
-- Price: 715.87
-- 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 716.13
-- 1m 30 SMA: 715.54
-- Prior 5-bar high: 716.34
-- Prior 5-bar low: 716.03
-
 ### USO
 - Price: 118.86
 - 1m TMS: lower highs / lower lows
