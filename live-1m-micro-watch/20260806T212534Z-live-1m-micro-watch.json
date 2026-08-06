@@ -1,36 +1,36 @@
 {
-  "scan_time": "2026-08-06T21:26:42Z",
+  "scan_time": "2026-08-06T21:25:34Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
       "symbol": "SPY",
       "state": "MICRO_BUILDING_SHORT",
-      "price": 768.72,
+      "price": 768.9,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 769.10875,
-      "one_min_sma_30": 769.2908333333332,
+      "one_min_sma_8": 769.15875,
+      "one_min_sma_30": 769.2993333333333,
       "prior_5bar_high": 769.485,
-      "prior_5bar_low": 768.62
+      "prior_5bar_low": 768.89
     },
     {
       "symbol": "QQQ",
       "state": "MICRO_BUILDING_SHORT",
-      "price": 715.08,
+      "price": 715.03,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 715.37875,
-      "one_min_sma_30": 715.6725,
-      "prior_5bar_high": 715.75,
+      "one_min_sma_8": 715.41625,
+      "one_min_sma_30": 715.6743333333333,
+      "prior_5bar_high": 715.9,
       "prior_5bar_low": 714.735
     },
     {
       "symbol": "IWM",
-      "state": "MICRO_BUILDING_SHORT",
-      "price": 298.475,
+      "state": "MICRO_CONFIRMS_SHORT",
+      "price": 298.47,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 298.6,
-      "one_min_sma_30": 298.84749999999997,
-      "prior_5bar_high": 298.75,
-      "prior_5bar_low": 298.43
+      "one_min_sma_8": 298.651875,
+      "one_min_sma_30": 298.86016666666666,
+      "prior_5bar_high": 298.775,
+      "prior_5bar_low": 298.49
     },
     {
       "symbol": "DIA",
@@ -64,13 +64,13 @@
     },
     {
       "symbol": "TLT",
-      "state": "MICRO_BUILDING_SHORT",
-      "price": 82.445,
-      "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 82.44874999999999,
-      "one_min_sma_30": 82.45700000000001,
+      "state": "MICRO_CHOP",
+      "price": 82.455,
+      "one_min_tms": "range/mixed",
+      "one_min_sma_8": 82.44749999999999,
+      "one_min_sma_30": 82.459,
       "prior_5bar_high": 82.465,
-      "prior_5bar_low": 82.445
+      "prior_5bar_low": 82.435
     },
     {
       "symbol": "IEF",
