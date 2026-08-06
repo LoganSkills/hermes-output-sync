@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-06T16:19:11Z
+- Snapshot time: 2026-08-06T16:18:11Z
 - Latest 5m scan: 2026-08-06T16:17:45Z
-- Latest 1m scan: 2026-08-06T16:18:55Z
+- Latest 1m scan: 2026-08-06T16:17:47Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -21,7 +21,7 @@
 | RSP | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 218.53 | 218.76 | 20260805T181920Z-rsp-confirmed_long-proposal.json |
 | SLV | NEGATED short | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 55.07 | 55.40 | 20260803T122434Z-slv-confirmed_short-proposal.json |
 | SPY | NEGATED long | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 767.86 | 769.01 | 20260806T150004Z-spy-confirmed_long-proposal.json |
-| USO | NEGATED long | MICRO_BUILDING_LONG | not actionable | REJECT_OR_IGNORE | 119.16 | 119.08 | 20260731T181940Z-uso-confirmed_long-proposal.json |
+| USO | NEGATED long | MICRO_BUILDING_LONG | not actionable | REJECT_OR_IGNORE | 119.16 | 119.16 | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
 ## Notes
 - IEF: REVIEW_ONLY_SHORT_NO_EXECUTION; 5m flow: n/a; 5m reason: Short confirmation: level failed with 5-minute downside structure.
