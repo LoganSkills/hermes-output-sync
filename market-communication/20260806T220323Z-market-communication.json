@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-06T22:07:23Z",
-  "latest_5m_scan": "2026-08-06T22:04:20Z",
-  "latest_1m_scan": "2026-08-06T22:06:57Z",
+  "snapshot_time": "2026-08-06T22:03:23Z",
+  "latest_5m_scan": "2026-08-06T21:59:10Z",
+  "latest_1m_scan": "2026-08-06T22:02:29Z",
   "rows": [
     {
       "symbol": "RSP",
@@ -151,8 +151,8 @@
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
       "one_state": "MICRO_BUILDING_SHORT",
-      "one_price": 768.13,
-      "one_tms": "higher highs / higher lows",
+      "one_price": 768.3,
+      "one_tms": "range/mixed",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
       "latest_proposal": "20260806T191348Z-spy-confirmed_long-proposal.json"
