@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-06T16:29:11Z",
+  "snapshot_time": "2026-08-06T16:28:11Z",
   "latest_5m_scan": "2026-08-06T16:28:06Z",
-  "latest_1m_scan": "2026-08-06T16:29:07Z",
+  "latest_1m_scan": "2026-08-06T16:28:00Z",
   "rows": [
     {
       "symbol": "IEF",
@@ -10,10 +10,10 @@
       "five_price": 92.93,
       "five_flow": "n/a",
       "five_reason": "Short confirmation: level failed with 5-minute downside structure.",
-      "one_state": "MICRO_CHOP",
-      "one_price": 92.935,
+      "one_state": "MICRO_BUILDING_SHORT",
+      "one_price": 92.93,
       "one_tms": "lower highs / lower lows",
-      "alignment": "unclear",
+      "alignment": "agrees",
       "action": "REVIEW_ONLY_SHORT_NO_EXECUTION",
       "latest_proposal": "20260806T145454Z-ief-confirmed_short-proposal.json"
     },
@@ -109,7 +109,7 @@
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
       "one_state": "MICRO_BUILDING_SHORT",
-      "one_price": 716.815,
+      "one_price": 716.83,
       "one_tms": "lower highs / lower lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
@@ -165,7 +165,7 @@
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
       "one_state": "MICRO_CHOP",
-      "one_price": 118.73,
+      "one_price": 118.895,
       "one_tms": "higher highs / higher lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
