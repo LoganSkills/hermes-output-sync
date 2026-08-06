@@ -1,44 +1,44 @@
 {
-  "scan_time": "2026-08-06T18:30:41Z",
+  "scan_time": "2026-08-06T18:29:32Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
       "symbol": "SPY",
-      "state": "MICRO_CONFIRMS_LONG",
-      "price": 768.57,
-      "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 768.20875,
-      "one_min_sma_30": 768.1266666666667,
+      "state": "MICRO_BUILDING_LONG",
+      "price": 768.25,
+      "one_min_tms": "range/mixed",
+      "one_min_sma_8": 768.14875,
+      "one_min_sma_30": 768.1096666666667,
       "prior_5bar_high": 768.485,
-      "prior_5bar_low": 768.02
+      "prior_5bar_low": 767.9
     },
     {
       "symbol": "QQQ",
-      "state": "MICRO_BUILDING_LONG",
-      "price": 714.66,
+      "state": "MICRO_BUILDING_SHORT",
+      "price": 714.1,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 714.2325,
-      "one_min_sma_30": 714.6495,
+      "one_min_sma_8": 714.150625,
+      "one_min_sma_30": 714.6588333333333,
       "prior_5bar_high": 714.605,
-      "prior_5bar_low": 713.97
+      "prior_5bar_low": 713.815
     },
     {
       "symbol": "IWM",
-      "state": "MICRO_CHOP",
-      "price": 299.18,
+      "state": "MICRO_BUILDING_SHORT",
+      "price": 299.01,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 299.03125,
-      "one_min_sma_30": 299.22516666666667,
+      "one_min_sma_8": 299.013125,
+      "one_min_sma_30": 299.23133333333334,
       "prior_5bar_high": 299.13,
-      "prior_5bar_low": 298.96
+      "prior_5bar_low": 298.895
     },
     {
       "symbol": "DIA",
       "state": "MICRO_BUILDING_SHORT",
-      "price": 539.36,
-      "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 539.4506250000001,
-      "one_min_sma_30": 539.3843333333333,
+      "price": 539.245,
+      "one_min_tms": "range/mixed",
+      "one_min_sma_8": 539.448125,
+      "one_min_sma_30": 539.3715,
       "prior_5bar_high": 539.62,
       "prior_5bar_low": 539.24
     },
@@ -54,30 +54,30 @@
     },
     {
       "symbol": "USO",
-      "state": "MICRO_BUILDING_SHORT",
-      "price": 118.2,
-      "one_min_tms": "range/mixed",
-      "one_min_sma_8": 118.27437499999999,
-      "one_min_sma_30": 118.2535,
-      "prior_5bar_high": 118.395,
+      "state": "MICRO_CONFIRMS_LONG",
+      "price": 118.395,
+      "one_min_tms": "higher highs / higher lows",
+      "one_min_sma_8": 118.260625,
+      "one_min_sma_30": 118.26950000000001,
+      "prior_5bar_high": 118.355,
       "prior_5bar_low": 118.24
     },
     {
       "symbol": "TLT",
       "state": "MICRO_BUILDING_LONG",
-      "price": 82.505,
-      "one_min_tms": "range/mixed",
-      "one_min_sma_8": 82.500625,
-      "one_min_sma_30": 82.497,
+      "price": 82.515,
+      "one_min_tms": "higher highs / higher lows",
+      "one_min_sma_8": 82.50125,
+      "one_min_sma_30": 82.49766666666666,
       "prior_5bar_high": 82.515,
-      "prior_5bar_low": 82.49
+      "prior_5bar_low": 82.48
     },
     {
       "symbol": "IEF",
       "state": "MICRO_BUILDING_SHORT",
-      "price": 92.93,
+      "price": 92.935,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 92.94,
+      "one_min_sma_8": 92.941875,
       "one_min_sma_30": 92.94866666666667,
       "prior_5bar_high": 92.95,
       "prior_5bar_low": 92.93
@@ -88,19 +88,19 @@
       "price": 9.63,
       "one_min_tms": "lower highs / lower lows",
       "one_min_sma_8": 9.629375,
-      "one_min_sma_30": 9.653666666666668,
+      "one_min_sma_30": 9.6555,
       "prior_5bar_high": 9.64,
       "prior_5bar_low": 9.62
     },
     {
       "symbol": "SLV",
-      "state": "MICRO_CONFIRMS_LONG",
-      "price": 55.475,
+      "state": "MICRO_BUILDING_LONG",
+      "price": 55.37,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 55.3425,
-      "one_min_sma_30": 55.197,
+      "one_min_sma_8": 55.31625,
+      "one_min_sma_30": 55.18983333333333,
       "prior_5bar_high": 55.375,
-      "prior_5bar_low": 55.295
+      "prior_5bar_low": 55.275
     }
   ]
 }
