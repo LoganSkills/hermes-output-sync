@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-06T13:17:39Z",
+  "scan_time": "2026-08-06T13:15:28Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -50,7 +50,7 @@
     {
       "symbol": "SLV",
       "state": "DATA_INCOMPLETE",
-      "price": 55.27
+      "price": 55.24
     }
   ]
 }
