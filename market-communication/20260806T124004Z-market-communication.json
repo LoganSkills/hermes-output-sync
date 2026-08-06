@@ -1,17 +1,17 @@
 {
-  "snapshot_time": "2026-08-06T12:42:04Z",
-  "latest_5m_scan": "2026-08-06T12:40:19Z",
-  "latest_1m_scan": "2026-08-06T12:41:22Z",
+  "snapshot_time": "2026-08-06T12:40:04Z",
+  "latest_5m_scan": "2026-08-06T12:35:09Z",
+  "latest_1m_scan": "2026-08-06T12:39:11Z",
   "rows": [
     {
       "symbol": "UNG",
       "five_state": "CONFIRMED_SHORT",
       "five_direction": "short",
-      "five_price": 9.67,
+      "five_price": 9.7,
       "five_flow": "n/a",
       "five_reason": "Short confirmation: level failed with 5-minute downside structure.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 9.68,
+      "one_price": 9.7,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "REVIEW_ONLY_SHORT_NO_EXECUTION",
@@ -58,20 +58,6 @@
       "alignment": "unclear",
       "action": "WAIT_DATA",
       "latest_proposal": "20260805T181920Z-rsp-confirmed_long-proposal.json"
-    },
-    {
-      "symbol": "SPY",
-      "five_state": "PENDING",
-      "five_direction": "long",
-      "five_price": 771.0,
-      "five_flow": "n/a",
-      "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
-      "one_state": "DATA_INCOMPLETE",
-      "one_price": 771.0,
-      "one_tms": "n/a",
-      "alignment": "unclear",
-      "action": "WAIT_DATA",
-      "latest_proposal": "20260805T185024Z-spy-confirmed_long-proposal.json"
     },
     {
       "symbol": "TLT",
@@ -156,6 +142,20 @@
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
       "latest_proposal": "20260803T122434Z-slv-confirmed_short-proposal.json"
+    },
+    {
+      "symbol": "SPY",
+      "five_state": "NEGATED",
+      "five_direction": "long",
+      "five_price": 770.47,
+      "five_flow": "n/a",
+      "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
+      "one_state": "DATA_INCOMPLETE",
+      "one_price": 771.0,
+      "one_tms": "n/a",
+      "alignment": "not actionable",
+      "action": "REJECT_OR_IGNORE",
+      "latest_proposal": "20260805T185024Z-spy-confirmed_long-proposal.json"
     },
     {
       "symbol": "USO",
