@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-06T17:04:12Z
+- Snapshot time: 2026-08-06T17:01:12Z
 - Latest 5m scan: 2026-08-06T16:59:11Z
-- Latest 1m scan: 2026-08-06T17:03:12Z
+- Latest 1m scan: 2026-08-06T17:00:56Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -15,13 +15,13 @@
 | DIA | PENDING long | MICRO_BUILDING_LONG | building same way | WATCH_BUILDING | 539.57 | 539.76 | 20260805T173759Z-dia-confirmed_long-proposal.json |
 | IEF | PENDING short | MICRO_CHOP | unclear | WAIT | 92.94 | 92.94 | 20260806T145454Z-ief-confirmed_short-proposal.json |
 | IWM | PENDING long | MICRO_BUILDING_SHORT | conflicts | WAIT | 299.24 | 300.25 | 20260806T151026Z-iwm-confirmed_long-proposal.json |
-| QQQ | PENDING long | MICRO_CHOP | unclear | WAIT | 715.37 | 717.15 | 20260806T150004Z-qqq-confirmed_long-proposal.json |
+| QQQ | PENDING long | MICRO_CHOP | unclear | WAIT | 715.37 | 716.98 | 20260806T150004Z-qqq-confirmed_long-proposal.json |
 | SPY | PENDING long | MICRO_CHOP | unclear | WAIT | 768.89 | 769.10 | 20260806T150004Z-spy-confirmed_long-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 388.92 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
 | RSP | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 218.62 | 218.76 | 20260805T181920Z-rsp-confirmed_long-proposal.json |
 | SLV | NEGATED short | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 55.37 | 55.38 | 20260803T122434Z-slv-confirmed_short-proposal.json |
 | UNG | NEGATED short | MICRO_BUILDING_LONG | not actionable | REJECT_OR_IGNORE | 9.69 | 9.69 | 20260806T143412Z-ung-confirmed_short-proposal.json |
-| USO | NEGATED long | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 119.06 | 118.69 | 20260731T181940Z-uso-confirmed_long-proposal.json |
+| USO | NEGATED long | MICRO_BUILDING_LONG | not actionable | REJECT_OR_IGNORE | 119.06 | 119.06 | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
 ## Notes
 - SHY: REVIEW_ONLY_SHORT_NO_EXECUTION; 5m flow: n/a; 5m reason: Short confirmation: level failed with 5-minute downside structure.
