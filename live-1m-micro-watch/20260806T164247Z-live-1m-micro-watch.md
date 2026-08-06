@@ -1,6 +1,6 @@
 # Hermes Live 1-Minute Micro Watch
 
-- Scan time: 2026-08-06T16:43:55Z
+- Scan time: 2026-08-06T16:42:47Z
 - Mode: read-only; no orders placed; no proposals written
 - Use: earliest execution clue only; 5-minute confirmation still required
 
@@ -26,8 +26,8 @@
 - 1m TMS: range/mixed
 - 1m 8 SMA: 9.65
 - 1m 30 SMA: 9.65
-- Prior 5-bar high: 9.66
-- Prior 5-bar low: 9.64
+- Prior 5-bar high: 9.65
+- Prior 5-bar low: 9.63
 
 ## MICRO_BUILDING_SHORT
 ### QQQ
