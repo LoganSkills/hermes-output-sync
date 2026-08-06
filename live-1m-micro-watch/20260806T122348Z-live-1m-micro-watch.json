@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-06T12:27:06Z",
+  "scan_time": "2026-08-06T12:23:48Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -20,7 +20,7 @@
     {
       "symbol": "DIA",
       "state": "DATA_INCOMPLETE",
-      "price": 544.19
+      "price": null
     },
     {
       "symbol": "RSP",
@@ -30,7 +30,7 @@
     {
       "symbol": "USO",
       "state": "DATA_INCOMPLETE",
-      "price": 116.51
+      "price": 116.34
     },
     {
       "symbol": "TLT",
