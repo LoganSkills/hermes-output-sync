@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-07T15:42:11Z",
+  "scan_time": "2026-08-07T15:41:03Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -44,11 +44,11 @@
     },
     {
       "symbol": "RSP",
-      "state": "MICRO_CHOP",
+      "state": "MICRO_BUILDING_SHORT",
       "price": 219.92,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 219.9175,
-      "one_min_sma_30": 219.92749999999998,
+      "one_min_sma_8": 219.9325,
+      "one_min_sma_30": 219.93216666666666,
       "prior_5bar_high": 219.97,
       "prior_5bar_low": 219.81
     },
@@ -75,12 +75,12 @@
     {
       "symbol": "IEF",
       "state": "MICRO_BUILDING_LONG",
-      "price": 93.135,
+      "price": 93.15,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 93.128125,
-      "one_min_sma_30": 93.12116666666667,
-      "prior_5bar_high": 93.16,
-      "prior_5bar_low": 93.12
+      "one_min_sma_8": 93.126875,
+      "one_min_sma_30": 93.12066666666666,
+      "prior_5bar_high": 93.13,
+      "prior_5bar_low": 93.115
     },
     {
       "symbol": "UNG",

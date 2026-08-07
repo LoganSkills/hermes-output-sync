@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-07T15:41:58Z
+- Snapshot time: 2026-08-07T15:38:58Z
 - Latest 5m scan: 2026-08-07T15:38:47Z
-- Latest 1m scan: 2026-08-07T15:41:03Z
+- Latest 1m scan: 2026-08-07T15:38:48Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -12,9 +12,9 @@
 |---|---|---|---|---|---:|---:|---|
 | IWM | CONFIRMED_LONG long | MICRO_BUILDING_LONG | agrees | REVIEW_LONG_BRACKET | 301.20 | 301.17 | 20260807T153336Z-iwm-confirmed_long-proposal.json |
 | QQQ | CONFIRMED_LONG long | MICRO_BUILDING_LONG | agrees | REVIEW_LONG_BRACKET | 723.05 | 721.39 | 20260807T152825Z-qqq-confirmed_long-proposal.json |
-| UNG | CONFIRMED_SHORT short | MICRO_CONFIRMS_SHORT | agrees | REVIEW_ONLY_SHORT_NO_EXECUTION | 9.71 | 9.71 | 20260807T151805Z-ung-confirmed_short-proposal.json |
+| UNG | CONFIRMED_SHORT short | MICRO_BUILDING_SHORT | agrees | REVIEW_ONLY_SHORT_NO_EXECUTION | 9.71 | 9.71 | 20260807T151805Z-ung-confirmed_short-proposal.json |
 | DIA | PENDING long | MICRO_BUILDING_SHORT | conflicts | WAIT | 539.16 | 539.16 | 20260807T151255Z-dia-confirmed_long-proposal.json |
-| IEF | PENDING short | MICRO_BUILDING_LONG | conflicts | WAIT | 93.13 | 93.15 | 20260807T150745Z-ief-confirmed_short-proposal.json |
+| IEF | PENDING short | MICRO_BUILDING_LONG | conflicts | WAIT | 93.13 | 93.13 | 20260807T150745Z-ief-confirmed_short-proposal.json |
 | RSP | PENDING long | MICRO_BUILDING_SHORT | conflicts | WAIT | 219.92 | 219.92 | 20260807T151255Z-rsp-confirmed_long-proposal.json |
 | SHY | PENDING short | n/a | unclear | WAIT | 81.90 | n/a | 20260806T193429Z-shy-confirmed_short-proposal.json |
 | SPY | CONFIRMED_LONG long | MICRO_CHOP | unclear | WAIT | 773.51 | 772.88 | 20260807T150234Z-spy-confirmed_long-proposal.json |

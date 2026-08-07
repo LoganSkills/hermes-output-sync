@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-07T15:41:58Z",
+  "snapshot_time": "2026-08-07T15:39:58Z",
   "latest_5m_scan": "2026-08-07T15:38:47Z",
-  "latest_1m_scan": "2026-08-07T15:41:03Z",
+  "latest_1m_scan": "2026-08-07T15:39:55Z",
   "rows": [
     {
       "symbol": "IWM",
@@ -38,8 +38,8 @@
       "five_price": 9.715,
       "five_flow": "n/a",
       "five_reason": "Short confirmation: level failed with 5-minute downside structure.",
-      "one_state": "MICRO_CONFIRMS_SHORT",
-      "one_price": 9.71,
+      "one_state": "MICRO_BUILDING_SHORT",
+      "one_price": 9.715,
       "one_tms": "lower highs / lower lows",
       "alignment": "agrees",
       "action": "REVIEW_ONLY_SHORT_NO_EXECUTION",
@@ -67,7 +67,7 @@
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 93.15,
+      "one_price": 93.13,
       "one_tms": "range/mixed",
       "alignment": "conflicts",
       "action": "WAIT",
