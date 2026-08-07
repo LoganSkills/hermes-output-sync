@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-07T13:20:53Z
-- Latest 5m scan: 2026-08-07T13:19:07Z
-- Latest 1m scan: 2026-08-07T13:19:52Z
+- Snapshot time: 2026-08-07T13:17:53Z
+- Latest 5m scan: 2026-08-07T13:13:56Z
+- Latest 1m scan: 2026-08-07T13:17:40Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -19,8 +19,8 @@
 | SHY | PENDING short | n/a | unclear | WAIT | 81.81 | n/a | 20260806T193429Z-shy-confirmed_short-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 399.38 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
 | IWM | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 298.25 | n/a | 20260806T151026Z-iwm-confirmed_long-proposal.json |
-| SLV | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 57.91 | 57.91 | 20260803T122434Z-slv-confirmed_short-proposal.json |
-| UNG | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 9.76 | 9.76 | 20260806T194959Z-ung-confirmed_short-proposal.json |
+| SLV | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 58.57 | 57.91 | 20260803T122434Z-slv-confirmed_short-proposal.json |
+| UNG | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 9.73 | 9.76 | 20260806T194959Z-ung-confirmed_short-proposal.json |
 | USO | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 118.86 | n/a | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
 ## Notes
