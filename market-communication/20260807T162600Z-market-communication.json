@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-07T16:27:00Z",
+  "snapshot_time": "2026-08-07T16:26:00Z",
   "latest_5m_scan": "2026-08-07T16:25:21Z",
-  "latest_1m_scan": "2026-08-07T16:26:12Z",
+  "latest_1m_scan": "2026-08-07T16:25:04Z",
   "rows": [
     {
       "symbol": "IEF",
@@ -44,20 +44,6 @@
       "alignment": "building same way",
       "action": "WATCH_BUILDING",
       "latest_proposal": "20260807T160950Z-qqq-confirmed_long-proposal.json"
-    },
-    {
-      "symbol": "UNG",
-      "five_state": "PENDING",
-      "five_direction": "short",
-      "five_price": 9.73,
-      "five_flow": "n/a",
-      "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
-      "one_state": "MICRO_BUILDING_SHORT",
-      "one_price": 9.715,
-      "one_tms": "higher highs / higher lows",
-      "alignment": "building same way",
-      "action": "WATCH_BUILDING",
-      "latest_proposal": "20260807T151805Z-ung-confirmed_short-proposal.json"
     },
     {
       "symbol": "RSP",
@@ -116,14 +102,28 @@
       "latest_proposal": "20260807T150745Z-tlt-confirmed_short-proposal.json"
     },
     {
+      "symbol": "UNG",
+      "five_state": "PENDING",
+      "five_direction": "short",
+      "five_price": 9.73,
+      "five_flow": "n/a",
+      "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
+      "one_state": "MICRO_BUILDING_LONG",
+      "one_price": 9.73,
+      "one_tms": "higher highs / higher lows",
+      "alignment": "conflicts",
+      "action": "WAIT",
+      "latest_proposal": "20260807T151805Z-ung-confirmed_short-proposal.json"
+    },
+    {
       "symbol": "DIA",
       "five_state": "NEGATED",
       "five_direction": "long",
       "five_price": 539.09,
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
-      "one_state": "MICRO_CONFIRMS_SHORT",
-      "one_price": 538.445,
+      "one_state": "MICRO_CHOP",
+      "one_price": 539.09,
       "one_tms": "lower highs / lower lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
@@ -150,8 +150,8 @@
       "five_price": 57.215,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
-      "one_state": "MICRO_BUILDING_SHORT",
-      "one_price": 57.435,
+      "one_state": "MICRO_CONFIRMS_SHORT",
+      "one_price": 57.45,
       "one_tms": "lower highs / lower lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
