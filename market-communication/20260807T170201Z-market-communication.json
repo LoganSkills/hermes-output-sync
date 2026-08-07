@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-07T17:03:01Z",
+  "snapshot_time": "2026-08-07T17:02:01Z",
   "latest_5m_scan": "2026-08-07T17:01:35Z",
-  "latest_1m_scan": "2026-08-07T17:02:17Z",
+  "latest_1m_scan": "2026-08-07T17:01:09Z",
   "rows": [
     {
       "symbol": "IEF",
@@ -81,7 +81,7 @@
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 82.615,
+      "one_price": 82.6,
       "one_tms": "higher highs / higher lows",
       "alignment": "conflicts",
       "action": "WAIT",
@@ -123,7 +123,7 @@
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
       "one_state": "MICRO_CONFIRMS_LONG",
-      "one_price": 722.44,
+      "one_price": 722.1,
       "one_tms": "higher highs / higher lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",

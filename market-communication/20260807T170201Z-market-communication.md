@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-07T17:03:01Z
+- Snapshot time: 2026-08-07T17:02:01Z
 - Latest 5m scan: 2026-08-07T17:01:35Z
-- Latest 1m scan: 2026-08-07T17:02:17Z
+- Latest 1m scan: 2026-08-07T17:01:09Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -15,10 +15,10 @@
 | IWM | PENDING long | MICRO_BUILDING_LONG | building same way | WATCH_BUILDING | 301.11 | 301.17 | 20260807T164603Z-iwm-confirmed_long-proposal.json |
 | RSP | CONFIRMED_LONG long | MICRO_CHOP | unclear | WAIT | 220.14 | 219.92 | 20260807T164052Z-rsp-confirmed_long-proposal.json |
 | SHY | PENDING short | n/a | unclear | WAIT | 81.90 | n/a | 20260806T193429Z-shy-confirmed_short-proposal.json |
-| TLT | PENDING short | MICRO_BUILDING_LONG | conflicts | WAIT | 82.59 | 82.61 | 20260807T163542Z-tlt-confirmed_short-proposal.json |
+| TLT | PENDING short | MICRO_BUILDING_LONG | conflicts | WAIT | 82.59 | 82.60 | 20260807T163542Z-tlt-confirmed_short-proposal.json |
 | UNG | PENDING short | MICRO_CHOP | unclear | WAIT | 9.73 | 9.73 | 20260807T151805Z-ung-confirmed_short-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 397.05 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
-| QQQ | NEGATED long | MICRO_CONFIRMS_LONG | not actionable | REJECT_OR_IGNORE | 720.41 | 722.44 | 20260807T160950Z-qqq-confirmed_long-proposal.json |
+| QQQ | NEGATED long | MICRO_CONFIRMS_LONG | not actionable | REJECT_OR_IGNORE | 720.41 | 722.10 | 20260807T160950Z-qqq-confirmed_long-proposal.json |
 | SLV | NEGATED short | MICRO_CONFIRMS_SHORT | not actionable | REJECT_OR_IGNORE | 57.01 | 57.38 | 20260803T122434Z-slv-confirmed_short-proposal.json |
 | SPY | NEGATED long | MICRO_BUILDING_LONG | not actionable | REJECT_OR_IGNORE | 771.78 | 773.71 | 20260807T150234Z-spy-confirmed_long-proposal.json |
 | USO | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 119.81 | 119.81 | 20260731T181940Z-uso-confirmed_long-proposal.json |
