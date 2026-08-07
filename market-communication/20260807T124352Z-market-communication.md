@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-07T12:44:52Z
+- Snapshot time: 2026-08-07T12:43:52Z
 - Latest 5m scan: 2026-08-07T12:42:56Z
-- Latest 1m scan: 2026-08-07T12:44:40Z
+- Latest 1m scan: 2026-08-07T12:43:34Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -15,7 +15,7 @@
 | QQQ | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 721.42 | 722.43 | 20260806T190838Z-qqq-confirmed_long-proposal.json |
 | RSP | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 218.61 | n/a | 20260806T190328Z-rsp-confirmed_long-proposal.json |
 | SPY | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 772.37 | 772.37 | 20260806T191348Z-spy-confirmed_long-proposal.json |
-| TLT | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 82.97 | 82.98 | 20260806T181654Z-tlt-confirmed_short-proposal.json |
+| TLT | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 82.97 | 82.99 | 20260806T181654Z-tlt-confirmed_short-proposal.json |
 | UNG | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 9.65 | 9.65 | 20260806T194959Z-ung-confirmed_short-proposal.json |
 | SHY | PENDING short | n/a | unclear | WAIT | 81.81 | n/a | 20260806T193429Z-shy-confirmed_short-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 400.39 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
