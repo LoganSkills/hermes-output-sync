@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-07T23:31:14Z",
-  "latest_5m_scan": "2026-08-07T23:29:19Z",
-  "latest_1m_scan": "2026-08-07T23:30:27Z",
+  "snapshot_time": "2026-08-07T23:29:14Z",
+  "latest_5m_scan": "2026-08-07T23:24:09Z",
+  "latest_1m_scan": "2026-08-07T23:28:16Z",
   "rows": [
     {
       "symbol": "IWM",
@@ -136,9 +136,9 @@
       "five_price": 57.51,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
-      "one_state": "DATA_INCOMPLETE",
+      "one_state": "MICRO_CHOP",
       "one_price": 57.51,
-      "one_tms": "n/a",
+      "one_tms": "range/mixed",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
       "latest_proposal": "20260803T122434Z-slv-confirmed_short-proposal.json"
