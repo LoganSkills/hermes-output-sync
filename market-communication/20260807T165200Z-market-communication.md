@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-07T16:53:00Z
+- Snapshot time: 2026-08-07T16:52:00Z
 - Latest 5m scan: 2026-08-07T16:51:13Z
-- Latest 1m scan: 2026-08-07T16:52:07Z
+- Latest 1m scan: 2026-08-07T16:51:00Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -21,7 +21,7 @@
 | UNG | PENDING short | MICRO_CHOP | unclear | WAIT | 9.74 | 9.74 | 20260807T151805Z-ung-confirmed_short-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 397.93 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
 | SLV | NEGATED short | MICRO_CONFIRMS_SHORT | not actionable | REJECT_OR_IGNORE | 57.17 | 57.39 | 20260803T122434Z-slv-confirmed_short-proposal.json |
-| USO | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 119.81 | 119.81 | 20260731T181940Z-uso-confirmed_long-proposal.json |
+| USO | NEGATED long | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 119.81 | 119.75 | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
 ## Notes
 - IEF: WATCH_EARLY_TRIGGER; 5m flow: n/a; 5m reason: Short candidate is still waiting for 5-minute confirmation.
