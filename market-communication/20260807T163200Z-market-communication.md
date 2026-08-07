@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-07T16:33:00Z
+- Snapshot time: 2026-08-07T16:32:00Z
 - Latest 5m scan: 2026-08-07T16:30:32Z
-- Latest 1m scan: 2026-08-07T16:32:58Z
+- Latest 1m scan: 2026-08-07T16:31:50Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -17,11 +17,11 @@
 | SHY | PENDING short | n/a | unclear | WAIT | 81.90 | n/a | 20260806T193429Z-shy-confirmed_short-proposal.json |
 | TLT | PENDING short | MICRO_CHOP | unclear | WAIT | 82.61 | 82.58 | 20260807T150745Z-tlt-confirmed_short-proposal.json |
 | UNG | PENDING short | MICRO_BUILDING_LONG | conflicts | WAIT | 9.74 | 9.74 | 20260807T151805Z-ung-confirmed_short-proposal.json |
-| DIA | NEGATED long | MICRO_CONFIRMS_SHORT | not actionable | REJECT_OR_IGNORE | 538.42 | 538.29 | 20260807T151255Z-dia-confirmed_long-proposal.json |
+| DIA | NEGATED long | MICRO_CONFIRMS_SHORT | not actionable | REJECT_OR_IGNORE | 538.42 | 538.39 | 20260807T151255Z-dia-confirmed_long-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 397.89 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
 | SLV | NEGATED short | MICRO_BUILDING_SHORT | not actionable | REJECT_OR_IGNORE | 57.24 | 57.44 | 20260803T122434Z-slv-confirmed_short-proposal.json |
-| SPY | NEGATED long | MICRO_CONFIRMS_LONG | not actionable | REJECT_OR_IGNORE | 771.59 | 773.54 | 20260807T150234Z-spy-confirmed_long-proposal.json |
-| USO | NEGATED long | MICRO_BUILDING_LONG | not actionable | REJECT_OR_IGNORE | 119.71 | 119.98 | 20260731T181940Z-uso-confirmed_long-proposal.json |
+| SPY | NEGATED long | MICRO_CONFIRMS_LONG | not actionable | REJECT_OR_IGNORE | 771.59 | 773.37 | 20260807T150234Z-spy-confirmed_long-proposal.json |
+| USO | NEGATED long | MICRO_CHOP | not actionable | REJECT_OR_IGNORE | 119.71 | 119.71 | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
 ## Notes
 - IEF: WATCH_EARLY_TRIGGER; 5m flow: n/a; 5m reason: Short candidate is still waiting for 5-minute confirmation.

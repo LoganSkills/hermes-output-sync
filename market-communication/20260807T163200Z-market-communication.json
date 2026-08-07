@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-07T16:33:00Z",
+  "snapshot_time": "2026-08-07T16:32:00Z",
   "latest_5m_scan": "2026-08-07T16:30:32Z",
-  "latest_1m_scan": "2026-08-07T16:32:58Z",
+  "latest_1m_scan": "2026-08-07T16:31:50Z",
   "rows": [
     {
       "symbol": "IEF",
@@ -109,7 +109,7 @@
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
       "one_state": "MICRO_CONFIRMS_SHORT",
-      "one_price": 538.29,
+      "one_price": 538.395,
       "one_tms": "lower highs / lower lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
@@ -151,7 +151,7 @@
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
       "one_state": "MICRO_CONFIRMS_LONG",
-      "one_price": 773.54,
+      "one_price": 773.37,
       "one_tms": "higher highs / higher lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
@@ -164,8 +164,8 @@
       "five_price": 119.71,
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
-      "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 119.985,
+      "one_state": "MICRO_CHOP",
+      "one_price": 119.71,
       "one_tms": "range/mixed",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
