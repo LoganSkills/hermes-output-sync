@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-07T12:19:51Z
+- Snapshot time: 2026-08-07T12:17:51Z
 - Latest 5m scan: 2026-08-07T12:17:05Z
-- Latest 1m scan: 2026-08-07T12:19:22Z
+- Latest 1m scan: 2026-08-07T12:17:10Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -19,7 +19,7 @@
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 389.69 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
 | IWM | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 298.25 | n/a | 20260806T151026Z-iwm-confirmed_long-proposal.json |
 | QQQ | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 714.71 | n/a | 20260806T190838Z-qqq-confirmed_long-proposal.json |
-| SLV | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 57.89 | 57.86 | 20260803T122434Z-slv-confirmed_short-proposal.json |
+| SLV | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 57.89 | 57.89 | 20260803T122434Z-slv-confirmed_short-proposal.json |
 | SPY | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 768.13 | n/a | 20260806T191348Z-spy-confirmed_long-proposal.json |
 | USO | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 118.86 | n/a | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
