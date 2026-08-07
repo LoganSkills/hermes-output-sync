@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-07T15:46:44Z",
+  "scan_time": "2026-08-07T15:45:36Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -77,8 +77,8 @@
       "state": "MICRO_CHOP",
       "price": 93.125,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 93.130625,
-      "one_min_sma_30": 93.12166666666667,
+      "one_min_sma_8": 93.129375,
+      "one_min_sma_30": 93.12133333333333,
       "prior_5bar_high": 93.16,
       "prior_5bar_low": 93.125
     },
