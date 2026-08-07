@@ -1,21 +1,21 @@
 {
-  "snapshot_time": "2026-08-07T21:15:10Z",
-  "latest_5m_scan": "2026-08-07T21:15:02Z",
-  "latest_1m_scan": "2026-08-07T21:14:53Z",
+  "snapshot_time": "2026-08-07T21:14:09Z",
+  "latest_5m_scan": "2026-08-07T21:09:53Z",
+  "latest_1m_scan": "2026-08-07T21:13:46Z",
   "rows": [
     {
-      "symbol": "IWM",
+      "symbol": "QQQ",
       "five_state": "CONFIRMED_LONG",
       "five_direction": "long",
-      "five_price": 301.67,
+      "five_price": 722.7,
       "five_flow": "n/a",
       "five_reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
       "one_state": "MICRO_CONFIRMS_LONG",
-      "one_price": 301.815,
+      "one_price": 722.68,
       "one_tms": "higher highs / higher lows",
       "alignment": "agrees",
       "action": "REVIEW_LONG_BRACKET",
-      "latest_proposal": "20260807T200753Z-iwm-confirmed_long-proposal.json"
+      "latest_proposal": "20260807T195223Z-qqq-confirmed_long-proposal.json"
     },
     {
       "symbol": "SPY",
@@ -25,7 +25,7 @@
       "five_flow": "n/a",
       "five_reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
       "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 772.9,
+      "one_price": 772.97,
       "one_tms": "higher highs / higher lows",
       "alignment": "agrees",
       "action": "REVIEW_LONG_BRACKET",
@@ -60,18 +60,18 @@
       "latest_proposal": "20260807T184502Z-ief-confirmed_short-proposal.json"
     },
     {
-      "symbol": "QQQ",
+      "symbol": "IWM",
       "five_state": "CONFIRMED_LONG",
       "five_direction": "long",
-      "five_price": 722.7,
+      "five_price": 301.67,
       "five_flow": "n/a",
       "five_reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
       "one_state": "MICRO_CHOP",
-      "one_price": 722.31,
+      "one_price": 301.71,
       "one_tms": "higher highs / higher lows",
       "alignment": "unclear",
       "action": "WAIT",
-      "latest_proposal": "20260807T195223Z-qqq-confirmed_long-proposal.json"
+      "latest_proposal": "20260807T200753Z-iwm-confirmed_long-proposal.json"
     },
     {
       "symbol": "RSP",
@@ -137,7 +137,7 @@
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 57.545,
+      "one_price": 57.53,
       "one_tms": "higher highs / higher lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
@@ -150,8 +150,8 @@
       "five_price": 82.76,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
-      "one_state": "MICRO_CONFIRMS_LONG",
-      "one_price": 82.755,
+      "one_state": "MICRO_BUILDING_LONG",
+      "one_price": 82.745,
       "one_tms": "higher highs / higher lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
