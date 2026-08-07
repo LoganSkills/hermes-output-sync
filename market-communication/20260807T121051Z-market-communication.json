@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-07T12:14:51Z",
-  "latest_5m_scan": "2026-08-07T12:11:55Z",
-  "latest_1m_scan": "2026-08-07T12:13:52Z",
+  "snapshot_time": "2026-08-07T12:10:51Z",
+  "latest_5m_scan": "2026-08-07T12:06:45Z",
+  "latest_1m_scan": "2026-08-07T12:10:33Z",
   "rows": [
     {
       "symbol": "DIA",
@@ -53,7 +53,7 @@
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 82.51,
+      "one_price": null,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "WAIT_DATA",
@@ -133,11 +133,11 @@
       "symbol": "SLV",
       "five_state": "NEGATED",
       "five_direction": "short",
-      "five_price": 57.96,
+      "five_price": 55.87,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 57.96,
+      "one_price": null,
       "one_tms": "n/a",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
