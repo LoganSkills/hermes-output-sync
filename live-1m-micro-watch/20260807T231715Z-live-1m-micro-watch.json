@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-07T23:21:39Z",
+  "scan_time": "2026-08-07T23:17:15Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -49,8 +49,13 @@
     },
     {
       "symbol": "USO",
-      "state": "DATA_INCOMPLETE",
-      "price": 118.02
+      "state": "MICRO_BUILDING_LONG",
+      "price": 118.02,
+      "one_min_tms": "lower highs / lower lows",
+      "one_min_sma_8": 117.95375,
+      "one_min_sma_30": 117.966,
+      "prior_5bar_high": 118.0,
+      "prior_5bar_low": 117.895
     },
     {
       "symbol": "TLT",
