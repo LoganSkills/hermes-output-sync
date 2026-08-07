@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-07T21:35:10Z",
+  "snapshot_time": "2026-08-07T21:32:10Z",
   "latest_5m_scan": "2026-08-07T21:30:31Z",
-  "latest_1m_scan": "2026-08-07T21:35:05Z",
+  "latest_1m_scan": "2026-08-07T21:31:42Z",
   "rows": [
     {
       "symbol": "IEF",
@@ -10,11 +10,11 @@
       "five_price": 93.16,
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
-      "one_state": "MICRO_BUILDING_SHORT",
-      "one_price": 93.165,
-      "one_tms": "range/mixed",
-      "alignment": "building same way",
-      "action": "WATCH_BUILDING",
+      "one_state": "MICRO_CONFIRMS_SHORT",
+      "one_price": 93.15,
+      "one_tms": "lower highs / lower lows",
+      "alignment": "early 1m alignment",
+      "action": "WATCH_EARLY_TRIGGER",
       "latest_proposal": "20260807T184502Z-ief-confirmed_short-proposal.json"
     },
     {
@@ -24,26 +24,26 @@
       "five_price": 301.67,
       "five_flow": "n/a",
       "five_reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
-      "one_state": "MICRO_CONFIRMS_SHORT",
-      "one_price": 301.65,
-      "one_tms": "lower highs / lower lows",
+      "one_state": "MICRO_BUILDING_SHORT",
+      "one_price": 301.72,
+      "one_tms": "range/mixed",
       "alignment": "conflicts",
       "action": "WAIT_1M_CONFLICT",
       "latest_proposal": "20260807T200753Z-iwm-confirmed_long-proposal.json"
     },
     {
-      "symbol": "SPY",
+      "symbol": "QQQ",
       "five_state": "CONFIRMED_LONG",
       "five_direction": "long",
-      "five_price": 773.16,
+      "five_price": 722.7,
       "five_flow": "n/a",
       "five_reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
-      "one_state": "MICRO_BUILDING_SHORT",
-      "one_price": 772.74,
+      "one_state": "MICRO_CONFIRMS_SHORT",
+      "one_price": 721.62,
       "one_tms": "lower highs / lower lows",
       "alignment": "conflicts",
       "action": "WAIT_1M_CONFLICT",
-      "latest_proposal": "20260807T195732Z-spy-confirmed_long-proposal.json"
+      "latest_proposal": "20260807T195223Z-qqq-confirmed_long-proposal.json"
     },
     {
       "symbol": "DIA",
@@ -58,20 +58,6 @@
       "alignment": "unclear",
       "action": "WAIT",
       "latest_proposal": "20260807T194712Z-dia-confirmed_long-proposal.json"
-    },
-    {
-      "symbol": "QQQ",
-      "five_state": "CONFIRMED_LONG",
-      "five_direction": "long",
-      "five_price": 722.7,
-      "five_flow": "n/a",
-      "five_reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
-      "one_state": "MICRO_CHOP",
-      "one_price": 721.93,
-      "one_tms": "lower highs / lower lows",
-      "alignment": "unclear",
-      "action": "WAIT",
-      "latest_proposal": "20260807T195223Z-qqq-confirmed_long-proposal.json"
     },
     {
       "symbol": "RSP",
@@ -100,6 +86,20 @@
       "alignment": "unclear",
       "action": "WAIT",
       "latest_proposal": "20260806T193429Z-shy-confirmed_short-proposal.json"
+    },
+    {
+      "symbol": "SPY",
+      "five_state": "CONFIRMED_LONG",
+      "five_direction": "long",
+      "five_price": 773.16,
+      "five_flow": "n/a",
+      "five_reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
+      "one_state": "MICRO_CHOP",
+      "one_price": 772.9,
+      "one_tms": "lower highs / lower lows",
+      "alignment": "unclear",
+      "action": "WAIT",
+      "latest_proposal": "20260807T195732Z-spy-confirmed_long-proposal.json"
     },
     {
       "symbol": "UNG",
@@ -150,9 +150,9 @@
       "five_price": 82.76,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
-      "one_state": "MICRO_CHOP",
-      "one_price": 82.755,
-      "one_tms": "range/mixed",
+      "one_state": "MICRO_BUILDING_LONG",
+      "one_price": 82.765,
+      "one_tms": "higher highs / higher lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
       "latest_proposal": "20260807T183952Z-tlt-confirmed_short-proposal.json"
