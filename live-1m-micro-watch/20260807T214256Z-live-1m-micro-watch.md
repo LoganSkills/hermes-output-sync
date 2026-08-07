@@ -1,6 +1,6 @@
 # Hermes Live 1-Minute Micro Watch
 
-- Scan time: 2026-08-07T21:45:11Z
+- Scan time: 2026-08-07T21:42:56Z
 - Mode: read-only; no orders placed; no proposals written
 - Use: earliest execution clue only; 5-minute confirmation still required
 
@@ -13,6 +13,14 @@
 - Prior 5-bar high: 118.00
 - Prior 5-bar low: 117.89
 
+### IEF
+- Price: 93.19
+- 1m TMS: range/mixed
+- 1m 8 SMA: 93.17
+- 1m 30 SMA: 93.18
+- Prior 5-bar high: 93.17
+- Prior 5-bar low: 93.15
+
 ### UNG
 - Price: 9.73
 - 1m TMS: higher highs / higher lows
@@ -23,37 +31,37 @@
 
 ## MICRO_BUILDING_SHORT
 ### SPY
-- Price: 772.74
+- Price: 772.76
 - 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 772.74
-- 1m 30 SMA: 772.90
-- Prior 5-bar high: 772.92
+- 1m 8 SMA: 772.79
+- 1m 30 SMA: 772.94
+- Prior 5-bar high: 773.10
 - Prior 5-bar low: 772.52
 
-### IEF
-- Price: 93.16
+### IWM
+- Price: 301.62
+- 1m TMS: lower highs / lower lows
+- 1m 8 SMA: 301.64
+- 1m 30 SMA: 301.79
+- Prior 5-bar high: 301.78
+- Prior 5-bar low: 301.49
+
+### TLT
+- Price: 82.72
 - 1m TMS: range/mixed
-- 1m 8 SMA: 93.17
-- 1m 30 SMA: 93.18
-- Prior 5-bar high: 93.19
-- Prior 5-bar low: 93.15
+- 1m 8 SMA: 82.74
+- 1m 30 SMA: 82.75
+- Prior 5-bar high: 82.76
+- Prior 5-bar low: 82.72
 
 ## MICRO_CHOP
 ### QQQ
-- Price: 721.95
+- Price: 721.84
 - 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 721.80
-- 1m 30 SMA: 721.99
-- Prior 5-bar high: 722.03
-- Prior 5-bar low: 721.62
-
-### IWM
-- Price: 301.68
-- 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 301.61
-- 1m 30 SMA: 301.77
-- Prior 5-bar high: 301.71
-- Prior 5-bar low: 301.49
+- 1m 8 SMA: 721.84
+- 1m 30 SMA: 722.05
+- Prior 5-bar high: 722.07
+- Prior 5-bar low: 721.53
 
 ### DIA
 - Price: 539.58
@@ -71,18 +79,10 @@
 - Prior 5-bar high: 220.07
 - Prior 5-bar low: 219.91
 
-### TLT
-- Price: 82.73
-- 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 82.73
-- 1m 30 SMA: 82.75
-- Prior 5-bar high: 82.75
-- Prior 5-bar low: 82.72
-
 ### SLV
 - Price: 57.53
 - 1m TMS: higher highs / higher lows
 - 1m 8 SMA: 57.55
 - 1m 30 SMA: 57.53
-- Prior 5-bar high: 57.58
-- Prior 5-bar low: 57.52
+- Prior 5-bar high: 57.57
+- Prior 5-bar low: 57.53
