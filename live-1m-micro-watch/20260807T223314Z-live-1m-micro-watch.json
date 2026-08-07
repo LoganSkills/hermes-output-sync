@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-07T22:35:27Z",
+  "scan_time": "2026-08-07T22:33:14Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -84,8 +84,13 @@
     },
     {
       "symbol": "UNG",
-      "state": "DATA_INCOMPLETE",
-      "price": 9.73
+      "state": "MICRO_BUILDING_LONG",
+      "price": 9.73,
+      "one_min_tms": "higher highs / higher lows",
+      "one_min_sma_8": 9.724375,
+      "one_min_sma_30": 9.713500000000002,
+      "prior_5bar_high": 9.73,
+      "prior_5bar_low": 9.72
     },
     {
       "symbol": "SLV",
