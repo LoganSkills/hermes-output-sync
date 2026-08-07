@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-07T16:47:37Z",
+  "scan_time": "2026-08-07T16:44:13Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -34,13 +34,13 @@
     },
     {
       "symbol": "DIA",
-      "state": "MICRO_BUILDING_LONG",
-      "price": 539.025,
+      "state": "MICRO_CHOP",
+      "price": 538.85,
       "one_min_tms": "lower highs / lower lows",
-      "one_min_sma_8": 538.5475,
-      "one_min_sma_30": 538.9068333333333,
-      "prior_5bar_high": 538.85,
-      "prior_5bar_low": 538.33
+      "one_min_sma_8": 538.471875,
+      "one_min_sma_30": 538.9223333333333,
+      "prior_5bar_high": 538.54,
+      "prior_5bar_low": 538.29
     },
     {
       "symbol": "RSP",
@@ -55,20 +55,20 @@
     {
       "symbol": "USO",
       "state": "MICRO_BUILDING_SHORT",
-      "price": 119.75,
+      "price": 119.73,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 119.835625,
-      "one_min_sma_30": 119.76566666666666,
+      "one_min_sma_8": 119.82875,
+      "one_min_sma_30": 119.765,
       "prior_5bar_high": 119.985,
       "prior_5bar_low": 119.71
     },
     {
       "symbol": "TLT",
       "state": "MICRO_BUILDING_SHORT",
-      "price": 82.56,
+      "price": 82.565,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 82.563125,
-      "one_min_sma_30": 82.57733333333334,
+      "one_min_sma_8": 82.566875,
+      "one_min_sma_30": 82.5815,
       "prior_5bar_high": 82.585,
       "prior_5bar_low": 82.54
     },
