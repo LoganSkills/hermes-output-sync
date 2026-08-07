@@ -1,6 +1,6 @@
 # Hermes Live 1-Minute Micro Watch
 
-- Scan time: 2026-08-07T22:10:59Z
+- Scan time: 2026-08-07T22:06:31Z
 - Mode: read-only; no orders placed; no proposals written
 - Use: earliest execution clue only; 5-minute confirmation still required
 
@@ -12,14 +12,6 @@
 - 1m 30 SMA: 772.87
 - Prior 5-bar high: 773.78
 - Prior 5-bar low: 772.82
-
-### QQQ
-- Price: 722.70
-- 1m TMS: range/mixed
-- 1m 8 SMA: 722.58
-- 1m 30 SMA: 722.42
-- Prior 5-bar high: 722.55
-- Prior 5-bar low: 722.42
 
 ### IWM
 - Price: 301.67
@@ -63,6 +55,14 @@
 - Prior 5-bar low: 93.15
 
 ## MICRO_CHOP
+### QQQ
+- Price: 722.54
+- 1m TMS: higher highs / higher lows
+- 1m 8 SMA: 722.60
+- 1m 30 SMA: 722.40
+- Prior 5-bar high: 722.68
+- Prior 5-bar low: 722.42
+
 ### DIA
 - Price: 539.58
 - 1m TMS: lower highs / lower lows

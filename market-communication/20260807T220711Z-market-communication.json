@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-07T22:11:12Z",
+  "snapshot_time": "2026-08-07T22:07:11Z",
   "latest_5m_scan": "2026-08-07T22:06:41Z",
-  "latest_1m_scan": "2026-08-07T22:10:59Z",
+  "latest_1m_scan": "2026-08-07T22:06:31Z",
   "rows": [
     {
       "symbol": "IWM",
@@ -16,20 +16,6 @@
       "alignment": "agrees",
       "action": "REVIEW_LONG_BRACKET",
       "latest_proposal": "20260807T200753Z-iwm-confirmed_long-proposal.json"
-    },
-    {
-      "symbol": "QQQ",
-      "five_state": "CONFIRMED_LONG",
-      "five_direction": "long",
-      "five_price": 722.7,
-      "five_flow": "n/a",
-      "five_reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
-      "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 722.7,
-      "one_tms": "range/mixed",
-      "alignment": "agrees",
-      "action": "REVIEW_LONG_BRACKET",
-      "latest_proposal": "20260807T195223Z-qqq-confirmed_long-proposal.json"
     },
     {
       "symbol": "SPY",
@@ -72,6 +58,20 @@
       "alignment": "unclear",
       "action": "WAIT",
       "latest_proposal": "20260807T194712Z-dia-confirmed_long-proposal.json"
+    },
+    {
+      "symbol": "QQQ",
+      "five_state": "CONFIRMED_LONG",
+      "five_direction": "long",
+      "five_price": 722.7,
+      "five_flow": "n/a",
+      "five_reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
+      "one_state": "MICRO_CHOP",
+      "one_price": 722.54,
+      "one_tms": "higher highs / higher lows",
+      "alignment": "unclear",
+      "action": "WAIT",
+      "latest_proposal": "20260807T195223Z-qqq-confirmed_long-proposal.json"
     },
     {
       "symbol": "RSP",
