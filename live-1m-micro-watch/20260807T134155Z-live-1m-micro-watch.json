@@ -1,51 +1,51 @@
 {
-  "scan_time": "2026-08-07T13:46:21Z",
+  "scan_time": "2026-08-07T13:41:55Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
       "symbol": "SPY",
       "state": "DATA_INCOMPLETE",
-      "price": 771.59
+      "price": 771.375
     },
     {
       "symbol": "QQQ",
       "state": "DATA_INCOMPLETE",
-      "price": 721.3
+      "price": 720.48
     },
     {
       "symbol": "IWM",
       "state": "DATA_INCOMPLETE",
-      "price": 300.745
+      "price": 301.045
     },
     {
       "symbol": "DIA",
       "state": "DATA_INCOMPLETE",
-      "price": 539.185
+      "price": 539.14
     },
     {
       "symbol": "RSP",
       "state": "DATA_INCOMPLETE",
-      "price": 219.185
+      "price": 219.28
     },
     {
       "symbol": "USO",
       "state": "DATA_INCOMPLETE",
-      "price": 117.87
+      "price": 117.72
     },
     {
       "symbol": "TLT",
       "state": "MICRO_CHOP",
-      "price": 82.825,
-      "one_min_tms": "range/mixed",
-      "one_min_sma_8": 82.818125,
-      "one_min_sma_30": 82.85833333333333,
-      "prior_5bar_high": 82.85,
-      "prior_5bar_low": 82.795
+      "price": 82.8,
+      "one_min_tms": "lower highs / lower lows",
+      "one_min_sma_8": 82.785,
+      "one_min_sma_30": 82.88550000000001,
+      "prior_5bar_high": 82.8,
+      "prior_5bar_low": 82.775
     },
     {
       "symbol": "IEF",
       "state": "DATA_INCOMPLETE",
-      "price": 93.3
+      "price": 93.29
     },
     {
       "symbol": "UNG",
@@ -55,7 +55,7 @@
     {
       "symbol": "SLV",
       "state": "DATA_INCOMPLETE",
-      "price": 58.115
+      "price": 58.06
     }
   ]
 }
