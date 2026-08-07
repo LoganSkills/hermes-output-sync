@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-07T13:00:53Z
-- Latest 5m scan: 2026-08-07T12:58:26Z
-- Latest 1m scan: 2026-08-07T13:00:03Z
+- Snapshot time: 2026-08-07T12:56:52Z
+- Latest 5m scan: 2026-08-07T12:53:16Z
+- Latest 1m scan: 2026-08-07T12:56:45Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -15,12 +15,12 @@
 | QQQ | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 722.43 | 722.43 | 20260806T190838Z-qqq-confirmed_long-proposal.json |
 | RSP | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 218.61 | n/a | 20260806T190328Z-rsp-confirmed_long-proposal.json |
 | SPY | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 772.37 | 772.37 | 20260806T191348Z-spy-confirmed_long-proposal.json |
-| TLT | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 82.93 | 82.91 | 20260806T181654Z-tlt-confirmed_short-proposal.json |
-| UNG | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 9.66 | 9.66 | 20260806T194959Z-ung-confirmed_short-proposal.json |
+| TLT | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 83.00 | 82.97 | 20260806T181654Z-tlt-confirmed_short-proposal.json |
+| UNG | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 9.67 | 9.66 | 20260806T194959Z-ung-confirmed_short-proposal.json |
 | SHY | PENDING short | n/a | unclear | WAIT | 81.81 | n/a | 20260806T193429Z-shy-confirmed_short-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 400.39 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
 | IWM | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 298.25 | n/a | 20260806T151026Z-iwm-confirmed_long-proposal.json |
-| SLV | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 58.57 | 58.57 | 20260803T122434Z-slv-confirmed_short-proposal.json |
+| SLV | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 58.51 | 58.57 | 20260803T122434Z-slv-confirmed_short-proposal.json |
 | USO | NEGATED long | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 118.86 | n/a | 20260731T181940Z-uso-confirmed_long-proposal.json |
 
 ## Notes
