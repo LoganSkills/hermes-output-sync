@@ -1,11 +1,11 @@
 {
-  "scan_time": "2026-08-07T12:30:22Z",
+  "scan_time": "2026-08-07T12:28:10Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
       "symbol": "SPY",
       "state": "DATA_INCOMPLETE",
-      "price": 770.36
+      "price": 770.69
     },
     {
       "symbol": "QQQ",
