@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-07T12:24:52Z",
+  "scan_time": "2026-08-07T12:21:34Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -45,7 +45,7 @@
     {
       "symbol": "UNG",
       "state": "DATA_INCOMPLETE",
-      "price": 9.66
+      "price": 9.65
     },
     {
       "symbol": "SLV",
