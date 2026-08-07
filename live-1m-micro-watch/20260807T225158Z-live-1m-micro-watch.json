@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-07T22:56:20Z",
+  "scan_time": "2026-08-07T22:51:58Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -34,8 +34,13 @@
     },
     {
       "symbol": "DIA",
-      "state": "DATA_INCOMPLETE",
-      "price": 539.58
+      "state": "MICRO_CHOP",
+      "price": 539.58,
+      "one_min_tms": "lower highs / lower lows",
+      "one_min_sma_8": 539.525625,
+      "one_min_sma_30": 539.6466666666666,
+      "prior_5bar_high": 539.825,
+      "prior_5bar_low": 539.32
     },
     {
       "symbol": "RSP",
