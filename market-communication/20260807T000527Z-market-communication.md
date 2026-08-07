@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-07T00:08:27Z
-- Latest 5m scan: 2026-08-07T00:08:23Z
-- Latest 1m scan: 2026-08-07T00:08:14Z
+- Snapshot time: 2026-08-07T00:05:27Z
+- Latest 5m scan: 2026-08-07T00:03:13Z
+- Latest 1m scan: 2026-08-07T00:04:56Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -11,7 +11,7 @@
 | Symbol | 5m State | 1m State | Alignment | Action | 5m Price | 1m Price | Latest Proposal |
 |---|---|---|---|---|---:|---:|---|
 | DIA | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 538.31 | n/a | 20260805T173759Z-dia-confirmed_long-proposal.json |
-| IEF | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 93.00 | n/a | 20260806T184757Z-ief-confirmed_short-proposal.json |
+| IEF | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 93.00 | 93.00 | 20260806T184757Z-ief-confirmed_short-proposal.json |
 | RSP | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 218.61 | n/a | 20260806T190328Z-rsp-confirmed_long-proposal.json |
 | TLT | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 82.31 | 82.31 | 20260806T181654Z-tlt-confirmed_short-proposal.json |
 | UNG | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 9.63 | n/a | 20260806T194959Z-ung-confirmed_short-proposal.json |
