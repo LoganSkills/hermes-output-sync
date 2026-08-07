@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-07T16:11:59Z",
+  "snapshot_time": "2026-08-07T16:10:59Z",
   "latest_5m_scan": "2026-08-07T16:09:50Z",
-  "latest_1m_scan": "2026-08-07T16:11:34Z",
+  "latest_1m_scan": "2026-08-07T16:10:26Z",
   "rows": [
     {
       "symbol": "IWM",
@@ -46,20 +46,6 @@
       "latest_proposal": "20260807T155419Z-ief-confirmed_short-proposal.json"
     },
     {
-      "symbol": "UNG",
-      "five_state": "PENDING",
-      "five_direction": "short",
-      "five_price": 9.735,
-      "five_flow": "n/a",
-      "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
-      "one_state": "MICRO_BUILDING_SHORT",
-      "one_price": 9.715,
-      "one_tms": "higher highs / higher lows",
-      "alignment": "building same way",
-      "action": "WATCH_BUILDING",
-      "latest_proposal": "20260807T151805Z-ung-confirmed_short-proposal.json"
-    },
-    {
       "symbol": "DIA",
       "five_state": "PENDING",
       "five_direction": "long",
@@ -67,7 +53,7 @@
       "five_flow": "n/a",
       "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
       "one_state": "MICRO_BUILDING_SHORT",
-      "one_price": 538.985,
+      "one_price": 539.07,
       "one_tms": "lower highs / lower lows",
       "alignment": "conflicts",
       "action": "WAIT",
@@ -128,6 +114,20 @@
       "alignment": "unclear",
       "action": "WAIT",
       "latest_proposal": "20260807T150745Z-tlt-confirmed_short-proposal.json"
+    },
+    {
+      "symbol": "UNG",
+      "five_state": "PENDING",
+      "five_direction": "short",
+      "five_price": 9.735,
+      "five_flow": "n/a",
+      "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
+      "one_state": "MICRO_CONFIRMS_LONG",
+      "one_price": 9.735,
+      "one_tms": "higher highs / higher lows",
+      "alignment": "conflicts",
+      "action": "WAIT",
+      "latest_proposal": "20260807T151805Z-ung-confirmed_short-proposal.json"
     },
     {
       "symbol": "GLD",
