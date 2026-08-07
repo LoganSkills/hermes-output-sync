@@ -1,18 +1,19 @@
 # Hermes Live 1-Minute Micro Watch
 
-- Scan time: 2026-08-07T21:30:35Z
+- Scan time: 2026-08-07T21:29:29Z
 - Mode: read-only; no orders placed; no proposals written
 - Use: earliest execution clue only; 5-minute confirmation still required
 
-## MICRO_CONFIRMS_SHORT
-### SPY
-- Price: 772.75
-- 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 772.99
-- 1m 30 SMA: 772.80
-- Prior 5-bar high: 773.11
-- Prior 5-bar low: 772.86
+## MICRO_CONFIRMS_LONG
+### TLT
+- Price: 82.77
+- 1m TMS: higher highs / higher lows
+- 1m 8 SMA: 82.76
+- 1m 30 SMA: 82.71
+- Prior 5-bar high: 82.76
+- Prior 5-bar low: 82.75
 
+## MICRO_CONFIRMS_SHORT
 ### IEF
 - Price: 93.15
 - 1m TMS: lower highs / lower lows
@@ -22,6 +23,14 @@
 - Prior 5-bar low: 93.17
 
 ## MICRO_BUILDING_LONG
+### SPY
+- Price: 773.07
+- 1m TMS: range/mixed
+- 1m 8 SMA: 773.03
+- 1m 30 SMA: 772.77
+- Prior 5-bar high: 773.20
+- Prior 5-bar low: 772.86
+
 ### USO
 - Price: 118.02
 - 1m TMS: lower highs / lower lows
@@ -39,7 +48,7 @@
 - Prior 5-bar low: 9.72
 
 ### SLV
-- Price: 57.53
+- Price: 57.54
 - 1m TMS: range/mixed
 - 1m 8 SMA: 57.52
 - 1m 30 SMA: 57.49
@@ -48,22 +57,22 @@
 
 ## MICRO_BUILDING_SHORT
 ### QQQ
-- Price: 721.92
+- Price: 721.93
 - 1m TMS: lower highs / lower lows
-- 1m 8 SMA: 722.09
-- 1m 30 SMA: 722.10
+- 1m 8 SMA: 722.11
+- 1m 30 SMA: 722.06
 - Prior 5-bar high: 722.38
 - Prior 5-bar low: 721.82
 
-### IWM
-- Price: 301.73
-- 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 301.89
-- 1m 30 SMA: 301.78
-- Prior 5-bar high: 301.97
-- Prior 5-bar low: 301.80
-
 ## MICRO_CHOP
+### IWM
+- Price: 301.81
+- 1m TMS: higher highs / higher lows
+- 1m 8 SMA: 301.92
+- 1m 30 SMA: 301.77
+- Prior 5-bar high: 301.97
+- Prior 5-bar low: 301.83
+
 ### DIA
 - Price: 539.58
 - 1m TMS: lower highs / lower lows
@@ -79,11 +88,3 @@
 - 1m 30 SMA: 220.12
 - Prior 5-bar high: 220.07
 - Prior 5-bar low: 219.91
-
-### TLT
-- Price: 82.75
-- 1m TMS: higher highs / higher lows
-- 1m 8 SMA: 82.76
-- 1m 30 SMA: 82.72
-- Prior 5-bar high: 82.77
-- Prior 5-bar low: 82.75
