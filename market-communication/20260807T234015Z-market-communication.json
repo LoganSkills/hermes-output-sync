@@ -1,8 +1,22 @@
 {
-  "snapshot_time": "2026-08-07T23:41:15Z",
+  "snapshot_time": "2026-08-07T23:40:15Z",
   "latest_5m_scan": "2026-08-07T23:39:39Z",
-  "latest_1m_scan": "2026-08-07T23:40:21Z",
+  "latest_1m_scan": "2026-08-07T23:39:15Z",
   "rows": [
+    {
+      "symbol": "QQQ",
+      "five_state": "CONFIRMED_LONG",
+      "five_direction": "long",
+      "five_price": 722.7,
+      "five_flow": "n/a",
+      "five_reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
+      "one_state": "MICRO_BUILDING_LONG",
+      "one_price": 722.7,
+      "one_tms": "range/mixed",
+      "alignment": "agrees",
+      "action": "REVIEW_LONG_BRACKET",
+      "latest_proposal": "20260807T195223Z-qqq-confirmed_long-proposal.json"
+    },
     {
       "symbol": "DIA",
       "five_state": "PENDING",
@@ -44,20 +58,6 @@
       "alignment": "unclear",
       "action": "WAIT_DATA",
       "latest_proposal": "20260807T200753Z-iwm-confirmed_long-proposal.json"
-    },
-    {
-      "symbol": "QQQ",
-      "five_state": "CONFIRMED_LONG",
-      "five_direction": "long",
-      "five_price": 722.7,
-      "five_flow": "n/a",
-      "five_reason": "Long confirmation: trigger reclaimed/held with 5-minute structure.",
-      "one_state": "DATA_INCOMPLETE",
-      "one_price": 722.7,
-      "one_tms": "n/a",
-      "alignment": "unclear",
-      "action": "WAIT_DATA",
-      "latest_proposal": "20260807T195223Z-qqq-confirmed_long-proposal.json"
     },
     {
       "symbol": "RSP",
