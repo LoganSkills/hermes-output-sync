@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-07T15:36:58Z
+- Snapshot time: 2026-08-07T15:34:58Z
 - Latest 5m scan: 2026-08-07T15:33:36Z
-- Latest 1m scan: 2026-08-07T15:36:33Z
+- Latest 1m scan: 2026-08-07T15:34:18Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -13,9 +13,9 @@
 | IWM | CONFIRMED_LONG long | MICRO_BUILDING_LONG | agrees | REVIEW_LONG_BRACKET | 301.32 | 301.17 | 20260807T153336Z-iwm-confirmed_long-proposal.json |
 | QQQ | CONFIRMED_LONG long | MICRO_BUILDING_LONG | agrees | REVIEW_LONG_BRACKET | 723.43 | 721.39 | 20260807T152825Z-qqq-confirmed_long-proposal.json |
 | UNG | CONFIRMED_SHORT short | MICRO_BUILDING_SHORT | agrees | REVIEW_ONLY_SHORT_NO_EXECUTION | 9.71 | 9.71 | 20260807T151805Z-ung-confirmed_short-proposal.json |
+| IEF | PENDING short | MICRO_BUILDING_SHORT | building same way | WATCH_BUILDING | 93.12 | 93.11 | 20260807T150745Z-ief-confirmed_short-proposal.json |
 | DIA | PENDING long | MICRO_BUILDING_SHORT | conflicts | WAIT | 539.16 | 539.16 | 20260807T151255Z-dia-confirmed_long-proposal.json |
-| IEF | PENDING short | MICRO_BUILDING_LONG | conflicts | WAIT | 93.12 | 93.12 | 20260807T150745Z-ief-confirmed_short-proposal.json |
-| RSP | PENDING long | MICRO_BUILDING_SHORT | conflicts | WAIT | 219.96 | 219.84 | 20260807T151255Z-rsp-confirmed_long-proposal.json |
+| RSP | PENDING long | MICRO_BUILDING_SHORT | conflicts | WAIT | 219.96 | 219.87 | 20260807T151255Z-rsp-confirmed_long-proposal.json |
 | SHY | PENDING short | n/a | unclear | WAIT | 81.90 | n/a | 20260806T193429Z-shy-confirmed_short-proposal.json |
 | SPY | CONFIRMED_LONG long | MICRO_CHOP | unclear | WAIT | 773.88 | 772.88 | 20260807T150234Z-spy-confirmed_long-proposal.json |
 | TLT | PENDING short | MICRO_CHOP | unclear | WAIT | 82.61 | 82.58 | 20260807T150745Z-tlt-confirmed_short-proposal.json |
@@ -27,8 +27,8 @@
 - IWM: REVIEW_LONG_BRACKET; 5m flow: n/a; 5m reason: Long confirmation: trigger reclaimed/held with 5-minute structure.
 - QQQ: REVIEW_LONG_BRACKET; 5m flow: n/a; 5m reason: Long confirmation: trigger reclaimed/held with 5-minute structure.
 - UNG: REVIEW_ONLY_SHORT_NO_EXECUTION; 5m flow: n/a; 5m reason: Short confirmation: level failed with 5-minute downside structure.
+- IEF: WATCH_BUILDING; 5m flow: n/a; 5m reason: Short candidate is still waiting for 5-minute confirmation.
 - DIA: WAIT; 5m flow: n/a; 5m reason: Long candidate is still waiting for 5-minute confirmation.
-- IEF: WAIT; 5m flow: n/a; 5m reason: Short candidate is still waiting for 5-minute confirmation.
 - RSP: WAIT; 5m flow: n/a; 5m reason: Long candidate is still waiting for 5-minute confirmation.
 - SHY: WAIT; 5m flow: n/a; 5m reason: Short candidate is still waiting for 5-minute confirmation.
 - SPY: WAIT; 5m flow: n/a; 5m reason: Long confirmation: trigger reclaimed/held with 5-minute structure.
