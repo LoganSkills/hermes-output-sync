@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-07T16:16:59Z",
+  "snapshot_time": "2026-08-07T16:15:59Z",
   "latest_5m_scan": "2026-08-07T16:15:00Z",
-  "latest_1m_scan": "2026-08-07T16:16:04Z",
+  "latest_1m_scan": "2026-08-07T16:14:57Z",
   "rows": [
     {
       "symbol": "IWM",
@@ -108,10 +108,10 @@
       "five_price": 9.72,
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
-      "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 9.73,
+      "one_state": "MICRO_CHOP",
+      "one_price": 9.72,
       "one_tms": "higher highs / higher lows",
-      "alignment": "conflicts",
+      "alignment": "unclear",
       "action": "WAIT",
       "latest_proposal": "20260807T151805Z-ung-confirmed_short-proposal.json"
     },
@@ -150,8 +150,8 @@
       "five_price": 57.42,
       "five_flow": "n/a",
       "five_reason": "Short idea negated: reclaim or 5-minute upside structure appeared.",
-      "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 57.525,
+      "one_state": "MICRO_CHOP",
+      "one_price": 57.52,
       "one_tms": "range/mixed",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
@@ -165,7 +165,7 @@
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
       "one_state": "MICRO_CHOP",
-      "one_price": 119.79,
+      "one_price": 119.695,
       "one_tms": "range/mixed",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
