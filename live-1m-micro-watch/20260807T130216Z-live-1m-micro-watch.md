@@ -1,6 +1,6 @@
 # Hermes Live 1-Minute Micro Watch
 
-- Scan time: 2026-08-07T13:05:34Z
+- Scan time: 2026-08-07T13:02:16Z
 - Mode: read-only; no orders placed; no proposals written
 - Use: earliest execution clue only; 5-minute confirmation still required
 
@@ -14,7 +14,7 @@
 - Prior 5-bar low: n/a
 
 ### QQQ
-- Price: 722.41
+- Price: 722.43
 - 1m TMS: n/a
 - 1m 8 SMA: n/a
 - 1m 30 SMA: n/a
@@ -54,7 +54,7 @@
 - Prior 5-bar low: n/a
 
 ### TLT
-- Price: 82.85
+- Price: 82.87
 - 1m TMS: n/a
 - 1m 8 SMA: n/a
 - 1m 30 SMA: n/a
@@ -70,7 +70,7 @@
 - Prior 5-bar low: n/a
 
 ### UNG
-- Price: 9.70
+- Price: 9.66
 - 1m TMS: n/a
 - 1m 8 SMA: n/a
 - 1m 30 SMA: n/a

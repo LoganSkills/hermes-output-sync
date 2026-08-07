@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-07T13:05:53Z",
+  "snapshot_time": "2026-08-07T13:03:53Z",
   "latest_5m_scan": "2026-08-07T13:03:36Z",
-  "latest_1m_scan": "2026-08-07T13:05:34Z",
+  "latest_1m_scan": "2026-08-07T13:03:22Z",
   "rows": [
     {
       "symbol": "DIA",
@@ -95,7 +95,7 @@
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
       "one_state": "DATA_INCOMPLETE",
-      "one_price": 9.7,
+      "one_price": 9.66,
       "one_tms": "n/a",
       "alignment": "unclear",
       "action": "WAIT_DATA",
