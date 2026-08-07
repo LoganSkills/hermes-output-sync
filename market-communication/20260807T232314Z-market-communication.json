@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-07T23:26:14Z",
-  "latest_5m_scan": "2026-08-07T23:24:09Z",
-  "latest_1m_scan": "2026-08-07T23:26:04Z",
+  "snapshot_time": "2026-08-07T23:23:14Z",
+  "latest_5m_scan": "2026-08-07T23:18:59Z",
+  "latest_1m_scan": "2026-08-07T23:22:45Z",
   "rows": [
     {
       "symbol": "IWM",
@@ -74,20 +74,6 @@
       "latest_proposal": "20260807T194712Z-dia-confirmed_long-proposal.json"
     },
     {
-      "symbol": "RSP",
-      "five_state": "PENDING",
-      "five_direction": "long",
-      "five_price": 220.085,
-      "five_flow": "n/a",
-      "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
-      "one_state": "DATA_INCOMPLETE",
-      "one_price": 220.085,
-      "one_tms": "n/a",
-      "alignment": "unclear",
-      "action": "WAIT_DATA",
-      "latest_proposal": "20260807T172217Z-rsp-confirmed_long-proposal.json"
-    },
-    {
       "symbol": "UNG",
       "five_state": "PENDING",
       "five_direction": "short",
@@ -100,6 +86,20 @@
       "alignment": "unclear",
       "action": "WAIT_DATA",
       "latest_proposal": "20260807T190546Z-ung-confirmed_short-proposal.json"
+    },
+    {
+      "symbol": "RSP",
+      "five_state": "PENDING",
+      "five_direction": "long",
+      "five_price": 220.085,
+      "five_flow": "n/a",
+      "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
+      "one_state": "MICRO_CHOP",
+      "one_price": 220.085,
+      "one_tms": "lower highs / lower lows",
+      "alignment": "unclear",
+      "action": "WAIT",
+      "latest_proposal": "20260807T172217Z-rsp-confirmed_long-proposal.json"
     },
     {
       "symbol": "SHY",
