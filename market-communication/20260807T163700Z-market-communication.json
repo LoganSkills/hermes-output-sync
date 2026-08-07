@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-07T16:38:00Z",
+  "snapshot_time": "2026-08-07T16:37:00Z",
   "latest_5m_scan": "2026-08-07T16:35:42Z",
-  "latest_1m_scan": "2026-08-07T16:37:29Z",
+  "latest_1m_scan": "2026-08-07T16:36:21Z",
   "rows": [
     {
       "symbol": "IEF",
@@ -80,8 +80,8 @@
       "five_price": 9.745,
       "five_flow": "n/a",
       "five_reason": "Short candidate is still waiting for 5-minute confirmation.",
-      "one_state": "MICRO_CONFIRMS_LONG",
-      "one_price": 9.75,
+      "one_state": "MICRO_BUILDING_LONG",
+      "one_price": 9.745,
       "one_tms": "higher highs / higher lows",
       "alignment": "conflicts",
       "action": "WAIT",
@@ -122,9 +122,9 @@
       "five_price": 720.64,
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
-      "one_state": "MICRO_CONFIRMS_LONG",
-      "one_price": 721.86,
-      "one_tms": "higher highs / higher lows",
+      "one_state": "MICRO_BUILDING_LONG",
+      "one_price": 721.705,
+      "one_tms": "range/mixed",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",
       "latest_proposal": "20260807T160950Z-qqq-confirmed_long-proposal.json"
@@ -151,7 +151,7 @@
       "five_flow": "n/a",
       "five_reason": "Long idea negated: failure level or 5-minute structure broke.",
       "one_state": "MICRO_BUILDING_LONG",
-      "one_price": 773.71,
+      "one_price": 773.83,
       "one_tms": "higher highs / higher lows",
       "alignment": "not actionable",
       "action": "REJECT_OR_IGNORE",

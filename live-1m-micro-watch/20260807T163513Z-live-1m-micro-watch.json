@@ -1,25 +1,25 @@
 {
-  "scan_time": "2026-08-07T16:37:29Z",
+  "scan_time": "2026-08-07T16:35:13Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
       "symbol": "SPY",
       "state": "MICRO_BUILDING_LONG",
-      "price": 773.71,
+      "price": 773.83,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 773.5393750000001,
-      "one_min_sma_30": 773.0511666666666,
+      "one_min_sma_8": 773.46,
+      "one_min_sma_30": 773.026,
       "prior_5bar_high": 773.88,
-      "prior_5bar_low": 773.21
+      "prior_5bar_low": 773.09
     },
     {
       "symbol": "QQQ",
-      "state": "MICRO_CONFIRMS_LONG",
-      "price": 721.86,
-      "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 721.388125,
-      "one_min_sma_30": 720.8673333333334,
-      "prior_5bar_high": 721.705,
+      "state": "MICRO_BUILDING_LONG",
+      "price": 721.705,
+      "one_min_tms": "range/mixed",
+      "one_min_sma_8": 721.284375,
+      "one_min_sma_30": 720.788,
+      "prior_5bar_high": 721.44,
       "prior_5bar_low": 720.895
     },
     {
@@ -55,12 +55,12 @@
     {
       "symbol": "USO",
       "state": "MICRO_BUILDING_LONG",
-      "price": 119.97,
+      "price": 119.985,
       "one_min_tms": "range/mixed",
-      "one_min_sma_8": 119.82875,
-      "one_min_sma_30": 119.75133333333333,
-      "prior_5bar_high": 119.985,
-      "prior_5bar_low": 119.71
+      "one_min_sma_8": 119.818125,
+      "one_min_sma_30": 119.72966666666666,
+      "prior_5bar_high": 119.92,
+      "prior_5bar_low": 119.675
     },
     {
       "symbol": "TLT",
@@ -85,12 +85,12 @@
     {
       "symbol": "UNG",
       "state": "MICRO_CONFIRMS_LONG",
-      "price": 9.75,
+      "price": 9.745,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 9.735624999999999,
-      "one_min_sma_30": 9.719166666666666,
-      "prior_5bar_high": 9.745,
-      "prior_5bar_low": 9.73
+      "one_min_sma_8": 9.73,
+      "one_min_sma_30": 9.718,
+      "prior_5bar_high": 9.74,
+      "prior_5bar_low": 9.715
     },
     {
       "symbol": "SLV",
