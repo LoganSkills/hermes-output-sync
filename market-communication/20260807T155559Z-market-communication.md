@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-07T15:56:59Z
+- Snapshot time: 2026-08-07T15:55:59Z
 - Latest 5m scan: 2026-08-07T15:54:19Z
-- Latest 1m scan: 2026-08-07T15:56:53Z
+- Latest 1m scan: 2026-08-07T15:55:45Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -10,7 +10,7 @@
 
 | Symbol | 5m State | 1m State | Alignment | Action | 5m Price | 1m Price | Latest Proposal |
 |---|---|---|---|---|---:|---:|---|
-| IEF | CONFIRMED_SHORT short | MICRO_BUILDING_SHORT | agrees | REVIEW_ONLY_SHORT_NO_EXECUTION | 93.11 | 93.09 | 20260807T155419Z-ief-confirmed_short-proposal.json |
+| IEF | CONFIRMED_SHORT short | MICRO_CONFIRMS_SHORT | agrees | REVIEW_ONLY_SHORT_NO_EXECUTION | 93.11 | 93.09 | 20260807T155419Z-ief-confirmed_short-proposal.json |
 | UNG | CONFIRMED_SHORT short | MICRO_CHOP | unclear | REVIEW_ONLY_SHORT_NO_EXECUTION | 9.71 | 9.71 | 20260807T151805Z-ung-confirmed_short-proposal.json |
 | IWM | PENDING long | MICRO_BUILDING_LONG | building same way | WATCH_BUILDING | 301.02 | 301.17 | 20260807T153336Z-iwm-confirmed_long-proposal.json |
 | QQQ | PENDING long | MICRO_BUILDING_LONG | building same way | WATCH_BUILDING | 722.26 | 721.39 | 20260807T152825Z-qqq-confirmed_long-proposal.json |

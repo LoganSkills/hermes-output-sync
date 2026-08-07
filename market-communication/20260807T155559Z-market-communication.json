@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-07T15:56:59Z",
+  "snapshot_time": "2026-08-07T15:55:59Z",
   "latest_5m_scan": "2026-08-07T15:54:19Z",
-  "latest_1m_scan": "2026-08-07T15:56:53Z",
+  "latest_1m_scan": "2026-08-07T15:55:45Z",
   "rows": [
     {
       "symbol": "IEF",
@@ -10,7 +10,7 @@
       "five_price": 93.11,
       "five_flow": "n/a",
       "five_reason": "Short confirmation: level failed with 5-minute downside structure.",
-      "one_state": "MICRO_BUILDING_SHORT",
+      "one_state": "MICRO_CONFIRMS_SHORT",
       "one_price": 93.095,
       "one_tms": "lower highs / lower lows",
       "alignment": "agrees",
