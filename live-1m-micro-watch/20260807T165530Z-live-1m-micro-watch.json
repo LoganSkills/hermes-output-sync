@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-07T16:57:46Z",
+  "scan_time": "2026-08-07T16:55:30Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -64,13 +64,13 @@
     },
     {
       "symbol": "TLT",
-      "state": "MICRO_CONFIRMS_LONG",
-      "price": 82.59,
-      "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 82.575,
-      "one_min_sma_30": 82.5735,
-      "prior_5bar_high": 82.585,
-      "prior_5bar_low": 82.575
+      "state": "MICRO_BUILDING_LONG",
+      "price": 82.585,
+      "one_min_tms": "range/mixed",
+      "one_min_sma_8": 82.571875,
+      "one_min_sma_30": 82.57300000000001,
+      "prior_5bar_high": 82.58,
+      "prior_5bar_low": 82.55
     },
     {
       "symbol": "IEF",
