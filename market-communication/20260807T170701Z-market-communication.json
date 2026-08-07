@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-08-07T17:08:01Z",
+  "snapshot_time": "2026-08-07T17:07:01Z",
   "latest_5m_scan": "2026-08-07T17:06:46Z",
-  "latest_1m_scan": "2026-08-07T17:07:57Z",
+  "latest_1m_scan": "2026-08-07T17:06:49Z",
   "rows": [
     {
       "symbol": "IEF",
@@ -39,7 +39,7 @@
       "five_flow": "n/a",
       "five_reason": "Long candidate is still waiting for 5-minute confirmation.",
       "one_state": "MICRO_CONFIRMS_LONG",
-      "one_price": 722.64,
+      "one_price": 722.44,
       "one_tms": "higher highs / higher lows",
       "alignment": "early 1m alignment",
       "action": "WATCH_EARLY_TRIGGER",

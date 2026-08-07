@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-07T17:07:57Z",
+  "scan_time": "2026-08-07T17:05:42Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -15,11 +15,11 @@
     {
       "symbol": "QQQ",
       "state": "MICRO_CONFIRMS_LONG",
-      "price": 722.64,
+      "price": 722.44,
       "one_min_tms": "higher highs / higher lows",
-      "one_min_sma_8": 721.838125,
-      "one_min_sma_30": 721.144,
-      "prior_5bar_high": 722.44,
+      "one_min_sma_8": 721.676875,
+      "one_min_sma_30": 721.0426666666666,
+      "prior_5bar_high": 722.105,
       "prior_5bar_low": 721.09
     },
     {
