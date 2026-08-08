@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-08-08T00:12:14Z",
+  "scan_time": "2026-08-08T00:10:02Z",
   "mode": "read-only 1m micro watch",
   "rows": [
     {
@@ -40,7 +40,7 @@
     {
       "symbol": "IEF",
       "state": "DATA_INCOMPLETE",
-      "price": null
+      "price": 93.16
     },
     {
       "symbol": "UNG",
