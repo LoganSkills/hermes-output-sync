@@ -1,6 +1,6 @@
 # Hermes Output Sync
 
-- Last sync: 2026-08-08T21:03:50Z
+- Last sync: 2026-08-08T21:08:53Z
 - Safety: research outputs only; no credentials or order keys.
 
 ## Latest Paper Proposals
