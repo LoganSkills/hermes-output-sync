@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-08T22:14:01Z
-- Latest 5m scan: 2026-08-08T22:12:55Z
-- Latest 1m scan: 2026-08-08T22:12:59Z
+- Snapshot time: 2026-08-08T22:12:01Z
+- Latest 5m scan: 2026-08-08T22:07:45Z
+- Latest 1m scan: 2026-08-08T22:11:53Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
