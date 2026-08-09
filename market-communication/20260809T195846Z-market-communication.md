@@ -1,8 +1,8 @@
 # Hermes Market Communication Snapshot
 
-- Snapshot time: 2026-08-09T20:01:46Z
-- Latest 5m scan: 2026-08-09T19:59:29Z
-- Latest 1m scan: 2026-08-09T20:00:41Z
+- Snapshot time: 2026-08-09T19:58:46Z
+- Latest 5m scan: 2026-08-09T19:54:21Z
+- Latest 1m scan: 2026-08-09T19:58:29Z
 - Mode: read-only communication; no orders placed
 - Rule: 1m can warn/align early, but 5m confirmation and risk-defined bracket are still required.
 
@@ -15,9 +15,9 @@
 | IWM | CONFIRMED_LONG long | DATA_INCOMPLETE | unclear | WAIT_DATA | 301.67 | n/a | 20260807T200753Z-iwm-confirmed_long-proposal.json |
 | QQQ | CONFIRMED_LONG long | DATA_INCOMPLETE | unclear | WAIT_DATA | 722.70 | n/a | 20260807T195223Z-qqq-confirmed_long-proposal.json |
 | RSP | PENDING long | DATA_INCOMPLETE | unclear | WAIT_DATA | 220.09 | n/a | 20260807T172217Z-rsp-confirmed_long-proposal.json |
-| SHY | DATA_INCOMPLETE none | n/a | not actionable | WAIT_DATA | 81.91 | n/a | 20260806T193429Z-shy-confirmed_short-proposal.json |
 | SPY | CONFIRMED_LONG long | DATA_INCOMPLETE | unclear | WAIT_DATA | 773.16 | n/a | 20260807T195732Z-spy-confirmed_long-proposal.json |
 | UNG | PENDING short | DATA_INCOMPLETE | unclear | WAIT_DATA | 9.73 | n/a | 20260807T190546Z-ung-confirmed_short-proposal.json |
+| SHY | PENDING short | n/a | unclear | WAIT | 81.91 | n/a | 20260806T193429Z-shy-confirmed_short-proposal.json |
 | GLD | NEGATED short | n/a | not actionable | REJECT_OR_IGNORE | 398.47 | n/a | 20260803T175312Z-gld-confirmed_short-proposal.json |
 | SLV | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 57.51 | n/a | 20260803T122434Z-slv-confirmed_short-proposal.json |
 | TLT | NEGATED short | DATA_INCOMPLETE | not actionable | REJECT_OR_IGNORE | 82.76 | n/a | 20260807T183952Z-tlt-confirmed_short-proposal.json |
@@ -29,8 +29,8 @@
 - IWM: WAIT_DATA; 5m flow: n/a; 5m reason: Long confirmation: trigger reclaimed/held with 5-minute structure.
 - QQQ: WAIT_DATA; 5m flow: n/a; 5m reason: Long confirmation: trigger reclaimed/held with 5-minute structure.
 - RSP: WAIT_DATA; 5m flow: n/a; 5m reason: Long candidate is still waiting for 5-minute confirmation.
-- SHY: WAIT_DATA; 5m flow: n/a; 5m reason: Need at least 30 recent 5-minute bars before Hermes can make a live decision.
 - SPY: WAIT_DATA; 5m flow: n/a; 5m reason: Long confirmation: trigger reclaimed/held with 5-minute structure.
 - UNG: WAIT_DATA; 5m flow: n/a; 5m reason: Short candidate is still waiting for 5-minute confirmation.
+- SHY: WAIT; 5m flow: n/a; 5m reason: Short candidate is still waiting for 5-minute confirmation.
 - GLD: REJECT_OR_IGNORE; 5m flow: n/a; 5m reason: Short idea negated: reclaim or 5-minute upside structure appeared.
 - SLV: REJECT_OR_IGNORE; 5m flow: n/a; 5m reason: Short idea negated: reclaim or 5-minute upside structure appeared.
