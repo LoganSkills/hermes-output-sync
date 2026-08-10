@@ -1,101 +1,101 @@
 {
   "symbols": {
     "DIA": {
-      "direction": "none",
+      "direction": "long",
       "failure_level": 519.185,
-      "price": null,
-      "state": "DATA_INCOMPLETE",
+      "price": 539.58,
+      "state": "PENDING",
       "trigger_level": 519.185,
-      "updated_at": "2026-08-10T02:46:57Z"
+      "updated_at": "2026-08-10T02:52:06Z"
     },
     "GLD": {
-      "direction": "none",
+      "direction": "short",
       "failure_level": 370.966875,
-      "price": null,
-      "state": "DATA_INCOMPLETE",
+      "price": 398.47,
+      "state": "NEGATED",
       "trigger_level": 370.966875,
-      "updated_at": "2026-08-10T02:46:57Z"
+      "updated_at": "2026-08-10T02:52:06Z"
     },
     "IEF": {
-      "direction": "none",
+      "direction": "short",
       "failure_level": 93.62875,
-      "price": null,
-      "state": "DATA_INCOMPLETE",
+      "price": 93.16,
+      "state": "PENDING",
       "trigger_level": 93.62875,
-      "updated_at": "2026-08-10T02:46:57Z"
+      "updated_at": "2026-08-10T02:52:06Z"
     },
     "IWM": {
-      "direction": "none",
+      "direction": "long",
       "failure_level": 290.68,
-      "price": null,
-      "state": "DATA_INCOMPLETE",
+      "price": 301.67,
+      "state": "CONFIRMED_LONG",
       "trigger_level": 290.68,
-      "updated_at": "2026-08-10T02:46:57Z"
+      "updated_at": "2026-08-10T02:52:06Z"
     },
     "QQQ": {
-      "direction": "none",
+      "direction": "long",
       "failure_level": 686.78,
-      "price": null,
-      "state": "DATA_INCOMPLETE",
+      "price": 722.7,
+      "state": "CONFIRMED_LONG",
       "trigger_level": 686.78,
-      "updated_at": "2026-08-10T02:46:57Z"
+      "updated_at": "2026-08-10T02:52:06Z"
     },
     "RSP": {
-      "direction": "none",
+      "direction": "long",
       "failure_level": 211.82433333333333,
-      "price": null,
-      "state": "DATA_INCOMPLETE",
+      "price": 220.085,
+      "state": "PENDING",
       "trigger_level": 211.82433333333333,
-      "updated_at": "2026-08-10T02:46:57Z"
+      "updated_at": "2026-08-10T02:52:06Z"
     },
     "SHY": {
       "direction": "none",
       "failure_level": 81.93375,
-      "price": null,
+      "price": 81.91,
       "state": "DATA_INCOMPLETE",
       "trigger_level": 81.93375,
-      "updated_at": "2026-08-10T02:46:57Z"
+      "updated_at": "2026-08-10T02:52:06Z"
     },
     "SLV": {
-      "direction": "none",
+      "direction": "short",
       "failure_level": 52.225,
-      "price": null,
-      "state": "DATA_INCOMPLETE",
+      "price": 57.51,
+      "state": "NEGATED",
       "trigger_level": 52.225,
-      "updated_at": "2026-08-10T02:46:57Z"
+      "updated_at": "2026-08-10T02:52:06Z"
     },
     "SPY": {
-      "direction": "none",
+      "direction": "long",
       "failure_level": 743.5550000000001,
-      "price": null,
-      "state": "DATA_INCOMPLETE",
+      "price": 773.16,
+      "state": "CONFIRMED_LONG",
       "trigger_level": 743.5550000000001,
-      "updated_at": "2026-08-10T02:46:57Z"
+      "updated_at": "2026-08-10T02:52:06Z"
     },
     "TLT": {
-      "direction": "none",
+      "direction": "short",
       "failure_level": 83.79,
-      "price": null,
-      "state": "DATA_INCOMPLETE",
+      "price": 82.76,
+      "state": "NEGATED",
       "trigger_level": 83.79,
-      "updated_at": "2026-08-10T02:46:57Z"
+      "updated_at": "2026-08-10T02:52:06Z"
     },
     "UNG": {
-      "direction": "none",
+      "direction": "short",
       "failure_level": 10.19,
-      "price": null,
-      "state": "DATA_INCOMPLETE",
+      "price": 9.73,
+      "state": "PENDING",
       "trigger_level": 10.19,
-      "updated_at": "2026-08-10T02:46:57Z"
+      "updated_at": "2026-08-10T02:52:06Z"
     },
     "USO": {
-      "direction": "none",
+      "direction": "long",
       "failure_level": 126.5,
-      "price": null,
-      "state": "DATA_INCOMPLETE",
+      "price": 118.02,
+      "state": "NEGATED",
       "trigger_level": 126.5,
-      "updated_at": "2026-08-10T02:46:57Z"
+      "updated_at": "2026-08-10T02:52:06Z"
     }
   },
-  "updated_at": "2026-08-10T02:46:57Z"
+  "updated_at": "2026-08-10T02:52:06Z"
 }
