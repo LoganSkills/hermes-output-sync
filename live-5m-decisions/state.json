@@ -6,7 +6,7 @@
       "price": null,
       "state": "DATA_INCOMPLETE",
       "trigger_level": 519.185,
-      "updated_at": "2026-08-10T02:28:16Z"
+      "updated_at": "2026-08-10T02:37:37Z"
     },
     "GLD": {
       "direction": "none",
@@ -14,7 +14,7 @@
       "price": null,
       "state": "DATA_INCOMPLETE",
       "trigger_level": 370.966875,
-      "updated_at": "2026-08-10T02:28:16Z"
+      "updated_at": "2026-08-10T02:37:37Z"
     },
     "IEF": {
       "direction": "none",
@@ -22,7 +22,7 @@
       "price": null,
       "state": "DATA_INCOMPLETE",
       "trigger_level": 93.62875,
-      "updated_at": "2026-08-10T02:28:16Z"
+      "updated_at": "2026-08-10T02:37:37Z"
     },
     "IWM": {
       "direction": "none",
@@ -30,7 +30,7 @@
       "price": null,
       "state": "DATA_INCOMPLETE",
       "trigger_level": 290.68,
-      "updated_at": "2026-08-10T02:28:16Z"
+      "updated_at": "2026-08-10T02:37:37Z"
     },
     "QQQ": {
       "direction": "none",
@@ -38,7 +38,7 @@
       "price": null,
       "state": "DATA_INCOMPLETE",
       "trigger_level": 686.78,
-      "updated_at": "2026-08-10T02:28:16Z"
+      "updated_at": "2026-08-10T02:37:37Z"
     },
     "RSP": {
       "direction": "none",
@@ -46,7 +46,7 @@
       "price": null,
       "state": "DATA_INCOMPLETE",
       "trigger_level": 211.82433333333333,
-      "updated_at": "2026-08-10T02:28:16Z"
+      "updated_at": "2026-08-10T02:37:37Z"
     },
     "SHY": {
       "direction": "none",
@@ -54,7 +54,7 @@
       "price": null,
       "state": "DATA_INCOMPLETE",
       "trigger_level": 81.93375,
-      "updated_at": "2026-08-10T02:28:16Z"
+      "updated_at": "2026-08-10T02:37:37Z"
     },
     "SLV": {
       "direction": "none",
@@ -62,7 +62,7 @@
       "price": null,
       "state": "DATA_INCOMPLETE",
       "trigger_level": 52.225,
-      "updated_at": "2026-08-10T02:28:16Z"
+      "updated_at": "2026-08-10T02:37:37Z"
     },
     "SPY": {
       "direction": "none",
@@ -70,7 +70,7 @@
       "price": null,
       "state": "DATA_INCOMPLETE",
       "trigger_level": 743.5550000000001,
-      "updated_at": "2026-08-10T02:28:16Z"
+      "updated_at": "2026-08-10T02:37:37Z"
     },
     "TLT": {
       "direction": "none",
@@ -78,7 +78,7 @@
       "price": null,
       "state": "DATA_INCOMPLETE",
       "trigger_level": 83.79,
-      "updated_at": "2026-08-10T02:28:16Z"
+      "updated_at": "2026-08-10T02:37:37Z"
     },
     "UNG": {
       "direction": "none",
@@ -86,7 +86,7 @@
       "price": null,
       "state": "DATA_INCOMPLETE",
       "trigger_level": 10.19,
-      "updated_at": "2026-08-10T02:28:16Z"
+      "updated_at": "2026-08-10T02:37:37Z"
     },
     "USO": {
       "direction": "none",
@@ -94,8 +94,8 @@
       "price": null,
       "state": "DATA_INCOMPLETE",
       "trigger_level": 126.5,
-      "updated_at": "2026-08-10T02:28:16Z"
+      "updated_at": "2026-08-10T02:37:37Z"
     }
   },
-  "updated_at": "2026-08-10T02:28:16Z"
+  "updated_at": "2026-08-10T02:37:37Z"
 }
